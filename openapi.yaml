@@ -1,0 +1,98 @@
+openapi: "3.0.0"
+info:
+  contact:
+    url: "https://github.com/t-huyeng/geoportal-openapis"
+    name: Geoportal-OpenAPIs GitHub
+  version: "1.0.0"
+  title: "Sammlung der OpenAPI-Spezifikationen von verschiedenen Geoportalen"
+  description:
+    "Diese API gibt jeweils eine Liste von Informationen über die von einem Geoportal zur Verfügung gestellten APIs zurück. Die Spezifikationen sowie die APIs werden von den jeweiligen Portalen zur Verfügung gestellt. Damit auch ein direkter Zugriff auf die Spezifikationen mittels eines Webservers (CORS) möglich ist, wurden die OpenAPI-Spezifikationen ebenfalls auf [GitHub](https://github.com/t-huyeng/geoportal-openapis) abgelegt.
+
+
+    Die Nutzungsbedingungen der APIs ist dem jeweiligen Portal bzw. der API-Spezifikation zu entnehmen.
+
+    ## Aktuelle Geoportale
+
+    * [Geoportal Hessen](www.geoportal.hessen.de)
+
+    * [Geoportal Rheinland Pfalz](www.geoportal.rlp.de)
+
+    * [Geoportal Saarland](geoportal.saarland.de)
+
+
+    "
+servers:
+  - url: "https://t-huyeng.github.io/geoportal-openapis"
+
+tags:
+  - name: Geoportal
+
+paths:
+  /geoportal_he.json:
+    get:
+      summary: Geoportal Hessen
+      description: "Liste der APIs mit OpenAPI-Spezifikation des Geoportals Hessen"
+      operationId: getGeoportalHe
+      tags:
+        - Geoportal
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/GeoportalResult"
+
+  /geoportal_rlp.json:
+    get:
+      summary: Geoportal Rheinland Pfalz
+      description: "Liste der APIs mit OpenAPI-Spezifikation des Geoportals Rheinland Pfalz"
+      operationId: getGeoportalRLP
+      tags:
+        - Geoportal
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/GeoportalResult"
+
+  /geoportal_sl.json:
+    get:
+      summary: Geoportal Saarland
+      description: "Liste der APIs mit OpenAPI-Spezifikation des Geoportals Saarland"
+      operationId: getGeoportalSL
+      tags:
+        - Geoportal
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/GeoportalResult"
+
+components:
+  schemas:
+    GeoportalResult:
+      type: array
+      items:
+        type: object
+        properties:
+          name:
+            type: string
+            example: Hessen Sichere Geodaten WFS
+            description: "Name"
+          url:
+            type: string
+            example: https://www.geoportal.hessen.de/spatial-objects/260
+            description: "Offizelle URL"
+          rawOpenAPI:
+            type: string
+            example: https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/260.jso
+            description: "OpenAPI Spezifikation - GitHub Clone"
+          id:
+            type: integer
+            example: 260
+            description: "ID"

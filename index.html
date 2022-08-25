@@ -4,17 +4,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Geoportal Mapping files</title>
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/swagger-ui/3.51.1/swagger-ui.min.css">
+    <title>Sammlung der OpenAPI-Spezifikationen von verschiedenen Geoportalen</title>
 
 <body>
-    <h1>Geoportal Mapping files</h1>
-    <a href="./geoportal_rlp.json">
-        <button> Geoportal RLP </button>
-    </a>
-    <a href="./geoportal_he.json">
-        <button> Geoportal HE </button>
-    </a>
+    <div id="openapi">
 
+        <script src="//cdnjs.cloudflare.com/ajax/libs/swagger-ui/3.51.1/swagger-ui-bundle.min.js"></script>
+        <script>
+            window.onload = function () {
+                const ui = SwaggerUIBundle({
+                    url: "openapi.yaml",
+                    dom_id: "#openapi",
+                    requestInterceptor: function (req) {
+
+                        if (this.url !== "openapi.yaml") {
+                            var url = new URL(req.url);
+                            req.url = url.href;
+                        }
+                        return req;
+                    },
+                })
+            }
+        </script>
 </body>
 
 </html>
