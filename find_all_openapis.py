@@ -42,8 +42,12 @@ def call_api_all(folder, mappingfile):
                 if (next((item for item in mapping if item["id"] == i), None)) is None:
                     entry = {
                         "name": repoData["info"]["title"],
-                        "rawOpenAPI": main_url + str(i) + "/api",
-                        "url": folder + "/" + str(i) + ".json",
+                        "url": main_url + str(i),
+                        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/"
+                        + folder
+                        + "/"
+                        + str(i)
+                        + ".json",
                         "id": i,
                     }
                     mapping.append(entry)
@@ -52,9 +56,9 @@ def call_api_all(folder, mappingfile):
                 else:
                     with open(folder + "/" + str(i) + ".json", "w") as myfile:
                         myfile.write(text)
-                time.sleep(0.1)
             else:
                 print(i, "not found")
+            time.sleep(0.1)
     with open(mappingfile, "w") as f:
         json.dump(
             mapping,
@@ -69,5 +73,8 @@ if __name__ == "__main__":
 
     main_url = "https://www.geoportal.hessen.de/spatial-objects/"
     call_api_all("geoportal-he", "geoportal_he.json")
+
+    main_url = "https://www.geoportal.saarland.de/spatial-objects/"
+    call_api_all("geoportal-sl", "geoportal_sl.json")
     print("done")
     sys.exit(0)

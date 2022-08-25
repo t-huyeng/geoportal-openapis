@@ -1,2318 +1,2318 @@
 [
     {
         "name": "Hessen Sichere Geodaten WFS",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/260/api",
-        "url": "geoportal-he/260.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/260",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/260.json",
         "id": 260
     },
     {
         "name": "Gew\u00e4ssernetz Hessen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/262/api",
-        "url": "geoportal-he/262.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/262",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/262.json",
         "id": 262
     },
     {
         "name": "Gebiete naturbedingter Risiken Hessen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/264/api",
-        "url": "geoportal-he/264.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/264",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/264.json",
         "id": 264
     },
     {
         "name": "Produktions- und Industrieanlagen Hessen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/265/api",
-        "url": "geoportal-he/265.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/265",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/265.json",
         "id": 265
     },
     {
         "name": "Schutzgebiete Hessen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/266/api",
-        "url": "geoportal-he/266.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/266",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/266.json",
         "id": 266
     },
     {
         "name": "Lebensr\u00e4ume und Biotope in Hessen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/267/api",
-        "url": "geoportal-he/267.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/267",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/267.json",
         "id": 267
     },
     {
         "name": "Geologie Hessen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/268/api",
-        "url": "geoportal-he/268.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/268",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/268.json",
         "id": 268
     },
     {
         "name": "Umwelt\u00fcberwachung Hessen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/269/api",
-        "url": "geoportal-he/269.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/269",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/269.json",
         "id": 269
     },
     {
         "name": "Bewirtschaftungsgebiete Hessen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/272/api",
-        "url": "geoportal-he/272.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/272",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/272.json",
         "id": 272
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Bebra",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/285/api",
-        "url": "geoportal-he/285.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/285",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/285.json",
         "id": 285
     },
     {
         "name": "Bebauungspl\u00e4ne Breitenbach aH",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/286/api",
-        "url": "geoportal-he/286.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/286",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/286.json",
         "id": 286
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Friedewald",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/287/api",
-        "url": "geoportal-he/287.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/287",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/287.json",
         "id": 287
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Hauneck",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/288/api",
-        "url": "geoportal-he/288.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/288",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/288.json",
         "id": 288
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Haunetal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/289/api",
-        "url": "geoportal-he/289.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/289",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/289.json",
         "id": 289
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Heringen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/290/api",
-        "url": "geoportal-he/290.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/290",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/290.json",
         "id": 290
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Hohenroda",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/291/api",
-        "url": "geoportal-he/291.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/291",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/291.json",
         "id": 291
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Kirchheim",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/293/api",
-        "url": "geoportal-he/293.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/293",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/293.json",
         "id": 293
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Ludwigsau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/294/api",
-        "url": "geoportal-he/294.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/294",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/294.json",
         "id": 294
     },
     {
         "name": "Bebauungspl\u00e4ne Nentershausen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/295/api",
-        "url": "geoportal-he/295.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/295",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/295.json",
         "id": 295
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Neuenstein",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/296/api",
-        "url": "geoportal-he/296.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/296",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/296.json",
         "id": 296
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Niederaula",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/297/api",
-        "url": "geoportal-he/297.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/297",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/297.json",
         "id": 297
     },
     {
         "name": "Bebauungspl\u00e4ne Gem. Philippsthal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/299/api",
-        "url": "geoportal-he/299.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/299",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/299.json",
         "id": 299
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Ronshausen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/300/api",
-        "url": "geoportal-he/300.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/300",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/300.json",
         "id": 300
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Rotenburg adF",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/301/api",
-        "url": "geoportal-he/301.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/301",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/301.json",
         "id": 301
     },
     {
         "name": "Bebauungspl\u00e4ne Gem. Schenklengsfeld",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/302/api",
-        "url": "geoportal-he/302.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/302",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/302.json",
         "id": 302
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Wildeck",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/303/api",
-        "url": "geoportal-he/303.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/303",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/303.json",
         "id": 303
     },
     {
         "name": "Bebauungspl\u00e4ne Ederm\u00fcnde",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/304/api",
-        "url": "geoportal-he/304.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/304",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/304.json",
         "id": 304
     },
     {
         "name": "Bebauungspl\u00e4ne Felsberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/305/api",
-        "url": "geoportal-he/305.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/305",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/305.json",
         "id": 305
     },
     {
         "name": "Bebauungspl\u00e4ne Fritzlar",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/306/api",
-        "url": "geoportal-he/306.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/306",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/306.json",
         "id": 306
     },
     {
         "name": "Bebauungspl\u00e4ne Gudensberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/307/api",
-        "url": "geoportal-he/307.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/307",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/307.json",
         "id": 307
     },
     {
         "name": "Bebauungspl\u00e4ne Guxhagen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/308/api",
-        "url": "geoportal-he/308.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/308",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/308.json",
         "id": 308
     },
     {
         "name": "Bebauungspl\u00e4ne Homberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/309/api",
-        "url": "geoportal-he/309.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/309",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/309.json",
         "id": 309
     },
     {
         "name": "Bebauungspl\u00e4ne Kn\u00fcllwald",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/310/api",
-        "url": "geoportal-he/310.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/310",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/310.json",
         "id": 310
     },
     {
         "name": "Bebauungspl\u00e4ne K\u00f6rle",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/311/api",
-        "url": "geoportal-he/311.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/311",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/311.json",
         "id": 311
     },
     {
         "name": "Bebauungspl\u00e4ne Malsfeld",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/312/api",
-        "url": "geoportal-he/312.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/312",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/312.json",
         "id": 312
     },
     {
         "name": "Bebauungspl\u00e4ne Melsungen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/313/api",
-        "url": "geoportal-he/313.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/313",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/313.json",
         "id": 313
     },
     {
         "name": "Bebauungspl\u00e4ne Morschen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/314/api",
-        "url": "geoportal-he/314.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/314",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/314.json",
         "id": 314
     },
     {
         "name": "Bebauungspl\u00e4ne Neuental",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/315/api",
-        "url": "geoportal-he/315.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/315",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/315.json",
         "id": 315
     },
     {
         "name": "Bebauungspl\u00e4ne Neukirchen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/317/api",
-        "url": "geoportal-he/317.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/317",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/317.json",
         "id": 317
     },
     {
         "name": "Bebauungspl\u00e4ne Niedenstein",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/318/api",
-        "url": "geoportal-he/318.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/318",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/318.json",
         "id": 318
     },
     {
         "name": "Bebauungspl\u00e4ne Oberaula",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/319/api",
-        "url": "geoportal-he/319.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/319",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/319.json",
         "id": 319
     },
     {
         "name": "Bebauungspl\u00e4ne Ottrau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/320/api",
-        "url": "geoportal-he/320.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/320",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/320.json",
         "id": 320
     },
     {
         "name": "Bebauungspl\u00e4ne Schrecksbach",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/321/api",
-        "url": "geoportal-he/321.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/321",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/321.json",
         "id": 321
     },
     {
         "name": "Bebauungspl\u00e4ne Schwarzenborn",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/322/api",
-        "url": "geoportal-he/322.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/322",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/322.json",
         "id": 322
     },
     {
         "name": "Bebauungspl\u00e4ne Spangenberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/323/api",
-        "url": "geoportal-he/323.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/323",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/323.json",
         "id": 323
     },
     {
         "name": "Bebauungspl\u00e4ne Gem. Willingshausen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/324/api",
-        "url": "geoportal-he/324.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/324",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/324.json",
         "id": 324
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Berkatal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/325/api",
-        "url": "geoportal-he/325.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/325",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/325.json",
         "id": 325
     },
     {
         "name": "Bebauungspl\u00e4ne Kreisstadt Eschwege",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/326/api",
-        "url": "geoportal-he/326.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/326",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/326.json",
         "id": 326
     },
     {
         "name": "Bebauungspl\u00e4ne Gem. Herleshausen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/327/api",
-        "url": "geoportal-he/327.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/327",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/327.json",
         "id": 327
     },
     {
         "name": "Bebauungspl\u00e4ne Hess. Lichtenau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/328/api",
-        "url": "geoportal-he/328.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/328",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/328.json",
         "id": 328
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Meinhard",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/329/api",
-        "url": "geoportal-he/329.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/329",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/329.json",
         "id": 329
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Meissner",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/330/api",
-        "url": "geoportal-he/330.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/330",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/330.json",
         "id": 330
     },
     {
         "name": "Bebauungspl\u00e4ne Gem. Neu-Eichenberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/331/api",
-        "url": "geoportal-he/331.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/331",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/331.json",
         "id": 331
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Sontra",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/332/api",
-        "url": "geoportal-he/332.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/332",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/332.json",
         "id": 332
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Waldkappel",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/333/api",
-        "url": "geoportal-he/333.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/333",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/333.json",
         "id": 333
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Wanfried",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/334/api",
-        "url": "geoportal-he/334.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/334",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/334.json",
         "id": 334
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Wehretal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/335/api",
-        "url": "geoportal-he/335.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/335",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/335.json",
         "id": 335
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Weissenborn",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/336/api",
-        "url": "geoportal-he/336.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/336",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/336.json",
         "id": 336
     },
     {
         "name": "Bebauungspl\u00e4ne Gem. Witzenhausen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/337/api",
-        "url": "geoportal-he/337.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/337",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/337.json",
         "id": 337
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Ringgau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/338/api",
-        "url": "geoportal-he/338.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/338",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/338.json",
         "id": 338
     },
     {
         "name": "LFDH WFS Dienste",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/342/api",
-        "url": "geoportal-he/342.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/342",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/342.json",
         "id": 342
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Alheim",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/363/api",
-        "url": "geoportal-he/363.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/363",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/363.json",
         "id": 363
     },
     {
         "name": "Bebauungspl\u00e4ne Bad Zwesten",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/364/api",
-        "url": "geoportal-he/364.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/364",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/364.json",
         "id": 364
     },
     {
         "name": "Bebauungspl\u00e4ne Borken",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/365/api",
-        "url": "geoportal-he/365.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/365",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/365.json",
         "id": 365
     },
     {
         "name": "Bebauungspl\u00e4ne Frielendorf",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/366/api",
-        "url": "geoportal-he/366.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/366",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/366.json",
         "id": 366
     },
     {
         "name": "Bebauungspl\u00e4ne Gilserberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/367/api",
-        "url": "geoportal-he/367.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/367",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/367.json",
         "id": 367
     },
     {
         "name": "Bebauungspl\u00e4ne Jesberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/368/api",
-        "url": "geoportal-he/368.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/368",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/368.json",
         "id": 368
     },
     {
         "name": "Bebauungspl\u00e4ne Schwalmstadt",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/369/api",
-        "url": "geoportal-he/369.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/369",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/369.json",
         "id": 369
     },
     {
         "name": "Bebauungspl\u00e4ne Wabern",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/370/api",
-        "url": "geoportal-he/370.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/370",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/370.json",
         "id": 370
     },
     {
         "name": "Bebauungspl\u00e4ne Bad Sooden-Allendorf",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/371/api",
-        "url": "geoportal-he/371.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/371",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/371.json",
         "id": 371
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Grossalmerode",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/372/api",
-        "url": "geoportal-he/372.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/372",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/372.json",
         "id": 372
     },
     {
         "name": "Boden Hessen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/373/api",
-        "url": "geoportal-he/373.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/373",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/373.json",
         "id": 373
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Allendorf (Eder)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/379/api",
-        "url": "geoportal-he/379.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/379",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/379.json",
         "id": 379
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Bad Arolsen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/380/api",
-        "url": "geoportal-he/380.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/380",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/380.json",
         "id": 380
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Bad Wildungen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/381/api",
-        "url": "geoportal-he/381.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/381",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/381.json",
         "id": 381
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Battenberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/382/api",
-        "url": "geoportal-he/382.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/382",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/382.json",
         "id": 382
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Bromskirchen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/383/api",
-        "url": "geoportal-he/383.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/383",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/383.json",
         "id": 383
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Burgwald",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/384/api",
-        "url": "geoportal-he/384.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/384",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/384.json",
         "id": 384
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Diemelsee",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/385/api",
-        "url": "geoportal-he/385.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/385",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/385.json",
         "id": 385
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Diemelstadt",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/386/api",
-        "url": "geoportal-he/386.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/386",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/386.json",
         "id": 386
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Edertal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/387/api",
-        "url": "geoportal-he/387.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/387",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/387.json",
         "id": 387
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Frankenau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/388/api",
-        "url": "geoportal-he/388.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/388",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/388.json",
         "id": 388
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Frankenberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/389/api",
-        "url": "geoportal-he/389.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/389",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/389.json",
         "id": 389
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Frankenberg (Eder)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/390/api",
-        "url": "geoportal-he/390.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/390",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/390.json",
         "id": 390
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Haina",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/391/api",
-        "url": "geoportal-he/391.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/391",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/391.json",
         "id": 391
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Hatzfeld",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/392/api",
-        "url": "geoportal-he/392.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/392",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/392.json",
         "id": 392
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Korbach",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/393/api",
-        "url": "geoportal-he/393.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/393",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/393.json",
         "id": 393
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Lichtenfels",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/394/api",
-        "url": "geoportal-he/394.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/394",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/394.json",
         "id": 394
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Rosenthal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/395/api",
-        "url": "geoportal-he/395.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/395",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/395.json",
         "id": 395
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Twistetal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/396/api",
-        "url": "geoportal-he/396.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/396",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/396.json",
         "id": 396
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde V\u00f6hl",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/397/api",
-        "url": "geoportal-he/397.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/397",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/397.json",
         "id": 397
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Volkmarsen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/398/api",
-        "url": "geoportal-he/398.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/398",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/398.json",
         "id": 398
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Waldeck",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/399/api",
-        "url": "geoportal-he/399.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/399",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/399.json",
         "id": 399
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Willingen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/400/api",
-        "url": "geoportal-he/400.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/400",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/400.json",
         "id": 400
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Bad Hersfeld",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/401/api",
-        "url": "geoportal-he/401.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/401",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/401.json",
         "id": 401
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Alsfeld",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/408/api",
-        "url": "geoportal-he/408.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/408",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/408.json",
         "id": 408
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Antrifttal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/409/api",
-        "url": "geoportal-he/409.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/409",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/409.json",
         "id": 409
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Feldatal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/410/api",
-        "url": "geoportal-he/410.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/410",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/410.json",
         "id": 410
     },
     {
         "name": "Bebauungspl\u00e4ne Freiensteinau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/411/api",
-        "url": "geoportal-he/411.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/411",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/411.json",
         "id": 411
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Grebenau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/412/api",
-        "url": "geoportal-he/412.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/412",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/412.json",
         "id": 412
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Grebenhain",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/413/api",
-        "url": "geoportal-he/413.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/413",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/413.json",
         "id": 413
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Herbstein",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/414/api",
-        "url": "geoportal-he/414.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/414",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/414.json",
         "id": 414
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Homberg (Ohm)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/415/api",
-        "url": "geoportal-he/415.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/415",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/415.json",
         "id": 415
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Kirtorf",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/416/api",
-        "url": "geoportal-he/416.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/416",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/416.json",
         "id": 416
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Lautertal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/417/api",
-        "url": "geoportal-he/417.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/417",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/417.json",
         "id": 417
     },
     {
         "name": "Bebauungspl\u00e4ne der Gemeinde M\u00fccke",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/418/api",
-        "url": "geoportal-he/418.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/418",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/418.json",
         "id": 418
     },
     {
         "name": "Bebauungspl\u00e4ne der Stadt Romrod",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/419/api",
-        "url": "geoportal-he/419.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/419",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/419.json",
         "id": 419
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Schlitz",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/420/api",
-        "url": "geoportal-he/420.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/420",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/420.json",
         "id": 420
     },
     {
         "name": "Bebauungspl\u00e4ne Schwalmtal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/421/api",
-        "url": "geoportal-he/421.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/421",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/421.json",
         "id": 421
     },
     {
         "name": "Bebauungspl\u00e4ne Stadt Ulrichstein",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/422/api",
-        "url": "geoportal-he/422.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/422",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/422.json",
         "id": 422
     },
     {
         "name": "Bebauungspl\u00e4ne Gemeinde Wartenberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/423/api",
-        "url": "geoportal-he/423.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/423",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/423.json",
         "id": 423
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Bad Wildungen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/444/api",
-        "url": "geoportal-he/444.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/444",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/444.json",
         "id": 444
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Bad Arolsen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/445/api",
-        "url": "geoportal-he/445.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/445",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/445.json",
         "id": 445
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Allendorf (Eder)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/446/api",
-        "url": "geoportal-he/446.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/446",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/446.json",
         "id": 446
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Battenberg (Eder)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/447/api",
-        "url": "geoportal-he/447.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/447",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/447.json",
         "id": 447
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Bromskirchen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/448/api",
-        "url": "geoportal-he/448.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/448",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/448.json",
         "id": 448
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Diemelstadt",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/449/api",
-        "url": "geoportal-he/449.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/449",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/449.json",
         "id": 449
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Edertal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/450/api",
-        "url": "geoportal-he/450.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/450",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/450.json",
         "id": 450
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Frankenau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/451/api",
-        "url": "geoportal-he/451.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/451",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/451.json",
         "id": 451
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Frankenberg (Eder)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/452/api",
-        "url": "geoportal-he/452.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/452",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/452.json",
         "id": 452
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Gem\u00fcnden (Wohra)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/453/api",
-        "url": "geoportal-he/453.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/453",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/453.json",
         "id": 453
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Burgwald",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/454/api",
-        "url": "geoportal-he/454.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/454",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/454.json",
         "id": 454
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Haina (Kloster)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/455/api",
-        "url": "geoportal-he/455.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/455",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/455.json",
         "id": 455
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Hatzfeld (Eder)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/456/api",
-        "url": "geoportal-he/456.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/456",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/456.json",
         "id": 456
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Korbach",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/457/api",
-        "url": "geoportal-he/457.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/457",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/457.json",
         "id": 457
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Lichtenfels",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/458/api",
-        "url": "geoportal-he/458.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/458",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/458.json",
         "id": 458
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Rosenthal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/459/api",
-        "url": "geoportal-he/459.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/459",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/459.json",
         "id": 459
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Twistetal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/460/api",
-        "url": "geoportal-he/460.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/460",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/460.json",
         "id": 460
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde V\u00f6hl",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/461/api",
-        "url": "geoportal-he/461.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/461",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/461.json",
         "id": 461
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Waldeck",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/463/api",
-        "url": "geoportal-he/463.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/463",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/463.json",
         "id": 463
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Willingen (Upland)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/464/api",
-        "url": "geoportal-he/464.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/464",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/464.json",
         "id": 464
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Volkmarsen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/466/api",
-        "url": "geoportal-he/466.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/466",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/466.json",
         "id": 466
     },
     {
         "name": "Bebauungspl\u00e4ne Gem\u00fcnden (Felda)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/467/api",
-        "url": "geoportal-he/467.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/467",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/467.json",
         "id": 467
     },
     {
         "name": "TPEE, nichtamtliche Lesefassung, Stand: 28.02.2022",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/478/api",
-        "url": "geoportal-he/478.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/478",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/478.json",
         "id": 478
     },
     {
         "name": "RegFNP Hauptkarte Planstand 31.12.2021 WFS",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/479/api",
-        "url": "geoportal-he/479.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/479",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/479.json",
         "id": 479
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Feldatal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/486/api",
-        "url": "geoportal-he/486.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/486",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/486.json",
         "id": 486
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Antrifttal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/487/api",
-        "url": "geoportal-he/487.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/487",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/487.json",
         "id": 487
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Freiensteinau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/488/api",
-        "url": "geoportal-he/488.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/488",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/488.json",
         "id": 488
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Gem\u00fcnden",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/489/api",
-        "url": "geoportal-he/489.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/489",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/489.json",
         "id": 489
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Grebenhain",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/491/api",
-        "url": "geoportal-he/491.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/491",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/491.json",
         "id": 491
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Grebenau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/492/api",
-        "url": "geoportal-he/492.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/492",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/492.json",
         "id": 492
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Kirtorf",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/494/api",
-        "url": "geoportal-he/494.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/494",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/494.json",
         "id": 494
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Lautertal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/496/api",
-        "url": "geoportal-he/496.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/496",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/496.json",
         "id": 496
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Schotten",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/498/api",
-        "url": "geoportal-he/498.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/498",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/498.json",
         "id": 498
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Schwalmtal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/499/api",
-        "url": "geoportal-he/499.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/499",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/499.json",
         "id": 499
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Ulrichstein",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/500/api",
-        "url": "geoportal-he/500.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/500",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/500.json",
         "id": 500
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Wartenberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/501/api",
-        "url": "geoportal-he/501.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/501",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/501.json",
         "id": 501
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Lauterbach",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/502/api",
-        "url": "geoportal-he/502.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/502",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/502.json",
         "id": 502
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne der Stadt Romrod",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/505/api",
-        "url": "geoportal-he/505.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/505",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/505.json",
         "id": 505
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Homberg (Ohm)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/506/api",
-        "url": "geoportal-he/506.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/506",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/506.json",
         "id": 506
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Grebenau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/507/api",
-        "url": "geoportal-he/507.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/507",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/507.json",
         "id": 507
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Kn\u00fcllwald",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/539/api",
-        "url": "geoportal-he/539.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/539",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/539.json",
         "id": 539
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Bad Zwesten",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/540/api",
-        "url": "geoportal-he/540.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/540",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/540.json",
         "id": 540
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Fritzlar",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/541/api",
-        "url": "geoportal-he/541.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/541",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/541.json",
         "id": 541
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Eschwege",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/542/api",
-        "url": "geoportal-he/542.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/542",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/542.json",
         "id": 542
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Hauneck",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/543/api",
-        "url": "geoportal-he/543.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/543",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/543.json",
         "id": 543
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne der Gemeinde Hohenroda",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/544/api",
-        "url": "geoportal-he/544.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/544",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/544.json",
         "id": 544
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Guxhagen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/545/api",
-        "url": "geoportal-he/545.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/545",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/545.json",
         "id": 545
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Spangenberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/546/api",
-        "url": "geoportal-he/546.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/546",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/546.json",
         "id": 546
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Ronshausen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/548/api",
-        "url": "geoportal-he/548.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/548",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/548.json",
         "id": 548
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Kirchheim",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/549/api",
-        "url": "geoportal-he/549.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/549",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/549.json",
         "id": 549
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Wabern",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/550/api",
-        "url": "geoportal-he/550.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/550",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/550.json",
         "id": 550
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Wehretal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/551/api",
-        "url": "geoportal-he/551.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/551",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/551.json",
         "id": 551
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Gemeinde Philippsthal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/552/api",
-        "url": "geoportal-he/552.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/552",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/552.json",
         "id": 552
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Niedenstein",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/553/api",
-        "url": "geoportal-he/553.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/553",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/553.json",
         "id": 553
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Bebra",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/554/api",
-        "url": "geoportal-he/554.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/554",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/554.json",
         "id": 554
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Nentershausen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/555/api",
-        "url": "geoportal-he/555.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/555",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/555.json",
         "id": 555
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Schrecksbach",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/556/api",
-        "url": "geoportal-he/556.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/556",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/556.json",
         "id": 556
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Ludwigsau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/557/api",
-        "url": "geoportal-he/557.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/557",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/557.json",
         "id": 557
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Bad Hersfeld",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/558/api",
-        "url": "geoportal-he/558.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/558",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/558.json",
         "id": 558
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Gemeinde Alheim",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/559/api",
-        "url": "geoportal-he/559.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/559",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/559.json",
         "id": 559
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Gemeinde Mei\u00dfner",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/560/api",
-        "url": "geoportal-he/560.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/560",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/560.json",
         "id": 560
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Wanfried",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/561/api",
-        "url": "geoportal-he/561.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/561",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/561.json",
         "id": 561
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Gemeinde Wei\u00dfenborn",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/562/api",
-        "url": "geoportal-he/562.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/562",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/562.json",
         "id": 562
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Gemeinde Ringgau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/563/api",
-        "url": "geoportal-he/563.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/563",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/563.json",
         "id": 563
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Stadt Sontra",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/564/api",
-        "url": "geoportal-he/564.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/564",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/564.json",
         "id": 564
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Gemeinde Neu-Eichenberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/565/api",
-        "url": "geoportal-he/565.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/565",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/565.json",
         "id": 565
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Gudensberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/566/api",
-        "url": "geoportal-he/566.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/566",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/566.json",
         "id": 566
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Witzenhausen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/567/api",
-        "url": "geoportal-he/567.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/567",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/567.json",
         "id": 567
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Haunetal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/568/api",
-        "url": "geoportal-he/568.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/568",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/568.json",
         "id": 568
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Niederaula",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/569/api",
-        "url": "geoportal-he/569.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/569",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/569.json",
         "id": 569
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Melsungen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/570/api",
-        "url": "geoportal-he/570.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/570",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/570.json",
         "id": 570
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Geimende Breitenbach am Herzberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/571/api",
-        "url": "geoportal-he/571.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/571",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/571.json",
         "id": 571
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Rotenburg an der Fulda",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/572/api",
-        "url": "geoportal-he/572.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/572",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/572.json",
         "id": 572
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Gemeinde Wildeck",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/573/api",
-        "url": "geoportal-he/573.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/573",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/573.json",
         "id": 573
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Schenklengsfeld",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/574/api",
-        "url": "geoportal-he/574.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/574",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/574.json",
         "id": 574
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Malsfeld",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/575/api",
-        "url": "geoportal-he/575.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/575",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/575.json",
         "id": 575
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Ederm\u00fcnde",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/576/api",
-        "url": "geoportal-he/576.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/576",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/576.json",
         "id": 576
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Schwarzenborn",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/577/api",
-        "url": "geoportal-he/577.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/577",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/577.json",
         "id": 577
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Stadt Schwalmstadt",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/578/api",
-        "url": "geoportal-he/578.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/578",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/578.json",
         "id": 578
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Willingshausen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/579/api",
-        "url": "geoportal-he/579.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/579",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/579.json",
         "id": 579
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Jesberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/580/api",
-        "url": "geoportal-he/580.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/580",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/580.json",
         "id": 580
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Gemeinde Meinhard",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/581/api",
-        "url": "geoportal-he/581.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/581",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/581.json",
         "id": 581
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Neukirchen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/582/api",
-        "url": "geoportal-he/582.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/582",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/582.json",
         "id": 582
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Hessisch Lichtenau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/583/api",
-        "url": "geoportal-he/583.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/583",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/583.json",
         "id": 583
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Oberaula",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/585/api",
-        "url": "geoportal-he/585.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/585",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/585.json",
         "id": 585
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Gro\u00dfalmerode",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/586/api",
-        "url": "geoportal-he/586.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/586",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/586.json",
         "id": 586
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Homberg (efze)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/587/api",
-        "url": "geoportal-he/587.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/587",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/587.json",
         "id": 587
     },
     {
         "name": "Landesentwicklungsplan Hessen WFS",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/595/api",
-        "url": "geoportal-he/595.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/595",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/595.json",
         "id": 595
     },
     {
         "name": "Regionalplan Nordhessen WFS",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/596/api",
-        "url": "geoportal-he/596.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/596",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/596.json",
         "id": 596
     },
     {
         "name": "Regionalplan Mittelhessen WFS",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/597/api",
-        "url": "geoportal-he/597.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/597",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/597.json",
         "id": 597
     },
     {
         "name": "Regionalplan S\u00fcdhessen WFS",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/598/api",
-        "url": "geoportal-he/598.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/598",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/598.json",
         "id": 598
     },
     {
         "name": "Landesentwicklungsplan Download Service",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/600/api",
-        "url": "geoportal-he/600.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/600",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/600.json",
         "id": 600
     },
     {
         "name": "Regionalplan Nordhessen Download Service",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/601/api",
-        "url": "geoportal-he/601.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/601",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/601.json",
         "id": 601
     },
     {
         "name": "Regionalplan Mittelhessen Download Service",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/602/api",
-        "url": "geoportal-he/602.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/602",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/602.json",
         "id": 602
     },
     {
         "name": "Regionalplan S\u00fcdhessen Download Service",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/603/api",
-        "url": "geoportal-he/603.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/603",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/603.json",
         "id": 603
     },
     {
         "name": "Bauleitplanung Stadt Am\u00f6neburg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/605/api",
-        "url": "geoportal-he/605.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/605",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/605.json",
         "id": 605
     },
     {
         "name": "Bauleitplanung Stadt Am\u00f6neburg (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/606/api",
-        "url": "geoportal-he/606.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/606",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/606.json",
         "id": 606
     },
     {
         "name": "Bauleitplanung Gemeinde Angelburg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/607/api",
-        "url": "geoportal-he/607.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/607",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/607.json",
         "id": 607
     },
     {
         "name": "Bauleitplanung Gemeinde Angelburg (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/608/api",
-        "url": "geoportal-he/608.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/608",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/608.json",
         "id": 608
     },
     {
         "name": "Bauleitplanung Gemeinde Bad Endbach",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/609/api",
-        "url": "geoportal-he/609.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/609",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/609.json",
         "id": 609
     },
     {
         "name": "Bauleitplanung Gemeinde Bad Endbach (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/610/api",
-        "url": "geoportal-he/610.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/610",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/610.json",
         "id": 610
     },
     {
         "name": "Bauleitplanung Stadt Biedenkopf",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/611/api",
-        "url": "geoportal-he/611.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/611",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/611.json",
         "id": 611
     },
     {
         "name": "Bauleitplanung Stadt Biedenkopf (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/612/api",
-        "url": "geoportal-he/612.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/612",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/612.json",
         "id": 612
     },
     {
         "name": "Bauleitplanung Gemeinde Breidenbach",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/613/api",
-        "url": "geoportal-he/613.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/613",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/613.json",
         "id": 613
     },
     {
         "name": "Bauleitplanung Gemeinde Breidenbach (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/614/api",
-        "url": "geoportal-he/614.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/614",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/614.json",
         "id": 614
     },
     {
         "name": "Bauleitplanung Gemeinde C\u00f6lbe",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/615/api",
-        "url": "geoportal-he/615.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/615",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/615.json",
         "id": 615
     },
     {
         "name": "Bauleitplanung Gemeinde C\u00f6lbe (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/616/api",
-        "url": "geoportal-he/616.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/616",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/616.json",
         "id": 616
     },
     {
         "name": "Bauleitplanung Gemeinde Dautphetal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/617/api",
-        "url": "geoportal-he/617.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/617",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/617.json",
         "id": 617
     },
     {
         "name": "Bauleitplanung Gemeinde Dautphetal (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/618/api",
-        "url": "geoportal-he/618.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/618",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/618.json",
         "id": 618
     },
     {
         "name": "Bauleitplanung Gemeinde Ebsdorfergrund",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/619/api",
-        "url": "geoportal-he/619.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/619",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/619.json",
         "id": 619
     },
     {
         "name": "Bauleitplanung Gemeinde Ebsdorfergrund (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/620/api",
-        "url": "geoportal-he/620.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/620",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/620.json",
         "id": 620
     },
     {
         "name": "Bauleitplanung Gemeinde Fronhausen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/621/api",
-        "url": "geoportal-he/621.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/621",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/621.json",
         "id": 621
     },
     {
         "name": "Bauleitplanung Gemeinde Fronhausen (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/622/api",
-        "url": "geoportal-he/622.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/622",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/622.json",
         "id": 622
     },
     {
         "name": "Bauleitplanung Stadt Gladenbach",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/623/api",
-        "url": "geoportal-he/623.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/623",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/623.json",
         "id": 623
     },
     {
         "name": "Bauleitplanung Stadt Gladenbach (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/624/api",
-        "url": "geoportal-he/624.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/624",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/624.json",
         "id": 624
     },
     {
         "name": "Bauleitplanung Stadt Kirchhain",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/625/api",
-        "url": "geoportal-he/625.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/625",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/625.json",
         "id": 625
     },
     {
         "name": "Bauleitplanung Stadt Kirchhain (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/626/api",
-        "url": "geoportal-he/626.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/626",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/626.json",
         "id": 626
     },
     {
         "name": "Bauleitplanung Gemeinde Lahntal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/627/api",
-        "url": "geoportal-he/627.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/627",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/627.json",
         "id": 627
     },
     {
         "name": "Bauleitplanung Gemeinde Lahntal (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/628/api",
-        "url": "geoportal-he/628.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/628",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/628.json",
         "id": 628
     },
     {
         "name": "Bauleitplanung Gemeinde Lohra",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/629/api",
-        "url": "geoportal-he/629.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/629",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/629.json",
         "id": 629
     },
     {
         "name": "Bauleitplanung Gemeinde Lohra (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/630/api",
-        "url": "geoportal-he/630.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/630",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/630.json",
         "id": 630
     },
     {
         "name": "Bauleitplanung Gemeinde M\u00fcnchhausen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/631/api",
-        "url": "geoportal-he/631.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/631",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/631.json",
         "id": 631
     },
     {
         "name": "Bauleitplanung Gemeinde M\u00fcnchhausen (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/632/api",
-        "url": "geoportal-he/632.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/632",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/632.json",
         "id": 632
     },
     {
         "name": "Bauleitplanung Stadt Neustadt",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/633/api",
-        "url": "geoportal-he/633.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/633",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/633.json",
         "id": 633
     },
     {
         "name": "Bauleitplanung Stadt Neustadt (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/634/api",
-        "url": "geoportal-he/634.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/634",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/634.json",
         "id": 634
     },
     {
         "name": "Bauleitplanung Stadt Rauschenberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/635/api",
-        "url": "geoportal-he/635.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/635",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/635.json",
         "id": 635
     },
     {
         "name": "Bauleitplanung Stadt Rauschenberg (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/636/api",
-        "url": "geoportal-he/636.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/636",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/636.json",
         "id": 636
     },
     {
         "name": "Bauleitplanung Stadt Stadtallendorf",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/637/api",
-        "url": "geoportal-he/637.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/637",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/637.json",
         "id": 637
     },
     {
         "name": "Bauleitplanung Stadt Stadtallendorf (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/638/api",
-        "url": "geoportal-he/638.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/638",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/638.json",
         "id": 638
     },
     {
         "name": "Bauleitplanung Gemeinde Steffenberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/639/api",
-        "url": "geoportal-he/639.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/639",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/639.json",
         "id": 639
     },
     {
         "name": "Bauleitplanung Gemeinde Steffenberg (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/640/api",
-        "url": "geoportal-he/640.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/640",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/640.json",
         "id": 640
     },
     {
         "name": "Bauleitplanung Gemeinde Weimar",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/641/api",
-        "url": "geoportal-he/641.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/641",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/641.json",
         "id": 641
     },
     {
         "name": "Bauleitplanung Gemeinde Weimar (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/642/api",
-        "url": "geoportal-he/642.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/642",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/642.json",
         "id": 642
     },
     {
         "name": "Bauleitplanung Stadt Wetter",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/643/api",
-        "url": "geoportal-he/643.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/643",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/643.json",
         "id": 643
     },
     {
         "name": "Bauleitplanung Stadt Wetter (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/644/api",
-        "url": "geoportal-he/644.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/644",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/644.json",
         "id": 644
     },
     {
         "name": "Bauleitplanung Gemeinde Wohratal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/645/api",
-        "url": "geoportal-he/645.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/645",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/645.json",
         "id": 645
     },
     {
         "name": "Bauleitplanung Gemeinde Wohratal (INSPIRE)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/646/api",
-        "url": "geoportal-he/646.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/646",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/646.json",
         "id": 646
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Stadt Heringen (Werra)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/647/api",
-        "url": "geoportal-he/647.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/647",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/647.json",
         "id": 647
     },
     {
         "name": "Neubaumonitor_Anzahl der fertiggestellten Wohngebaeude nach Gemeinden 2018",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/649/api",
-        "url": "geoportal-he/649.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/649",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/649.json",
         "id": 649
     },
     {
         "name": "Neubaumonitor_Anzahl der fertiggestellten Wohngebaeude nach Gemeinden 2019",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/650/api",
-        "url": "geoportal-he/650.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/650",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/650.json",
         "id": 650
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohngeb\u00e4ude je Tsd Einwohner_innen nach Gemeinden 2018",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/651/api",
-        "url": "geoportal-he/651.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/651",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/651.json",
         "id": 651
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohngeb\u00e4ude je Tsd Einwohner_innen nach Gemeinden 2019",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/652/api",
-        "url": "geoportal-he/652.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/652",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/652.json",
         "id": 652
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohngebaeude nach Kreisen 2018",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/653/api",
-        "url": "geoportal-he/653.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/653",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/653.json",
         "id": 653
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohngebaeude nach Kreisen 2019",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/654/api",
-        "url": "geoportal-he/654.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/654",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/654.json",
         "id": 654
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohnungen nach Gemeinden 2018",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/655/api",
-        "url": "geoportal-he/655.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/655",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/655.json",
         "id": 655
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohnungen nach Gemeinden 2019",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/656/api",
-        "url": "geoportal-he/656.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/656",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/656.json",
         "id": 656
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohnungen je Tsd EinwohnerInnen nach Gemeinden 2018",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/657/api",
-        "url": "geoportal-he/657.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/657",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/657.json",
         "id": 657
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohnungen je Tsd EinwohnerInnen nach Gemeinden 2019",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/658/api",
-        "url": "geoportal-he/658.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/658",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/658.json",
         "id": 658
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohnflaeche nach Gemeinden in m2 2018",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/659/api",
-        "url": "geoportal-he/659.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/659",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/659.json",
         "id": 659
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohnflaeche nach Gemeinden in m2 2019",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/660/api",
-        "url": "geoportal-he/660.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/660",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/660.json",
         "id": 660
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohnflaeche je EinwohnerIn nach Gemeinden in m2 2018",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/661/api",
-        "url": "geoportal-he/661.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/661",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/661.json",
         "id": 661
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohnflaeche je EinwohnerIn nach Gemeinden in m2 2019",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/664/api",
-        "url": "geoportal-he/664.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/664",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/664.json",
         "id": 664
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohnflaeche nach Kreisen in Tsd m2 2018",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/665/api",
-        "url": "geoportal-he/665.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/665",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/665.json",
         "id": 665
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohnflaeche nach Kreisen in Tsd m2 2019",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/666/api",
-        "url": "geoportal-he/666.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/666",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/666.json",
         "id": 666
     },
     {
         "name": "Neubaumonitor_Kaufwert fuer baureifes Land in Eur je m2 nach Kreisen 2018",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/667/api",
-        "url": "geoportal-he/667.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/667",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/667.json",
         "id": 667
     },
     {
         "name": "Neubaumonitor_Kaufwert fuer Bauland in Eur je m2 nach Kreisen 2019",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/668/api",
-        "url": "geoportal-he/668.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/668",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/668.json",
         "id": 668
     },
     {
         "name": "Neubaumonitor_Haustyp der fertiggestellten Wohngebaeude nach Gemeinden 2018",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/669/api",
-        "url": "geoportal-he/669.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/669",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/669.json",
         "id": 669
     },
     {
         "name": "Neubaumonitor_Haustyp der fertiggestellten Wohngebaeude nach Gemeinden 2019",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/670/api",
-        "url": "geoportal-he/670.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/670",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/670.json",
         "id": 670
     },
     {
         "name": "Neubaumonitor_Vorherrschende primaere Energiequelle 2018",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/671/api",
-        "url": "geoportal-he/671.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/671",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/671.json",
         "id": 671
     },
     {
         "name": "Neubaumonitor_Vorherrschende primaere Energiequelle 2019",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/672/api",
-        "url": "geoportal-he/672.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/672",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/672.json",
         "id": 672
     },
     {
         "name": "WFS HE Koordinate HK Flst Lage",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/673/api",
-        "url": "geoportal-he/673.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/673",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/673.json",
         "id": 673
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Stadt Bad Sooden-Allendorf",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/674/api",
-        "url": "geoportal-he/674.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/674",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/674.json",
         "id": 674
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Friedewald",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/675/api",
-        "url": "geoportal-he/675.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/675",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/675.json",
         "id": 675
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Herleshausen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/676/api",
-        "url": "geoportal-he/676.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/676",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/676.json",
         "id": 676
     },
     {
         "name": "Neubaumonitor_Anzahl der fertiggestellten Wohngebaeude nach Gemeinden 2020",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/677/api",
-        "url": "geoportal-he/677.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/677",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/677.json",
         "id": 677
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohngeb\u00e4ude je Tsd Einwohner_innen nach Gemeinden 2020",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/678/api",
-        "url": "geoportal-he/678.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/678",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/678.json",
         "id": 678
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohngebaeude nach Kreisen 2020",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/679/api",
-        "url": "geoportal-he/679.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/679",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/679.json",
         "id": 679
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohnungen nach Gemeinden 2020",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/680/api",
-        "url": "geoportal-he/680.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/680",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/680.json",
         "id": 680
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Ottrau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/681/api",
-        "url": "geoportal-he/681.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/681",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/681.json",
         "id": 681
     },
     {
         "name": "Fl\u00e4chennutzungspl\u00e4ne Gemeinde Neuenstein",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/682/api",
-        "url": "geoportal-he/682.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/682",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/682.json",
         "id": 682
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Gemeinde K\u00f6rle",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/683/api",
-        "url": "geoportal-he/683.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/683",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/683.json",
         "id": 683
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohnungen je Tsd EinwohnerInnen nach Gemeinden 2020",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/684/api",
-        "url": "geoportal-he/684.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/684",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/684.json",
         "id": 684
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohnflaeche nach Gemeinden in m2 2020",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/685/api",
-        "url": "geoportal-he/685.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/685",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/685.json",
         "id": 685
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohnflaeche je Tsd EinwohnerIn nach Gemeinden in m2 2020",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/686/api",
-        "url": "geoportal-he/686.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/686",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/686.json",
         "id": 686
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Gemeinde Berkatal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/687/api",
-        "url": "geoportal-he/687.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/687",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/687.json",
         "id": 687
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Stadt Felsberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/688/api",
-        "url": "geoportal-he/688.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/688",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/688.json",
         "id": 688
     },
     {
         "name": "WFS HE ALKIS Vereinfacht",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/691/api",
-        "url": "geoportal-he/691.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/691",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/691.json",
         "id": 691
     },
     {
         "name": "WFS HE Basis-DLM AAA-Modell-basiert",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/694/api",
-        "url": "geoportal-he/694.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/694",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/694.json",
         "id": 694
     },
     {
         "name": "WFS HE Basis-DLM NAS-konform",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/695/api",
-        "url": "geoportal-he/695.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/695",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/695.json",
         "id": 695
     },
     {
         "name": "WFS HE ALKIS AAA-Model-basiert",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/696/api",
-        "url": "geoportal-he/696.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/696",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/696.json",
         "id": 696
     },
     {
         "name": "WFS HE ALKIS NAS-konform",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/698/api",
-        "url": "geoportal-he/698.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/698",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/698.json",
         "id": 698
     },
     {
         "name": "Neubaumonitor_Fertiggestellte Wohnflaeche nach Kreisen in Tsd m2 2020",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/700/api",
-        "url": "geoportal-he/700.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/700",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/700.json",
         "id": 700
     },
     {
         "name": "Neubaumonitor_Haustyp der fertiggestellten Wohngebaeude nach Gemeinden 2020",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/701/api",
-        "url": "geoportal-he/701.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/701",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/701.json",
         "id": 701
     },
     {
         "name": "Neubaumonitor_Vorherrschende primaere Energiequelle 2020",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/702/api",
-        "url": "geoportal-he/702.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/702",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/702.json",
         "id": 702
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Stadt Borken",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/703/api",
-        "url": "geoportal-he/703.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/703",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/703.json",
         "id": 703
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Gemeinde Morschen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/704/api",
-        "url": "geoportal-he/704.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/704",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/704.json",
         "id": 704
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Gemeinde Morschen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/705/api",
-        "url": "geoportal-he/705.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/705",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/705.json",
         "id": 705
     },
     {
         "name": "INSPIRE-WFS HE Adressen Hauskoordinaten",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/706/api",
-        "url": "geoportal-he/706.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/706",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/706.json",
         "id": 706
     },
     {
         "name": "INSPIRE-WFS HE Boden ALKIS",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/707/api",
-        "url": "geoportal-he/707.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/707",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/707.json",
         "id": 707
     },
     {
         "name": "INSPIRE-WFS HE Bodenbedeckungsvektor ALKIS",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/708/api",
-        "url": "geoportal-he/708.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/708",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/708.json",
         "id": 708
     },
     {
         "name": "INSPIRE-WFS HE Existierende Bodennutzung ALKIS",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/709/api",
-        "url": "geoportal-he/709.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/709",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/709.json",
         "id": 709
     },
     {
         "name": "INSPIRE-WFS HE Flurst\u00fccke/Grundst\u00fccke ALKIS",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/710/api",
-        "url": "geoportal-he/710.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/710",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/710.json",
         "id": 710
     },
     {
         "name": "INSPIRE-WFS HE Geb\u00e4ude - 2D ALKIS",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/711/api",
-        "url": "geoportal-he/711.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/711",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/711.json",
         "id": 711
     },
     {
         "name": "INSPIRE-WFS HE Geb\u00e4ude - 2D ATKIS Basis-DLM",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/712/api",
-        "url": "geoportal-he/712.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/712",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/712.json",
         "id": 712
     },
     {
         "name": "INSPIRE-WFS HE Geografische Bezeichnungen ALKIS",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/714/api",
-        "url": "geoportal-he/714.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/714",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/714.json",
         "id": 714
     },
     {
         "name": "INSPIRE-WFS HE Geografische Bezeichnungen ATKIS Basis-DLM",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/715/api",
-        "url": "geoportal-he/715.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/715",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/715.json",
         "id": 715
     },
     {
         "name": "INSPIRE-WFS HE Geografische Bezeichnungen ATKIS DLM50",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/716/api",
-        "url": "geoportal-he/716.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/716",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/716.json",
         "id": 716
     },
     {
         "name": "INSPIRE-WFS HE Hydro \u2013 Netzwerk ATKIS Basis-DLM",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/717/api",
-        "url": "geoportal-he/717.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/717",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/717.json",
         "id": 717
     },
     {
         "name": "INSPIRE-WFS HE Hydro \u2013 Netzwerk ATKIS DLM50",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/718/api",
-        "url": "geoportal-he/718.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/718",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/718.json",
         "id": 718
     },
     {
         "name": "INSPIRE-WFS HE Hydro \u2013 Physische Gew\u00e4sser ALKIS",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/719/api",
-        "url": "geoportal-he/719.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/719",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/719.json",
         "id": 719
     },
     {
         "name": "INSPIRE-WFS HE Hydro \u2013 Physische Gew\u00e4sser ATKIS Basis-DLM",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/720/api",
-        "url": "geoportal-he/720.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/720",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/720.json",
         "id": 720
     },
     {
         "name": "INSPIRE-WFS HE Hydro \u2013 Physische Gew\u00e4sser ATKIS DLM50",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/721/api",
-        "url": "geoportal-he/721.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/721",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/721.json",
         "id": 721
     },
     {
         "name": "INSPIRE-WFS HE Verkehrsnetze ALKIS",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/722/api",
-        "url": "geoportal-he/722.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/722",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/722.json",
         "id": 722
     },
     {
         "name": "INSPIRE-WFS HE Verkehrsnetze ATKIS Basis-DLM",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/723/api",
-        "url": "geoportal-he/723.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/723",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/723.json",
         "id": 723
     },
     {
         "name": "INSPIRE-WFS HE Verkehrsnetze ATKIS DLM50",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/724/api",
-        "url": "geoportal-he/724.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/724",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/724.json",
         "id": 724
     },
     {
         "name": "INSPIRE-WFS HE Verwaltungseinheiten ALKIS",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/726/api",
-        "url": "geoportal-he/726.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/726",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/726.json",
         "id": 726
     },
     {
         "name": "INSPIRE-WFS HE Verwaltungseinheiten ATKIS Basis-DLM",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/727/api",
-        "url": "geoportal-he/727.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/727",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/727.json",
         "id": 727
     },
     {
         "name": "INSPIRE-WFS HE Verwaltungseinheiten ATKIS DLM50",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/728/api",
-        "url": "geoportal-he/728.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/728",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/728.json",
         "id": 728
     },
     {
         "name": "Fl\u00e4chennnutzungspl\u00e4ne Gemeinde Gilserberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/729/api",
-        "url": "geoportal-he/729.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/729",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/729.json",
         "id": 729
     },
     {
         "name": "Fachgutachten Landschaft (Sch\u00e4tze der Region)",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/730/api",
-        "url": "geoportal-he/730.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/730",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/730.json",
         "id": 730
     },
     {
         "name": "WFS HE BORIS 2022",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/731/api",
-        "url": "geoportal-he/731.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/731",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/731.json",
         "id": 731
     },
     {
         "name": "WFS HE BORIS 2020",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/732/api",
-        "url": "geoportal-he/732.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/732",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/732.json",
         "id": 732
     },
     {
         "name": "Schulen Kreis Bergstra\u00dfe",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/733/api",
-        "url": "geoportal-he/733.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/733",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/733.json",
         "id": 733
     },
     {
         "name": "INSPIRE Schulen Kreis Bergstra\u00dfe",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/734/api",
-        "url": "geoportal-he/734.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/734",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/734.json",
         "id": 734
     },
     {
         "name": "Kommunale Boden- und Raumplanung Kreis Bergstra\u00dfe",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/735/api",
-        "url": "geoportal-he/735.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/735",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/735.json",
         "id": 735
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Kreis Bergstra\u00dfe",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/736/api",
-        "url": "geoportal-he/736.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/736",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/736.json",
         "id": 736
     },
     {
         "name": "Schulen Landkreis Darmstadt-Dieburg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/737/api",
-        "url": "geoportal-he/737.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/737",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/737.json",
         "id": 737
     },
     {
         "name": "INSPIRE Schulen Landkreis Darmstadt-Dieburg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/738/api",
-        "url": "geoportal-he/738.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/738",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/738.json",
         "id": 738
     },
     {
         "name": "Schulen Kreis Gro\u00df-Gerau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/739/api",
-        "url": "geoportal-he/739.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/739",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/739.json",
         "id": 739
     },
     {
         "name": "INSPIRE Schulen Kreis Gro\u00df-Gerau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/740/api",
-        "url": "geoportal-he/740.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/740",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/740.json",
         "id": 740
     },
     {
         "name": "Kommunale Boden- und Raumplanung Kreis Gro\u00df-Gerau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/741/api",
-        "url": "geoportal-he/741.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/741",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/741.json",
         "id": 741
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Kreis Gro\u00df-Gerau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/742/api",
-        "url": "geoportal-he/742.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/742",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/742.json",
         "id": 742
     },
     {
         "name": "Gewerbe- und Industriefl\u00e4chen Kreis Gro\u00df-Gerau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/743/api",
-        "url": "geoportal-he/743.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/743",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/743.json",
         "id": 743
     },
     {
         "name": "Rettungswachen Kreis Gro\u00df-Gerau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/744/api",
-        "url": "geoportal-he/744.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/744",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/744.json",
         "id": 744
     },
     {
         "name": "INSPIRE Rettungswachen Kreis Gro\u00df-Gerau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/745/api",
-        "url": "geoportal-he/745.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/745",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/745.json",
         "id": 745
     },
     {
         "name": "Kommunale Boden- und Raumplanung Stadt Bad Nauheim",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/747/api",
-        "url": "geoportal-he/747.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/747",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/747.json",
         "id": 747
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Stadt Bad Nauheim",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/748/api",
-        "url": "geoportal-he/748.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/748",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/748.json",
         "id": 748
     },
     {
         "name": "Kommunale Boden- und Raumplanung Kreisstadt Dietzenbach",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/749/api",
-        "url": "geoportal-he/749.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/749",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/749.json",
         "id": 749
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Kreisstadt Dietzenbach",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/750/api",
-        "url": "geoportal-he/750.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/750",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/750.json",
         "id": 750
     },
     {
         "name": "Kommunale Boden- und Raumplanung Gemeinde Eppertshausen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/751/api",
-        "url": "geoportal-he/751.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/751",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/751.json",
         "id": 751
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Gemeinde Eppertshausen",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/752/api",
-        "url": "geoportal-he/752.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/752",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/752.json",
         "id": 752
     },
     {
         "name": "Kommunale Boden- und Raumplanung Stadt Hanau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/753/api",
-        "url": "geoportal-he/753.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/753",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/753.json",
         "id": 753
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Stadt Hanau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/754/api",
-        "url": "geoportal-he/754.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/754",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/754.json",
         "id": 754
     },
     {
         "name": "Kommunale Boden- und Raumplanung Hochtaunuskreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/755/api",
-        "url": "geoportal-he/755.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/755",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/755.json",
         "id": 755
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Hochtaunuskreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/756/api",
-        "url": "geoportal-he/756.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/756",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/756.json",
         "id": 756
     },
     {
         "name": "Kommunale Boden- und Raumplanung Kreisstadt Hofheim am Taunus",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/757/api",
-        "url": "geoportal-he/757.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/757",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/757.json",
         "id": 757
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Kreisstadt Hofheim am Taunus",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/758/api",
-        "url": "geoportal-he/758.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/758",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/758.json",
         "id": 758
     },
     {
         "name": "Kommunale Boden- und Raumplanung Gemeinde Modautal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/759/api",
-        "url": "geoportal-he/759.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/759",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/759.json",
         "id": 759
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Gemeinde Modautal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/760/api",
-        "url": "geoportal-he/760.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/760",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/760.json",
         "id": 760
     },
     {
         "name": "Kommunale Boden- und Raumplanung Gemeinde M\u00fcnster",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/761/api",
-        "url": "geoportal-he/761.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/761",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/761.json",
         "id": 761
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Gemeinde M\u00fcnster",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/762/api",
-        "url": "geoportal-he/762.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/762",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/762.json",
         "id": 762
     },
     {
         "name": "Kommunale Boden- und Raumplanung Stadt Ober-Ramstadt",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/763/api",
-        "url": "geoportal-he/763.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/763",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/763.json",
         "id": 763
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Stadt Ober-Ramstadt",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/764/api",
-        "url": "geoportal-he/764.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/764",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/764.json",
         "id": 764
     },
     {
         "name": "Kommunale Boden- und Raumplanung Odenwaldkreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/765/api",
-        "url": "geoportal-he/765.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/765",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/765.json",
         "id": 765
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Odenwaldkreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/766/api",
-        "url": "geoportal-he/766.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/766",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/766.json",
         "id": 766
     },
     {
         "name": "Kommunale Boden- und Raumplanung Gemeinde Otzberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/767/api",
-        "url": "geoportal-he/767.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/767",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/767.json",
         "id": 767
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Gemeinde Otzberg",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/768/api",
-        "url": "geoportal-he/768.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/768",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/768.json",
         "id": 768
     },
     {
         "name": "Kommunale Boden- und Raumplanung Gemeinde Ro\u00dfdorf",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/769/api",
-        "url": "geoportal-he/769.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/769",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/769.json",
         "id": 769
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Gemeinde Ro\u00dfdorf",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/770/api",
-        "url": "geoportal-he/770.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/770",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/770.json",
         "id": 770
     },
     {
         "name": "Kommunale Boden- und Raumplanung Rheingau-Taunus-Kreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/771/api",
-        "url": "geoportal-he/771.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/771",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/771.json",
         "id": 771
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Rheingau-Taunus-Kreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/772/api",
-        "url": "geoportal-he/772.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/772",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/772.json",
         "id": 772
     },
     {
         "name": "Kommunale Boden- und Raumplanung Stadt R\u00fcsselsheim am Main",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/773/api",
-        "url": "geoportal-he/773.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/773",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/773.json",
         "id": 773
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Stadt R\u00fcsselsheim am Main",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/774/api",
-        "url": "geoportal-he/774.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/774",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/774.json",
         "id": 774
     },
     {
         "name": "Schulen Hochtaunuskreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/775/api",
-        "url": "geoportal-he/775.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/775",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/775.json",
         "id": 775
     },
     {
         "name": "INSPIRE Schulen Hochtaunuskreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/776/api",
-        "url": "geoportal-he/776.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/776",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/776.json",
         "id": 776
     },
     {
         "name": "Schulen Main-Kinzig-Kreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/777/api",
-        "url": "geoportal-he/777.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/777",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/777.json",
         "id": 777
     },
     {
         "name": "INSPIRE Schulen Main-Kinzig-Kreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/778/api",
-        "url": "geoportal-he/778.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/778",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/778.json",
         "id": 778
     },
     {
         "name": "Schulen Odenwaldkreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/779/api",
-        "url": "geoportal-he/779.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/779",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/779.json",
         "id": 779
     },
     {
         "name": "INSPIRE Schulen Odenwaldkreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/780/api",
-        "url": "geoportal-he/780.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/780",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/780.json",
         "id": 780
     },
     {
         "name": "Schulen Wetteraukreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/781/api",
-        "url": "geoportal-he/781.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/781",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/781.json",
         "id": 781
     },
     {
         "name": "INSPIRE Schulen Wetteraukreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/782/api",
-        "url": "geoportal-he/782.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/782",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/782.json",
         "id": 782
     },
     {
         "name": "Rettungswachen Hochtaunuskreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/783/api",
-        "url": "geoportal-he/783.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/783",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/783.json",
         "id": 783
     },
     {
         "name": "INSPIRE Rettungswachen Hochtaunuskreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/784/api",
-        "url": "geoportal-he/784.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/784",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/784.json",
         "id": 784
     },
     {
         "name": "Rettungswachen Odenwaldkreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/785/api",
-        "url": "geoportal-he/785.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/785",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/785.json",
         "id": 785
     },
     {
         "name": "INSPIRE Rettungswachen Odenwaldkreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/786/api",
-        "url": "geoportal-he/786.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/786",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/786.json",
         "id": 786
     },
     {
         "name": "Kommunale Boden- und Raumplanung Stadt Maintal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/787/api",
-        "url": "geoportal-he/787.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/787",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/787.json",
         "id": 787
     },
     {
         "name": "INSPIRE Kommunale Boden- und Raumplanung Stadt Maintal",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/788/api",
-        "url": "geoportal-he/788.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/788",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/788.json",
         "id": 788
     },
     {
         "name": "Kindertageseinrichtungen Hochtaunuskreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/789/api",
-        "url": "geoportal-he/789.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/789",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/789.json",
         "id": 789
     },
     {
         "name": "INSPIRE Kindertageseinrichtungen Hochtaunuskreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/790/api",
-        "url": "geoportal-he/790.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/790",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/790.json",
         "id": 790
     },
     {
         "name": "Kindertageseinrichtungen Gemeinde M\u00fcnster",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/791/api",
-        "url": "geoportal-he/791.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/791",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/791.json",
         "id": 791
     },
     {
         "name": "INSPIRE Kindertageseinrichtungen Gemeinde M\u00fcnster",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/792/api",
-        "url": "geoportal-he/792.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/792",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/792.json",
         "id": 792
     },
     {
         "name": "Gewerbe- und Industriefl\u00e4chen Hochtaunuskreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/793/api",
-        "url": "geoportal-he/793.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/793",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/793.json",
         "id": 793
     },
     {
         "name": "Feuerwehren Hochtaunuskreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/794/api",
-        "url": "geoportal-he/794.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/794",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/794.json",
         "id": 794
     },
     {
         "name": "INSPIRE Feuerwehren Hochtaunuskreis",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/795/api",
-        "url": "geoportal-he/795.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/795",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/795.json",
         "id": 795
     },
     {
         "name": "Gewerbe- und Industriefl\u00e4chen Kreis Gro\u00df-Gerau",
-        "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/796/api",
-        "url": "geoportal-he/796.json",
+        "url": "https://www.geoportal.hessen.de/spatial-objects/796",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/796.json",
         "id": 796
     }
 ]

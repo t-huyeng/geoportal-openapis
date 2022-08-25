@@ -1,944 +1,944 @@
 [
     {
         "name": "Geoserver GDI-RP",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/22/api",
-        "url": "geoportal-rlp/22.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/22",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/22.json",
         "id": 22
     },
     {
         "name": "My GeoServer WFS",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/39/api",
-        "url": "geoportal-rlp/39.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/39",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/39.json",
         "id": 39
     },
     {
         "name": "My GeoServer WFS",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/44/api",
-        "url": "geoportal-rlp/44.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/44",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/44.json",
         "id": 44
     },
     {
         "name": "My GeoServer WFS",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/49/api",
-        "url": "geoportal-rlp/49.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/49",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/49.json",
         "id": 49
     },
     {
         "name": "Gazetteer Daten Ruanda",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/54/api",
-        "url": "geoportal-rlp/54.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/54",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/54.json",
         "id": 54
     },
     {
         "name": "My GeoServer WFS",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/59/api",
-        "url": "geoportal-rlp/59.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/59",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/59.json",
         "id": 59
     },
     {
         "name": "My GeoServer WFS",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/62/api",
-        "url": "geoportal-rlp/62.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/62",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/62.json",
         "id": 62
     },
     {
         "name": "My GeoServer WFS",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/65/api",
-        "url": "geoportal-rlp/65.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/65",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/65.json",
         "id": 65
     },
     {
         "name": "My GeoServer WFS",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/67/api",
-        "url": "geoportal-rlp/67.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/67",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/67.json",
         "id": 67
     },
     {
         "name": "My GeoServer WFS",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/68/api",
-        "url": "geoportal-rlp/68.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/68",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/68.json",
         "id": 68
     },
     {
         "name": "Behoerden Gazetteer",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/74/api",
-        "url": "geoportal-rlp/74.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/74",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/74.json",
         "id": 74
     },
     {
         "name": "Behoerden Gazetteer",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/76/api",
-        "url": "geoportal-rlp/76.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/76",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/76.json",
         "id": 76
     },
     {
         "name": "WFS-Test",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/78/api",
-        "url": "geoportal-rlp/78.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/78",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/78.json",
         "id": 78
     },
     {
         "name": "Sozial Gazetteer",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/89/api",
-        "url": "geoportal-rlp/89.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/89",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/89.json",
         "id": 89
     },
     {
         "name": "Web Feature Server 1 - GDI-RP",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/93/api",
-        "url": "geoportal-rlp/93.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/93",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/93.json",
         "id": 93
     },
     {
         "name": "WFS zur Flurst\u00fcckssuche (tagesaktuell)",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/139/api",
-        "url": "geoportal-rlp/139.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/139",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/139.json",
         "id": 139
     },
     {
         "name": "Web Feature Server 1 - GDI-RP",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/144/api",
-        "url": "geoportal-rlp/144.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/144",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/144.json",
         "id": 144
     },
     {
         "name": "Bodenordnungsverfahren Rheinland-Pfalz",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/154/api",
-        "url": "geoportal-rlp/154.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/154",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/154.json",
         "id": 154
     },
     {
         "name": "WFS Server 1 der GDI-RP",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/180/api",
-        "url": "geoportal-rlp/180.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/180",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/180.json",
         "id": 180
     },
     {
         "name": "Dienstleistungszentren Rheinland-Pfalz",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/182/api",
-        "url": "geoportal-rlp/182.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/182",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/182.json",
         "id": 182
     },
     {
         "name": "GeoServer_KomServ4GDI",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/204/api",
-        "url": "geoportal-rlp/204.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/204",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/204.json",
         "id": 204
     },
     {
         "name": "WFS Mitfahrerparkplaetze",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/220/api",
-        "url": "geoportal-rlp/220.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/220",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/220.json",
         "id": 220
     },
     {
         "name": "strassennetz_wfs",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/226/api",
-        "url": "geoportal-rlp/226.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/226",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/226.json",
         "id": 226
     },
     {
         "name": "German waterways",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/281/api",
-        "url": "geoportal-rlp/281.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/281",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/281.json",
         "id": 281
     },
     {
         "name": "Planungsregionen",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/298/api",
-        "url": "geoportal-rlp/298.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/298",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/298.json",
         "id": 298
     },
     {
         "name": "WFS Bodenrichtwerte",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/299/api",
-        "url": "geoportal-rlp/299.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/299",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/299.json",
         "id": 299
     },
     {
         "name": "Nationalpark Grenze",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/303/api",
-        "url": "geoportal-rlp/303.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/303",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/303.json",
         "id": 303
     },
     {
         "name": "Bodenordnungsverfahren Rheinland-Pfalz",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/304/api",
-        "url": "geoportal-rlp/304.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/304",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/304.json",
         "id": 304
     },
     {
         "name": "WFS zur Flurst\u00fcckssuche (tagesaktuell)",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/305/api",
-        "url": "geoportal-rlp/305.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/305",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/305.json",
         "id": 305
     },
     {
         "name": "\u00dcberschwemmungsgebiete",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/307/api",
-        "url": "geoportal-rlp/307.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/307",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/307.json",
         "id": 307
     },
     {
         "name": "Verwaltungsgrenzen Rheinland-Pfalz",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/314/api",
-        "url": "geoportal-rlp/314.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/314",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/314.json",
         "id": 314
     },
     {
         "name": "Blattschnitte Rheinland-Pfalz",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/315/api",
-        "url": "geoportal-rlp/315.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/315",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/315.json",
         "id": 315
     },
     {
         "name": "Wohnplatzverzeichnis Rheinland-Pfalz",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/316/api",
-        "url": "geoportal-rlp/316.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/316",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/316.json",
         "id": 316
     },
     {
         "name": "WFS-Dienst \u00dcberschwemmungsgebiete",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/325/api",
-        "url": "geoportal-rlp/325.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/325",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/325.json",
         "id": 325
     },
     {
         "name": "Bodenordnungsverfahren Rheinland-Pfalz",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/328/api",
-        "url": "geoportal-rlp/328.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/328",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/328.json",
         "id": 328
     },
     {
         "name": "Web Feature Service Landwirtschaftskammer Rheinland-Pfalz",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/329/api",
-        "url": "geoportal-rlp/329.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/329",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/329.json",
         "id": 329
     },
     {
         "name": "test1",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/330/api",
-        "url": "geoportal-rlp/330.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/330",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/330.json",
         "id": 330
     },
     {
         "name": "Stadt Koblenz: Digitale Kartierung der Denkmalliste",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/332/api",
-        "url": "geoportal-rlp/332.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/332",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/332.json",
         "id": 332
     },
     {
         "name": "Test Boundaries",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/333/api",
-        "url": "geoportal-rlp/333.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/333",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/333.json",
         "id": 333
     },
     {
         "name": "Test Wert",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/334/api",
-        "url": "geoportal-rlp/334.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/334",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/334.json",
         "id": 334
     },
     {
         "name": "WFS RP ALKIS Flurstueck Zaehlung",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/340/api",
-        "url": "geoportal-rlp/340.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/340",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/340.json",
         "id": 340
     },
     {
         "name": "WFS-Dienst Gew\u00e4ssernetz",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/343/api",
-        "url": "geoportal-rlp/343.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/343",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/343.json",
         "id": 343
     },
     {
         "name": "protectedsites",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/344/api",
-        "url": "geoportal-rlp/344.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/344",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/344.json",
         "id": 344
     },
     {
         "name": "WFS zur Bereitstellung von Schulstandorten",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/350/api",
-        "url": "geoportal-rlp/350.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/350",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/350.json",
         "id": 350
     },
     {
         "name": "WFS RP ALKIS Flurstueck Vereinfacht",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/353/api",
-        "url": "geoportal-rlp/353.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/353",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/353.json",
         "id": 353
     },
     {
         "name": "WFS RP ATKIS BasisDLM Vereinfacht",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/354/api",
-        "url": "geoportal-rlp/354.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/354",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/354.json",
         "id": 354
     },
     {
         "name": "WFS HE HAKO INSPIRE",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/355/api",
-        "url": "geoportal-rlp/355.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/355",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/355.json",
         "id": 355
     },
     {
         "name": "WFS ATKIS-DGM",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/360/api",
-        "url": "geoportal-rlp/360.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/360",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/360.json",
         "id": 360
     },
     {
         "name": "GeoServer Web Feature Service",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/361/api",
-        "url": "geoportal-rlp/361.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/361",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/361.json",
         "id": 361
     },
     {
         "name": "WFS Server f\u00fcr die Bereitstellung der Offenlagen von Bauleitpl\u00e4nen",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/363/api",
-        "url": "geoportal-rlp/363.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/363",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/363.json",
         "id": 363
     },
     {
         "name": "WFS HE ALKIS INSPIRE",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/371/api",
-        "url": "geoportal-rlp/371.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/371",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/371.json",
         "id": 371
     },
     {
         "name": "Langzeitzaelstellen_wfs",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/376/api",
-        "url": "geoportal-rlp/376.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/376",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/376.json",
         "id": 376
     },
     {
         "name": "My own OGC service",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/377/api",
-        "url": "geoportal-rlp/377.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/377",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/377.json",
         "id": 377
     },
     {
         "name": "My own OGC service",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/378/api",
-        "url": "geoportal-rlp/378.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/378",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/378.json",
         "id": 378
     },
     {
         "name": "netzknoten_wfs",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/379/api",
-        "url": "geoportal-rlp/379.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/379",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/379.json",
         "id": 379
     },
     {
         "name": "H\u00dcK200",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/381/api",
-        "url": "geoportal-rlp/381.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/381",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/381.json",
         "id": 381
     },
     {
         "name": "Berechtsamskarte",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/382/api",
-        "url": "geoportal-rlp/382.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/382",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/382.json",
         "id": 382
     },
     {
         "name": "BFD50/200",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/383/api",
-        "url": "geoportal-rlp/383.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/383",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/383.json",
         "id": 383
     },
     {
         "name": "BFD200",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/384/api",
-        "url": "geoportal-rlp/384.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/384",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/384.json",
         "id": 384
     },
     {
         "name": "Erdbeben",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/385/api",
-        "url": "geoportal-rlp/385.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/385",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/385.json",
         "id": 385
     },
     {
         "name": "Geologische \u00dcbersichtskarte 1:300.000",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/386/api",
-        "url": "geoportal-rlp/386.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/386",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/386.json",
         "id": 386
     },
     {
         "name": "Hangstabilit\u00e4t",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/388/api",
-        "url": "geoportal-rlp/388.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/388",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/388.json",
         "id": 388
     },
     {
         "name": "WFS-Dienst Hochwassermanagement",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/391/api",
-        "url": "geoportal-rlp/391.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/391",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/391.json",
         "id": 391
     },
     {
         "name": "BAYSIS Verkehrsmengen WFS",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/393/api",
-        "url": "geoportal-rlp/393.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/393",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/393.json",
         "id": 393
     },
     {
         "name": "WFS Server f\u00fcr die Bereitstellung der Offenlagen von Bauleitpl\u00e4nen",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/395/api",
-        "url": "geoportal-rlp/395.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/395",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/395.json",
         "id": 395
     },
     {
         "name": "Westwall_GDKE_UD",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/399/api",
-        "url": "geoportal-rlp/399.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/399",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/399.json",
         "id": 399
     },
     {
         "name": "Soziale Einrichtungen MFFJIV",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/407/api",
-        "url": "geoportal-rlp/407.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/407",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/407.json",
         "id": 407
     },
     {
         "name": "Soziale Einrichtungen MSAGD",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/408/api",
-        "url": "geoportal-rlp/408.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/408",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/408.json",
         "id": 408
     },
     {
         "name": "WFS RP ALKIS oeffentlich-rechtliche Festlegungen",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/446/api",
-        "url": "geoportal-rlp/446.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/446",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/446.json",
         "id": 446
     },
     {
-        "name": "ZIMEN",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/448/api",
-        "url": "geoportal-rlp/448.json",
+        "name": "Web Feature Service Geoportal Wasser",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/448",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/448.json",
         "id": 448
     },
     {
         "name": "WFS RP ALKIS vereinfacht Tatsaechliche Nutzung Einzellayer",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/451/api",
-        "url": "geoportal-rlp/451.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/451",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/451.json",
         "id": 451
     },
     {
         "name": "Stadtgrenze Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/452/api",
-        "url": "geoportal-rlp/452.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/452",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/452.json",
         "id": 452
     },
     {
         "name": "Ortsbezirke Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/466/api",
-        "url": "geoportal-rlp/466.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/466",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/466.json",
         "id": 466
     },
     {
         "name": "Stadtbezirke Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/467/api",
-        "url": "geoportal-rlp/467.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/467",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/467.json",
         "id": 467
     },
     {
         "name": "Statistische Bezirke Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/468/api",
-        "url": "geoportal-rlp/468.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/468",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/468.json",
         "id": 468
     },
     {
         "name": "Planungsbereiche Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/469/api",
-        "url": "geoportal-rlp/469.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/469",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/469.json",
         "id": 469
     },
     {
         "name": "Politische Bezirke Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/470/api",
-        "url": "geoportal-rlp/470.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/470",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/470.json",
         "id": 470
     },
     {
         "name": "\u00d6ffentliche Verwaltung Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/471/api",
-        "url": "geoportal-rlp/471.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/471",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/471.json",
         "id": 471
     },
     {
         "name": "Abfallentsorgung Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/472/api",
-        "url": "geoportal-rlp/472.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/472",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/472.json",
         "id": 472
     },
     {
         "name": "Sicherheit Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/473/api",
-        "url": "geoportal-rlp/473.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/473",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/473.json",
         "id": 473
     },
     {
         "name": "Gesundheitseinrichtungen Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/474/api",
-        "url": "geoportal-rlp/474.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/474",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/474.json",
         "id": 474
     },
     {
         "name": "Familie und Soziales Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/475/api",
-        "url": "geoportal-rlp/475.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/475",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/475.json",
         "id": 475
     },
     {
         "name": "Kirchen und Friedh\u00f6fe Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/476/api",
-        "url": "geoportal-rlp/476.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/476",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/476.json",
         "id": 476
     },
     {
         "name": "\u00d6ffentliche Einrichtungen Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/477/api",
-        "url": "geoportal-rlp/477.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/477",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/477.json",
         "id": 477
     },
     {
         "name": "Kinderbetreuung Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/478/api",
-        "url": "geoportal-rlp/478.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/478",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/478.json",
         "id": 478
     },
     {
         "name": "Schulen Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/479/api",
-        "url": "geoportal-rlp/479.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/479",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/479.json",
         "id": 479
     },
     {
         "name": "Akademien und Hochschulen Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/480/api",
-        "url": "geoportal-rlp/480.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/480",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/480.json",
         "id": 480
     },
     {
         "name": "Weiterbildungseinrichtungen Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/481/api",
-        "url": "geoportal-rlp/481.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/481",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/481.json",
         "id": 481
     },
     {
         "name": "Bildung und Wissenschaft Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/482/api",
-        "url": "geoportal-rlp/482.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/482",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/482.json",
         "id": 482
     },
     {
         "name": "Wochenm\u00e4rkte Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/483/api",
-        "url": "geoportal-rlp/483.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/483",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/483.json",
         "id": 483
     },
     {
         "name": "UNESCO-Welterbest\u00e4tten Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/486/api",
-        "url": "geoportal-rlp/486.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/486",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/486.json",
         "id": 486
     },
     {
         "name": "Tourismus in Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/487/api",
-        "url": "geoportal-rlp/487.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/487",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/487.json",
         "id": 487
     },
     {
         "name": "Kultur in Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/488/api",
-        "url": "geoportal-rlp/488.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/488",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/488.json",
         "id": 488
     },
     {
         "name": "Freizeit in Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/489/api",
-        "url": "geoportal-rlp/489.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/489",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/489.json",
         "id": 489
     },
     {
         "name": "Sport in Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/490/api",
-        "url": "geoportal-rlp/490.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/490",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/490.json",
         "id": 490
     },
     {
         "name": "Ehem. franz\u00f6sische Milit\u00e4rstandorte Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/491/api",
-        "url": "geoportal-rlp/491.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/491",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/491.json",
         "id": 491
     },
     {
         "name": "Freizeit, Kultur und Tourismus in Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/492/api",
-        "url": "geoportal-rlp/492.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/492",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/492.json",
         "id": 492
     },
     {
         "name": "\u00d6ffentlicher Nahverkehr Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/493/api",
-        "url": "geoportal-rlp/493.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/493",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/493.json",
         "id": 493
     },
     {
         "name": "Behindertenparkpl\u00e4tze Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/494/api",
-        "url": "geoportal-rlp/494.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/494",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/494.json",
         "id": 494
     },
     {
         "name": "Elektromobilit\u00e4t (Auto) Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/495/api",
-        "url": "geoportal-rlp/495.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/495",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/495.json",
         "id": 495
     },
     {
         "name": "Elektromobilit\u00e4t (Fahrrad) Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/496/api",
-        "url": "geoportal-rlp/496.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/496",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/496.json",
         "id": 496
     },
     {
         "name": "Sanierungsgebiete Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/497/api",
-        "url": "geoportal-rlp/497.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/497",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/497.json",
         "id": 497
     },
     {
         "name": "Soziale Stadt Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/498/api",
-        "url": "geoportal-rlp/498.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/498",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/498.json",
         "id": 498
     },
     {
         "name": "Stadtumbau West Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/499/api",
-        "url": "geoportal-rlp/499.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/499",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/499.json",
         "id": 499
     },
     {
         "name": "Entwicklungsgebiete Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/500/api",
-        "url": "geoportal-rlp/500.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/500",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/500.json",
         "id": 500
     },
     {
         "name": "Stadtbildpflege Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/501/api",
-        "url": "geoportal-rlp/501.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/501",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/501.json",
         "id": 501
     },
     {
         "name": "Parken in Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/503/api",
-        "url": "geoportal-rlp/503.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/503",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/503.json",
         "id": 503
     },
     {
         "name": "Spielraumpl\u00e4ne Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/504/api",
-        "url": "geoportal-rlp/504.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/504",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/504.json",
         "id": 504
     },
     {
         "name": "Verkehr und Mobilit\u00e4t in Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/505/api",
-        "url": "geoportal-rlp/505.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/505",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/505.json",
         "id": 505
     },
     {
         "name": "WFS Schnittstelle der Grabungsschutzgebiete f\u00fcr ALKIS",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/508/api",
-        "url": "geoportal-rlp/508.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/508",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/508.json",
         "id": 508
     },
     {
         "name": "Verwaltungsgrenzen Rheinland-Pfalz",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/511/api",
-        "url": "geoportal-rlp/511.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/511",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/511.json",
         "id": 511
     },
     {
         "name": "WFS Mitfahrerparkplaetze",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/512/api",
-        "url": "geoportal-rlp/512.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/512",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/512.json",
         "id": 512
     },
     {
         "name": "strassennetz_wfs_2.0.0",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/513/api",
-        "url": "geoportal-rlp/513.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/513",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/513.json",
         "id": 513
     },
     {
         "name": "Arch\u00e4ologische Fundstellen",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/515/api",
-        "url": "geoportal-rlp/515.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/515",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/515.json",
         "id": 515
     },
     {
         "name": "Service-Standorte Trier",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/517/api",
-        "url": "geoportal-rlp/517.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/517",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/517.json",
         "id": 517
     },
     {
         "name": "WFS RP ALKIS Vereinfacht",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/519/api",
-        "url": "geoportal-rlp/519.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/519",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/519.json",
         "id": 519
     },
     {
         "name": "Regionalplanung Mittelrhein-Westerwald 2017",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/528/api",
-        "url": "geoportal-rlp/528.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/528",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/528.json",
         "id": 528
     },
     {
         "name": "Siedlungsflaechen FNP Planstand wirksam SGD Nord",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/532/api",
-        "url": "geoportal-rlp/532.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/532",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/532.json",
         "id": 532
     },
     {
         "name": "Regionalplanung Region Trier 2004",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/534/api",
-        "url": "geoportal-rlp/534.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/534",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/534.json",
         "id": 534
     },
     {
         "name": "WMS Lanis GDI-DE",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/535/api",
-        "url": "geoportal-rlp/535.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/535",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/535.json",
         "id": 535
     },
     {
         "name": "KOMON Kompensationsflaechenkataster",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/536/api",
-        "url": "geoportal-rlp/536.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/536",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/536.json",
         "id": 536
     },
     {
         "name": "Biotopkartierung von Rheinland-Pfalz",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/537/api",
-        "url": "geoportal-rlp/537.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/537",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/537.json",
         "id": 537
     },
     {
         "name": "oeffentliche Energiethemen SGD Nord",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/539/api",
-        "url": "geoportal-rlp/539.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/539",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/539.json",
         "id": 539
     },
     {
         "name": "ROK komplett",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/540/api",
-        "url": "geoportal-rlp/540.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/540",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/540.json",
         "id": 540
     },
     {
         "name": "WFS RP ALKIS vereinfacht Flurstuecksabschnitte",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/543/api",
-        "url": "geoportal-rlp/543.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/543",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/543.json",
         "id": 543
     },
     {
         "name": "Grabungsschutzgebiete Landesarch\u00e4ologie",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/544/api",
-        "url": "geoportal-rlp/544.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/544",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/544.json",
         "id": 544
     },
     {
         "name": "WFS Bodenrichtwerte",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/548/api",
-        "url": "geoportal-rlp/548.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/548",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/548.json",
         "id": 548
     },
     {
         "name": "Landesweit bedeutsame historische Kulturlandschaften RLP",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/549/api",
-        "url": "geoportal-rlp/549.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/549",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/549.json",
         "id": 549
     },
     {
         "name": "Rhein-Hunsr\u00fcck-Kreis: Digitale Kartierung der Denkmalliste",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/550/api",
-        "url": "geoportal-rlp/550.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/550",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/550.json",
         "id": 550
     },
     {
         "name": "Landesforsten Rheinland-Pfalz WFS",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/555/api",
-        "url": "geoportal-rlp/555.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/555",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/555.json",
         "id": 555
     },
     {
         "name": "Metadaten Bebauungspl\u00e4ne RP",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/557/api",
-        "url": "geoportal-rlp/557.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/557",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/557.json",
         "id": 557
     },
     {
         "name": "Kinder- und Jugendf\u00f6rderplan Trier 2021-2023",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/558/api",
-        "url": "geoportal-rlp/558.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/558",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/558.json",
         "id": 558
     },
     {
         "name": "Untitled",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/559/api",
-        "url": "geoportal-rlp/559.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/559",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/559.json",
         "id": 559
     },
     {
         "name": "DWD GeoServer WFS",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/560/api",
-        "url": "geoportal-rlp/560.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/560",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/560.json",
         "id": 560
     },
     {
         "name": "Bauleitplanung Gemeinde Angelburg",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/561/api",
-        "url": "geoportal-rlp/561.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/561",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/561.json",
         "id": 561
     },
     {
         "name": "COVID-19 Krisenmanagement MSAGD",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/562/api",
-        "url": "geoportal-rlp/562.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/562",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/562.json",
         "id": 562
     },
     {
         "name": "COVID-19 Krisenmanagement LSJV",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/563/api",
-        "url": "geoportal-rlp/563.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/563",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/563.json",
         "id": 563
     },
     {
         "name": "INSPIRE RP Verwaltungseinheiten ATKIS-DLM50 (Downloaddienst)",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/566/api",
-        "url": "geoportal-rlp/566.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/566",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/566.json",
         "id": 566
     },
     {
         "name": "INSPIRE RP Verwaltungseinheiten ALKIS (Downloaddienst)",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/567/api",
-        "url": "geoportal-rlp/567.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/567",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/567.json",
         "id": 567
     },
     {
         "name": "INSPIRE RP Geografische Bezeichnung ATKIS-DLM50 (Downloaddienst)",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/568/api",
-        "url": "geoportal-rlp/568.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/568",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/568.json",
         "id": 568
     },
     {
         "name": "Web Feature Service Geoportal Wasser",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/569/api",
-        "url": "geoportal-rlp/569.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/569",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/569.json",
         "id": 569
     },
     {
         "name": "WFS RP Bodenschaetzung",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/571/api",
-        "url": "geoportal-rlp/571.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/571",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/571.json",
         "id": 571
     },
     {
         "name": "Biotopkartierung 1992-1997",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/572/api",
-        "url": "geoportal-rlp/572.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/572",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/572.json",
         "id": 572
     },
     {
         "name": "Naturr\u00e4ume",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/574/api",
-        "url": "geoportal-rlp/574.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/574",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/574.json",
         "id": 574
     },
     {
         "name": "VBS",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/575/api",
-        "url": "geoportal-rlp/575.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/575",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/575.json",
         "id": 575
     },
     {
         "name": "HpnV",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/576/api",
-        "url": "geoportal-rlp/576.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/576",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/576.json",
         "id": 576
     },
     {
         "name": "Natura 2000 BWP",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/577/api",
-        "url": "geoportal-rlp/577.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/577",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/577.json",
         "id": 577
     },
     {
         "name": "WFS Flurstueckskoordinaten",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/578/api",
-        "url": "geoportal-rlp/578.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/578",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/578.json",
         "id": 578
     },
     {
         "name": "WFS",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/579/api",
-        "url": "geoportal-rlp/579.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/579",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/579.json",
         "id": 579
     },
     {
         "name": "BFD50",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/581/api",
-        "url": "geoportal-rlp/581.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/581",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/581.json",
         "id": 581
     },
     {
         "name": "INSPIRE RP Flurst\u00fccke/Grundst\u00fccke (Katasterparzellen) ALKIS (Downloaddienst)",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/584/api",
-        "url": "geoportal-rlp/584.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/584",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/584.json",
         "id": 584
     },
     {
         "name": "UNESCO Welterbe Geopark Vulkaneifel",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/585/api",
-        "url": "geoportal-rlp/585.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/585",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/585.json",
         "id": 585
     },
     {
         "name": "WFS Flurstueckssuche",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/586/api",
-        "url": "geoportal-rlp/586.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/586",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/586.json",
         "id": 586
     },
     {
         "name": "Umlegung Rheinland-Pfalz",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/588/api",
-        "url": "geoportal-rlp/588.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/588",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/588.json",
         "id": 588
     },
     {
         "name": "Steuerliche Bodenwerte f\u00fcr den bebauten Au\u00dfenbereich",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/589/api",
-        "url": "geoportal-rlp/589.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/589",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/589.json",
         "id": 589
     },
     {
         "name": "Rettungswachen Kreis Gro\u00df-Gerau",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/590/api",
-        "url": "geoportal-rlp/590.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/590",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/590.json",
         "id": 590
     },
     {
         "name": "Verwaltungsgrenzen Rheinland-Pfalz",
-        "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/591/api",
-        "url": "geoportal-rlp/591.json",
+        "url": "https://www.geoportal.rlp.de/spatial-objects/591",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-rlp/591.json",
         "id": 591
     }
 ]
