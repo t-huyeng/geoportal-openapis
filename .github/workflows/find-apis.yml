@@ -12,7 +12,9 @@ jobs:
           go-version: "1.18.3"
       - uses: actions/checkout@v3
       - run: go run . -path=../geoportal_he_go.json -geoportalURL=https://www.geoportal.hessen.de
+        working-directory: api-finder
       - run: go run . -path=../geoportal_sl_go.json -geoportalURL=https://geoportal.saarland.de
+        working-directory: api-finder
       - run: go run . -path=../geoportal_rlp_go.json -geoportalURL=https://www.geoportal.rlp.de
         working-directory: api-finder
 
