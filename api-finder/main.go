@@ -84,15 +84,17 @@ func main() {
 
 	list.Sort()
 
-	save2File(list)
+	save2File(list, pathFlag)
 
 }
 
 // save list to json file
-func save2File(list apiList) {
+func save2File(list apiList, pathFlag *string) {
+
+	fmt.Println("Saving API list to file...")
 	file, _ := json.MarshalIndent(list.APIs, "", " ")
 
-	_ = ioutil.WriteFile("../geoportal_he_go.json", file, 0644)
+	_ = ioutil.WriteFile(*pathFlag, file, 0644)
 }
 
 // extract infos from openapi json
