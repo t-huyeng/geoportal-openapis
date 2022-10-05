@@ -1,0 +1,14 @@
+name: Check for OpenAPI files from different Geoportals
+on:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-go@v3
+        with:
+          go-version: "1.18.3"
+      - uses: actions/checkout@v3
+        working-directory: api-finder
+        run: go run .
