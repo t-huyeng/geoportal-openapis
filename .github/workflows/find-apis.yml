@@ -1,15 +1,24 @@
 name: Check for OpenAPI files from different Geoportals
 on:
-  push:
   workflow_dispatch:
 
 jobs:
-  check:
+  search-for-openapis:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/setup-go@v3
         with:
           go-version: "1.18.3"
       - uses: actions/checkout@v3
-      - run: go run .
+      - run: go run . -path=../geoportal_he_go.json -geoportalURL=https://www.geoportal.hessen.de
+      - run: go run . -path=../geoportal_sl_go.json -geoportalURL=https://geoportal.saarland.de
+      - run: go run . -path=../geoportal_rlp_go.json -geoportalURL=https://www.geoportal.rlp.de
         working-directory: api-finder
+
+      - name: Create Pull Request if needed
+        id: create-pull-request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          commit-message: "update geoportal lists"
+          title: "[bot] Update Geoportal lists"
+          delete-branch: true
