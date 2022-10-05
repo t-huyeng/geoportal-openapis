@@ -10,5 +10,5 @@ jobs:
         with:
           go-version: "1.18.3"
       - uses: actions/checkout@v3
+      - run: go run .
         working-directory: api-finder
-        run: go run .
