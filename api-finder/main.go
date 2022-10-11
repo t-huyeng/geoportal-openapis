@@ -56,8 +56,7 @@ func main() {
 		// check if content-type header contains JSON
 		if strings.Contains(r.Headers.Get("Content-Type"), "json") {
 			// read out openapi json
-			jsonData := r.Body
-			list = extractInfos(jsonData, list)
+			list = extractInfos(r, list)
 		}
 
 	})
@@ -76,7 +75,7 @@ func main() {
 	c.OnRequest(func(r *colly.Request) {
 		fmt.Println("Visiting", r.URL.String())
 	})
-	// Start scraping on geoportalFlag + /spatial-objects
+	// Start scraping on geoportalFlag + /spatial-objects/
 	fmt.Println("Start scraping on", *geoportalFlag+"/spatial-objects/")
 	c.Visit(*geoportalFlag + "/spatial-objects/")
 
@@ -98,7 +97,9 @@ func save2File(list apiList, pathFlag *string) {
 }
 
 // extract infos from openapi json
-func extractInfos(jsonData []byte, list apiList) apiList {
+func extractInfos(r *colly.Response, list apiList) apiList {
+
+	jsonData := r.Body
 
 	//parse openapi json
 	jsonMap := make(map[string]interface{})
@@ -116,8 +117,16 @@ func extractInfos(jsonData []byte, list apiList) apiList {
 
 	// get id of api (last part of server-url)
 	id := strings.Split(serverStr, "/")[4]
-	rawOpenAPI := "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/" + id + ".json"
-
+	rawOpenAPI := ""
+	// call URL and check HEADERS for CORS
+	if strings.Contains((r.Headers.Get("Access-Control-Allow-Origin")), "*") {
+		fmt.Println("CORS allowed")
+		rawOpenAPI = serverStr + "/api"
+	} else {
+		fmt.Println("CORS not allowed")
+		// TODO save OpenAPI to github-repo change folder
+		rawOpenAPI = "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/" + id + ".json"
+	}
 	// save the data as object to the api_list
 	api := api{ID: id, URL: serverStr, Name: nameStr, RawOpenAPI: rawOpenAPI}
 
