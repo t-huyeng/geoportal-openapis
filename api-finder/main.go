@@ -36,9 +36,11 @@ func (liste *apiList) Sort() {
 func main() {
 	pathFlag := flag.String("path", "geoportal_he.json", "path where to save list of apis")
 	geoportalFlag := flag.String("geoportalURL", "https://www.geoportal.hessen.de", "geoportal URL")
+	saveFlag := flag.Bool("save", false, "save openapis	to file")
 	flag.Parse()
-	fmt.Println("pathPtr:", *pathFlag)
-	fmt.Println("geoportalPtr:", *geoportalFlag)
+	fmt.Println("pathFlag:", *pathFlag)
+	fmt.Println("geoportalFlag:", *geoportalFlag)
+	fmt.Println("saveFlag:", *saveFlag)
 
 	list := apiList{}
 
@@ -56,7 +58,7 @@ func main() {
 		// check if content-type header contains JSON
 		if strings.Contains(r.Headers.Get("Content-Type"), "json") {
 			// read out openapi json
-			list = extractInfos(r, list)
+			list = extractInfos(r, list, *saveFlag)
 		}
 
 	})
@@ -97,7 +99,7 @@ func save2File(list apiList, pathFlag *string) {
 }
 
 // extract infos from openapi json
-func extractInfos(r *colly.Response, list apiList) apiList {
+func extractInfos(r *colly.Response, list apiList, save bool) apiList {
 
 	jsonData := r.Body
 
@@ -120,12 +122,30 @@ func extractInfos(r *colly.Response, list apiList) apiList {
 	rawOpenAPI := ""
 	// call URL and check HEADERS for CORS
 	if strings.Contains((r.Headers.Get("Access-Control-Allow-Origin")), "*") {
-		fmt.Println("CORS allowed")
+		fmt.Println("- CORS allowed")
 		rawOpenAPI = serverStr + "api"
 	} else {
-		fmt.Println("CORS not allowed")
-		// TODO save OpenAPI to github-repo change folder
-		rawOpenAPI = "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-he/" + id + ".json"
+		fmt.Println("- CORS not allowed")
+		folder := "unknown"
+		// check URL and set folder for rawOpenAPI
+		if strings.Contains(serverStr, "geoportal.hessen.de") {
+			folder = "geoportal-he"
+		} else if strings.Contains(serverStr, "geoportal.saarland.de") {
+			folder = "geoportal-sl"
+		} else if strings.Contains(serverStr, "geoportal.rlp.de") {
+			folder = "geoportal-rp"
+		}
+
+		// if save flag is active save openapi to file into the folder
+		if save {
+			fmt.Println("Saving OpenAPI to file..." + folder + "/" + id + ".json")
+			err = ioutil.WriteFile("../"+folder+"/"+id+".json", r.Body, 0644)
+			if err != nil {
+				fmt.Println(err.Error())
+			} else {
+				rawOpenAPI = "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/" + folder + "/" + id + ".json"
+			}
+		}
 	}
 	// save the data as object to the api_list
 	api := api{ID: id, URL: serverStr, Name: nameStr, RawOpenAPI: rawOpenAPI}
