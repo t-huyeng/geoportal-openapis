@@ -1,6 +1,5 @@
 name: Check for OpenAPI files from different Geoportals
 on:
-  push: # keep push here until merged into main branch
   schedule:
     - cron: "0 0 * * 1,4" # At 00:00 on Monday and Thursday.
   workflow_dispatch:
