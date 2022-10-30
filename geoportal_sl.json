@@ -1,656 +1,668 @@
 [
-    {
-        "name": "DGM",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/185",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/185.json",
-        "id": 185
-    },
-    {
-        "name": "Schutzgebiete_INS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/215",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/215.json",
-        "id": 215
-    },
-    {
-        "name": "Geologie",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/216",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/216.json",
-        "id": 216
-    },
-    {
-        "name": "Denkmalschutz",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/217",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/217.json",
-        "id": 217
-    },
-    {
-        "name": "Arten_Biotopschutz",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/222",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/222.json",
-        "id": 222
-    },
-    {
-        "name": "Biotopkataster",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/224",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/224.json",
-        "id": 224
-    },
-    {
-        "name": "Landesplanung",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/226",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/226.json",
-        "id": 226
-    },
-    {
-        "name": "Naturschutz",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/227",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/227.json",
-        "id": 227
-    },
-    {
-        "name": "Immissionsschutz",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/237",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/237.json",
-        "id": 237
-    },
-    {
-        "name": "Energie_WFS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/240",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/240.json",
-        "id": 240
-    },
-    {
-        "name": "Verkehr_WFS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/242",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/242.json",
-        "id": 242
-    },
-    {
-        "name": "Boden_WFS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/245",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/245.json",
-        "id": 245
-    },
-    {
-        "name": "LAPRO_Arten_Biotope_WFS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/246",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/246.json",
-        "id": 246
-    },
-    {
-        "name": "LAPRO_Klima_Boden_Grundwasser_WFS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/247",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/247.json",
-        "id": 247
-    },
-    {
-        "name": "LAPRO_Kulturlandschaft_Erholungsvorsorge_WFS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/250",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/250.json",
-        "id": 250
-    },
-    {
-        "name": "LAPRO_Oberflaechengewaesser_Auen_WFS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/251",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/251.json",
-        "id": 251
-    },
-    {
-        "name": "LAPRO_Wald_Landwirtschaft_WFS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/252",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/252.json",
-        "id": 252
-    },
-    {
-        "name": "Bergbau_Internet",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/253",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/253.json",
-        "id": 253
-    },
-    {
-        "name": "Forstwirtschaft",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/254",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/254.json",
-        "id": 254
-    },
-    {
-        "name": "Gewerbe",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/255",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/255.json",
-        "id": 255
-    },
-    {
-        "name": "Staatliche_Dienste",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/257",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/257.json",
-        "id": 257
-    },
-    {
-        "name": "Gesundheit",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/259",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/259.json",
-        "id": 259
-    },
-    {
-        "name": "Hochwasser_WFS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/260",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/260.json",
-        "id": 260
-    },
-    {
-        "name": "ABDS_RASTER",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/291",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/291.json",
-        "id": 291
-    },
-    {
-        "name": "Hydrogeologie_SL",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/292",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/292.json",
-        "id": 292
-    },
-    {
-        "name": "Versorgungsgebiete_EVU",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/293",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/293.json",
-        "id": 293
-    },
-    {
-        "name": "NATURA2000_VO",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/298",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/298.json",
-        "id": 298
-    },
-    {
-        "name": "INSPIRE-WFS SL Geografische Bezeichnungen ALKIS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/302",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/302.json",
-        "id": 302
-    },
-    {
-        "name": "INSPIRE-WFS SL Verwaltungseinheiten ALKIS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/303",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/303.json",
-        "id": 303
-    },
-    {
-        "name": "Waermekataster_WFS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/305",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/305.json",
-        "id": 305
-    },
-    {
-        "name": "Photovoltaik_Agrarfl",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/307",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/307.json",
-        "id": 307
-    },
-    {
-        "name": "INSPIRE-WFS SL Adressen Hauskoordinaten",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/309",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/309.json",
-        "id": 309
-    },
-    {
-        "name": "INSPIRE-WFS SL Flurstuecke Grundstuecke ALKIS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/310",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/310.json",
-        "id": 310
-    },
-    {
-        "name": "INSPIRE-WFS SL Hydro - Netzwerk ATKIS Basis-DLM",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/311",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/311.json",
-        "id": 311
-    },
-    {
-        "name": "INSPIRE-WFS SL Hydro - Physische Gewaesser ATKIS Basis-DLM",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/312",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/312.json",
-        "id": 312
-    },
-    {
-        "name": "INSPIRE-WFS SL Verkehrsnetze ATKIS Basis-DLM",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/313",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/313.json",
-        "id": 313
-    },
-    {
-        "name": "INSPIRE-WFS SL Geografische Bezeichnungen ATKIS Basis-DLM",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/314",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/314.json",
-        "id": 314
-    },
-    {
-        "name": "INSPIRE-WFS SL Verwaltungseinheiten ATKIS Basis-DLM",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/315",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/315.json",
-        "id": 315
-    },
-    {
-        "name": "INSPIRE-WFS SL Geografische Bezeichnungen Geofachdaten",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/317",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/317.json",
-        "id": 317
-    },
-    {
-        "name": "INSPIRE-WFS SL Schutzgebiete",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/318",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/318.json",
-        "id": 318
-    },
-    {
-        "name": "Sanierungsgebiete Saarland",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/320",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/320.json",
-        "id": 320
-    },
-    {
-        "name": "Abfallbeseitigung",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/321",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/321.json",
-        "id": 321
-    },
-    {
-        "name": "INSPIRE-WFS SL Verkehrsnetze Saarradland",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/322",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/322.json",
-        "id": 322
-    },
-    {
-        "name": "INSPIRE-WFS SL Verkehrsnetze Tourismus",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/323",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/323.json",
-        "id": 323
-    },
-    {
-        "name": "INSPIRE-WFS SL Verkehrsnetze Wegenetz im saarl\u00e4ndischen Wald",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/324",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/324.json",
-        "id": 324
-    },
-    {
-        "name": "WFS SL ALKIS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/325",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/325.json",
-        "id": 325
-    },
-    {
-        "name": "INSPIRE-WFS SL Verkehrsnetze OKSTRA",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/326",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/326.json",
-        "id": 326
-    },
-    {
-        "name": "INSPIRE-WFS SL Geografische Bezeichnungen ATKIS DLM50",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/327",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/327.json",
-        "id": 327
-    },
-    {
-        "name": "INSPIRE-WFS SL Verwaltungseinheiten ATKIS DLM50",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/328",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/328.json",
-        "id": 328
-    },
-    {
-        "name": "INSPIRE-WFS SL Hydro - Netzwerk ATKIS DLM50",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/329",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/329.json",
-        "id": 329
-    },
-    {
-        "name": "INSPIRE-WFS SL Hydro - Physische Gewaesser ATKIS DLM50",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/330",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/330.json",
-        "id": 330
-    },
-    {
-        "name": "INSPIRE-WFS SL Verkehrsnetze ATKIS DLM50",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/331",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/331.json",
-        "id": 331
-    },
-    {
-        "name": "ALKIS_BS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/332",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/332.json",
-        "id": 332
-    },
-    {
-        "name": "INSPIRE-WFS SL Geologie GK25",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/334",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/334.json",
-        "id": 334
-    },
-    {
-        "name": "INSPIRE-WFS SL Geologie GK100",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/335",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/335.json",
-        "id": 335
-    },
-    {
-        "name": "INSPIRE-WFS SL Geologie oberfl\u00e4chennahe Rohstoffabbaufl\u00e4chen",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/336",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/336.json",
-        "id": 336
-    },
-    {
-        "name": "INSPIRE-WFS SL Existierende Bodennutzung Gesamtwaldfl\u00e4chen",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/337",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/337.json",
-        "id": 337
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Bous",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/338",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/338.json",
-        "id": 338
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Quierschied",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/339",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/339.json",
-        "id": 339
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Saarlouis",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/340",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/340.json",
-        "id": 340
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Eppelborn",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/341",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/341.json",
-        "id": 341
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Rehlingen-Siersburg",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/342",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/342.json",
-        "id": 342
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne St. Wendel",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/343",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/343.json",
-        "id": 343
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Gersheim",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/344",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/344.json",
-        "id": 344
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Riegelsberg",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/345",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/345.json",
-        "id": 345
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne V\u00f6lklingen",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/346",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/346.json",
-        "id": 346
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Gro\u00dfrosseln",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/347",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/347.json",
-        "id": 347
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Schmelz",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/348",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/348.json",
-        "id": 348
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Blieskastel",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/349",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/349.json",
-        "id": 349
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Heusweiler",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/350",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/350.json",
-        "id": 350
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Schwalbach, Saar",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/351",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/351.json",
-        "id": 351
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Dillingen, Saar",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/352",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/352.json",
-        "id": 352
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Illingen, Saar",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/353",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/353.json",
-        "id": 353
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Spiesen-Elversberg",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/354",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/354.json",
-        "id": 354
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Friedrichsthal, Saar",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/355",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/355.json",
-        "id": 355
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Kleinblittersdorf",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/356",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/356.json",
-        "id": 356
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Tholey",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/357",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/357.json",
-        "id": 357
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne P\u00fcttlingen",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/358",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/358.json",
-        "id": 358
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Mandelbachtal",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/359",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/359.json",
-        "id": 359
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Wadgassen",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/360",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/360.json",
-        "id": 360
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Sulzbach, Saar",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/361",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/361.json",
-        "id": 361
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Marpingen",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/362",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/362.json",
-        "id": 362
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Wallerfangen",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/363",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/363.json",
-        "id": 363
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Merchweiler",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/364",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/364.json",
-        "id": 364
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Weiskirchen",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/365",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/365.json",
-        "id": 365
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Mettlach",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/366",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/366.json",
-        "id": 366
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Merzig",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/367",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/367.json",
-        "id": 367
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Nonnweiler",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/368",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/368.json",
-        "id": 368
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Neunkirchen, Saar",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/369",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/369.json",
-        "id": 369
-    },
-    {
-        "name": "INSPIRE-WFS SL Existierende Bodennutzung ALKIS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/372",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/372.json",
-        "id": 372
-    },
-    {
-        "name": "INSPIRE-WFS SL Geb\u00e4ude - 2D ALKIS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/373",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/373.json",
-        "id": 373
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Landesentwicklungsplan",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/374",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/374.json",
-        "id": 374
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne Nalbach",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/375",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/375.json",
-        "id": 375
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung Bebauungspl\u00e4ne \u00dcberherrn",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/376",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/376.json",
-        "id": 376
-    },
-    {
-        "name": "INSPIRE-WFS SL Boden Standortkarte Wald",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/377",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/377.json",
-        "id": 377
-    },
-    {
-        "name": "INSPIRE-WFS SL Boden Erosionsgef\u00e4hrdung landwirtschaftlicher Fl\u00e4chen",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/378",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/378.json",
-        "id": 378
-    },
-    {
-        "name": "INSPIRE-WFS SL Energiequellen Biogas- und Windkraftanlagen",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/379",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/379.json",
-        "id": 379
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodennutzung LAPRO 2009",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/380",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/380.json",
-        "id": 380
-    },
-    {
-        "name": "INSPIRE-WFS SL Lebensr\u00e4ume und Biotope",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/381",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/381.json",
-        "id": 381
-    },
-    {
-        "name": "INSPIRE-WFS SL Boden \u00dcbersichtkarte",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/382",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/382.json",
-        "id": 382
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodenbedeckung Invekos - Landschaftselemente",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/383",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/383.json",
-        "id": 383
-    },
-    {
-        "name": "INSPIRE-WFS SL Bodenbedeckung Invekos - LPIS Referenzschl\u00e4ge",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/384",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/384.json",
-        "id": 384
-    },
-    {
-        "name": "INSPIRE-WFS SL Existierende Bodennutzung Invekos - Antragsschl\u00e4ge",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/385",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/385.json",
-        "id": 385
-    },
-    {
-        "name": "INSPIRE-WFS SL Boden ALKIS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/386",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/386.json",
-        "id": 386
-    },
-    {
-        "name": "INSPIRE-WFS SL Versorgungswirtschaft und staatliche Dienste - Umweltmanagementeinrichtung",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/387",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/387.json",
-        "id": 387
-    },
-    {
-        "name": "INSPIRE-WFS SL Versorgungswirtschaft und staatliche Dienste - Staatliche Verwaltungs- Und Sozialdienste",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/388",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/388.json",
-        "id": 388
-    },
-    {
-        "name": "SL-Netz: WFS ATKIS-BASIS-DLM",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/389",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/389.json",
-        "id": 389
-    },
-    {
-        "name": "Wasser_WFS",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/390",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/390.json",
-        "id": 390
-    },
-    {
-        "name": "Abfallbeseitigung WFS 2.0",
-        "url": "https://www.geoportal.saarland.de/spatial-objects/391",
-        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/geoportal-sl/391.json",
-        "id": 391
-    }
+ {
+  "id": "185",
+  "url": "https://geoportal.saarland.de/spatial-objects/185/",
+  "name": "DGM",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/185/api"
+ },
+ {
+  "id": "215",
+  "url": "https://geoportal.saarland.de/spatial-objects/215/",
+  "name": "Schutzgebiete_INS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/215/api"
+ },
+ {
+  "id": "216",
+  "url": "https://geoportal.saarland.de/spatial-objects/216/",
+  "name": "Geologie",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/216/api"
+ },
+ {
+  "id": "217",
+  "url": "https://geoportal.saarland.de/spatial-objects/217/",
+  "name": "Denkmalschutz",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/217/api"
+ },
+ {
+  "id": "222",
+  "url": "https://geoportal.saarland.de/spatial-objects/222/",
+  "name": "Arten_Biotopschutz",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/222/api"
+ },
+ {
+  "id": "224",
+  "url": "https://geoportal.saarland.de/spatial-objects/224/",
+  "name": "Biotopkataster",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/224/api"
+ },
+ {
+  "id": "226",
+  "url": "https://geoportal.saarland.de/spatial-objects/226/",
+  "name": "Landesplanung",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/226/api"
+ },
+ {
+  "id": "227",
+  "url": "https://geoportal.saarland.de/spatial-objects/227/",
+  "name": "Naturschutz",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/227/api"
+ },
+ {
+  "id": "237",
+  "url": "https://geoportal.saarland.de/spatial-objects/237/",
+  "name": "Immissionsschutz",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/237/api"
+ },
+ {
+  "id": "240",
+  "url": "https://geoportal.saarland.de/spatial-objects/240/",
+  "name": "Energie_WFS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/240/api"
+ },
+ {
+  "id": "242",
+  "url": "https://geoportal.saarland.de/spatial-objects/242/",
+  "name": "Verkehr_WFS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/242/api"
+ },
+ {
+  "id": "245",
+  "url": "https://geoportal.saarland.de/spatial-objects/245/",
+  "name": "Boden_WFS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/245/api"
+ },
+ {
+  "id": "246",
+  "url": "https://geoportal.saarland.de/spatial-objects/246/",
+  "name": "LAPRO_Arten_Biotope_WFS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/246/api"
+ },
+ {
+  "id": "247",
+  "url": "https://geoportal.saarland.de/spatial-objects/247/",
+  "name": "LAPRO_Klima_Boden_Grundwasser_WFS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/247/api"
+ },
+ {
+  "id": "250",
+  "url": "https://geoportal.saarland.de/spatial-objects/250/",
+  "name": "LAPRO_Kulturlandschaft_Erholungsvorsorge_WFS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/250/api"
+ },
+ {
+  "id": "251",
+  "url": "https://geoportal.saarland.de/spatial-objects/251/",
+  "name": "LAPRO_Oberflaechengewaesser_Auen_WFS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/251/api"
+ },
+ {
+  "id": "252",
+  "url": "https://geoportal.saarland.de/spatial-objects/252/",
+  "name": "LAPRO_Wald_Landwirtschaft_WFS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/252/api"
+ },
+ {
+  "id": "253",
+  "url": "https://geoportal.saarland.de/spatial-objects/253/",
+  "name": "Bergbau_Internet",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/253/api"
+ },
+ {
+  "id": "254",
+  "url": "https://geoportal.saarland.de/spatial-objects/254/",
+  "name": "Forstwirtschaft",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/254/api"
+ },
+ {
+  "id": "255",
+  "url": "https://geoportal.saarland.de/spatial-objects/255/",
+  "name": "Gewerbe",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/255/api"
+ },
+ {
+  "id": "257",
+  "url": "https://geoportal.saarland.de/spatial-objects/257/",
+  "name": "Staatliche_Dienste",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/257/api"
+ },
+ {
+  "id": "259",
+  "url": "https://geoportal.saarland.de/spatial-objects/259/",
+  "name": "Gesundheit",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/259/api"
+ },
+ {
+  "id": "260",
+  "url": "https://geoportal.saarland.de/spatial-objects/260/",
+  "name": "Hochwasser_WFS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/260/api"
+ },
+ {
+  "id": "291",
+  "url": "https://geoportal.saarland.de/spatial-objects/291/",
+  "name": "ABDS_RASTER",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/291/api"
+ },
+ {
+  "id": "292",
+  "url": "https://geoportal.saarland.de/spatial-objects/292/",
+  "name": "Hydrogeologie_SL",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/292/api"
+ },
+ {
+  "id": "293",
+  "url": "https://geoportal.saarland.de/spatial-objects/293/",
+  "name": "Versorgungsgebiete_EVU",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/293/api"
+ },
+ {
+  "id": "298",
+  "url": "https://geoportal.saarland.de/spatial-objects/298/",
+  "name": "NATURA2000_VO",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/298/api"
+ },
+ {
+  "id": "302",
+  "url": "https://geoportal.saarland.de/spatial-objects/302/",
+  "name": "INSPIRE-WFS SL Geografische Bezeichnungen ALKIS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/302/api"
+ },
+ {
+  "id": "303",
+  "url": "https://geoportal.saarland.de/spatial-objects/303/",
+  "name": "INSPIRE-WFS SL Verwaltungseinheiten ALKIS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/303/api"
+ },
+ {
+  "id": "305",
+  "url": "https://geoportal.saarland.de/spatial-objects/305/",
+  "name": "Waermekataster_WFS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/305/api"
+ },
+ {
+  "id": "307",
+  "url": "https://geoportal.saarland.de/spatial-objects/307/",
+  "name": "Photovoltaik_Agrarfl",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/307/api"
+ },
+ {
+  "id": "309",
+  "url": "https://geoportal.saarland.de/spatial-objects/309/",
+  "name": "INSPIRE-WFS SL Adressen Hauskoordinaten",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/309/api"
+ },
+ {
+  "id": "310",
+  "url": "https://geoportal.saarland.de/spatial-objects/310/",
+  "name": "INSPIRE-WFS SL Flurstuecke Grundstuecke ALKIS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/310/api"
+ },
+ {
+  "id": "311",
+  "url": "https://geoportal.saarland.de/spatial-objects/311/",
+  "name": "INSPIRE-WFS SL Hydro - Netzwerk ATKIS Basis-DLM",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/311/api"
+ },
+ {
+  "id": "312",
+  "url": "https://geoportal.saarland.de/spatial-objects/312/",
+  "name": "INSPIRE-WFS SL Hydro - Physische Gewaesser ATKIS Basis-DLM",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/312/api"
+ },
+ {
+  "id": "313",
+  "url": "https://geoportal.saarland.de/spatial-objects/313/",
+  "name": "INSPIRE-WFS SL Verkehrsnetze ATKIS Basis-DLM",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/313/api"
+ },
+ {
+  "id": "314",
+  "url": "https://geoportal.saarland.de/spatial-objects/314/",
+  "name": "INSPIRE-WFS SL Geografische Bezeichnungen ATKIS Basis-DLM",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/314/api"
+ },
+ {
+  "id": "315",
+  "url": "https://geoportal.saarland.de/spatial-objects/315/",
+  "name": "INSPIRE-WFS SL Verwaltungseinheiten ATKIS Basis-DLM",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/315/api"
+ },
+ {
+  "id": "317",
+  "url": "https://geoportal.saarland.de/spatial-objects/317/",
+  "name": "INSPIRE-WFS SL Geografische Bezeichnungen Geofachdaten",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/317/api"
+ },
+ {
+  "id": "318",
+  "url": "https://geoportal.saarland.de/spatial-objects/318/",
+  "name": "INSPIRE-WFS SL Schutzgebiete",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/318/api"
+ },
+ {
+  "id": "320",
+  "url": "https://geoportal.saarland.de/spatial-objects/320/",
+  "name": "Sanierungsgebiete Saarland",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/320/api"
+ },
+ {
+  "id": "321",
+  "url": "https://geoportal.saarland.de/spatial-objects/321/",
+  "name": "Abfallbeseitigung",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/321/api"
+ },
+ {
+  "id": "322",
+  "url": "https://geoportal.saarland.de/spatial-objects/322/",
+  "name": "INSPIRE-WFS SL Verkehrsnetze Saarradland",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/322/api"
+ },
+ {
+  "id": "323",
+  "url": "https://geoportal.saarland.de/spatial-objects/323/",
+  "name": "INSPIRE-WFS SL Verkehrsnetze Tourismus",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/323/api"
+ },
+ {
+  "id": "324",
+  "url": "https://geoportal.saarland.de/spatial-objects/324/",
+  "name": "INSPIRE-WFS SL Verkehrsnetze Wegenetz im saarländischen Wald",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/324/api"
+ },
+ {
+  "id": "325",
+  "url": "https://geoportal.saarland.de/spatial-objects/325/",
+  "name": "WFS SL ALKIS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/325/api"
+ },
+ {
+  "id": "326",
+  "url": "https://geoportal.saarland.de/spatial-objects/326/",
+  "name": "INSPIRE-WFS SL Verkehrsnetze OKSTRA",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/326/api"
+ },
+ {
+  "id": "327",
+  "url": "https://geoportal.saarland.de/spatial-objects/327/",
+  "name": "INSPIRE-WFS SL Geografische Bezeichnungen ATKIS DLM50",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/327/api"
+ },
+ {
+  "id": "328",
+  "url": "https://geoportal.saarland.de/spatial-objects/328/",
+  "name": "INSPIRE-WFS SL Verwaltungseinheiten ATKIS DLM50",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/328/api"
+ },
+ {
+  "id": "329",
+  "url": "https://geoportal.saarland.de/spatial-objects/329/",
+  "name": "INSPIRE-WFS SL Hydro - Netzwerk ATKIS DLM50",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/329/api"
+ },
+ {
+  "id": "330",
+  "url": "https://geoportal.saarland.de/spatial-objects/330/",
+  "name": "INSPIRE-WFS SL Hydro - Physische Gewaesser ATKIS DLM50",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/330/api"
+ },
+ {
+  "id": "331",
+  "url": "https://geoportal.saarland.de/spatial-objects/331/",
+  "name": "INSPIRE-WFS SL Verkehrsnetze ATKIS DLM50",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/331/api"
+ },
+ {
+  "id": "332",
+  "url": "https://geoportal.saarland.de/spatial-objects/332/",
+  "name": "ALKIS_BS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/332/api"
+ },
+ {
+  "id": "334",
+  "url": "https://geoportal.saarland.de/spatial-objects/334/",
+  "name": "INSPIRE-WFS SL Geologie GK25",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/334/api"
+ },
+ {
+  "id": "335",
+  "url": "https://geoportal.saarland.de/spatial-objects/335/",
+  "name": "INSPIRE-WFS SL Geologie GK100",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/335/api"
+ },
+ {
+  "id": "336",
+  "url": "https://geoportal.saarland.de/spatial-objects/336/",
+  "name": "INSPIRE-WFS SL Geologie oberflächennahe Rohstoffabbauflächen",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/336/api"
+ },
+ {
+  "id": "337",
+  "url": "https://geoportal.saarland.de/spatial-objects/337/",
+  "name": "INSPIRE-WFS SL Existierende Bodennutzung Gesamtwaldflächen",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/337/api"
+ },
+ {
+  "id": "338",
+  "url": "https://geoportal.saarland.de/spatial-objects/338/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Bous",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/338/api"
+ },
+ {
+  "id": "339",
+  "url": "https://geoportal.saarland.de/spatial-objects/339/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Quierschied",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/339/api"
+ },
+ {
+  "id": "340",
+  "url": "https://geoportal.saarland.de/spatial-objects/340/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Saarlouis",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/340/api"
+ },
+ {
+  "id": "341",
+  "url": "https://geoportal.saarland.de/spatial-objects/341/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Eppelborn",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/341/api"
+ },
+ {
+  "id": "342",
+  "url": "https://geoportal.saarland.de/spatial-objects/342/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Rehlingen-Siersburg",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/342/api"
+ },
+ {
+  "id": "343",
+  "url": "https://geoportal.saarland.de/spatial-objects/343/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne St. Wendel",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/343/api"
+ },
+ {
+  "id": "344",
+  "url": "https://geoportal.saarland.de/spatial-objects/344/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Gersheim",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/344/api"
+ },
+ {
+  "id": "345",
+  "url": "https://geoportal.saarland.de/spatial-objects/345/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Riegelsberg",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/345/api"
+ },
+ {
+  "id": "346",
+  "url": "https://geoportal.saarland.de/spatial-objects/346/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Völklingen",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/346/api"
+ },
+ {
+  "id": "347",
+  "url": "https://geoportal.saarland.de/spatial-objects/347/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Großrosseln",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/347/api"
+ },
+ {
+  "id": "348",
+  "url": "https://geoportal.saarland.de/spatial-objects/348/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Schmelz",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/348/api"
+ },
+ {
+  "id": "349",
+  "url": "https://geoportal.saarland.de/spatial-objects/349/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Blieskastel",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/349/api"
+ },
+ {
+  "id": "350",
+  "url": "https://geoportal.saarland.de/spatial-objects/350/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Heusweiler",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/350/api"
+ },
+ {
+  "id": "351",
+  "url": "https://geoportal.saarland.de/spatial-objects/351/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Schwalbach, Saar",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/351/api"
+ },
+ {
+  "id": "352",
+  "url": "https://geoportal.saarland.de/spatial-objects/352/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Dillingen, Saar",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/352/api"
+ },
+ {
+  "id": "353",
+  "url": "https://geoportal.saarland.de/spatial-objects/353/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Illingen, Saar",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/353/api"
+ },
+ {
+  "id": "354",
+  "url": "https://geoportal.saarland.de/spatial-objects/354/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Spiesen-Elversberg",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/354/api"
+ },
+ {
+  "id": "355",
+  "url": "https://geoportal.saarland.de/spatial-objects/355/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Friedrichsthal, Saar",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/355/api"
+ },
+ {
+  "id": "356",
+  "url": "https://geoportal.saarland.de/spatial-objects/356/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Kleinblittersdorf",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/356/api"
+ },
+ {
+  "id": "357",
+  "url": "https://geoportal.saarland.de/spatial-objects/357/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Tholey",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/357/api"
+ },
+ {
+  "id": "358",
+  "url": "https://geoportal.saarland.de/spatial-objects/358/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Püttlingen",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/358/api"
+ },
+ {
+  "id": "359",
+  "url": "https://geoportal.saarland.de/spatial-objects/359/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Mandelbachtal",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/359/api"
+ },
+ {
+  "id": "360",
+  "url": "https://geoportal.saarland.de/spatial-objects/360/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Wadgassen",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/360/api"
+ },
+ {
+  "id": "361",
+  "url": "https://geoportal.saarland.de/spatial-objects/361/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Sulzbach, Saar",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/361/api"
+ },
+ {
+  "id": "362",
+  "url": "https://geoportal.saarland.de/spatial-objects/362/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Marpingen",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/362/api"
+ },
+ {
+  "id": "363",
+  "url": "https://geoportal.saarland.de/spatial-objects/363/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Wallerfangen",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/363/api"
+ },
+ {
+  "id": "364",
+  "url": "https://geoportal.saarland.de/spatial-objects/364/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Merchweiler",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/364/api"
+ },
+ {
+  "id": "365",
+  "url": "https://geoportal.saarland.de/spatial-objects/365/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Weiskirchen",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/365/api"
+ },
+ {
+  "id": "366",
+  "url": "https://geoportal.saarland.de/spatial-objects/366/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Mettlach",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/366/api"
+ },
+ {
+  "id": "367",
+  "url": "https://geoportal.saarland.de/spatial-objects/367/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Merzig",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/367/api"
+ },
+ {
+  "id": "368",
+  "url": "https://geoportal.saarland.de/spatial-objects/368/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Nonnweiler",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/368/api"
+ },
+ {
+  "id": "369",
+  "url": "https://geoportal.saarland.de/spatial-objects/369/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Neunkirchen, Saar",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/369/api"
+ },
+ {
+  "id": "372",
+  "url": "https://geoportal.saarland.de/spatial-objects/372/",
+  "name": "INSPIRE-WFS SL Existierende Bodennutzung ALKIS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/372/api"
+ },
+ {
+  "id": "373",
+  "url": "https://geoportal.saarland.de/spatial-objects/373/",
+  "name": "INSPIRE-WFS SL Gebäude - 2D ALKIS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/373/api"
+ },
+ {
+  "id": "374",
+  "url": "https://geoportal.saarland.de/spatial-objects/374/",
+  "name": "INSPIRE-WFS SL Bodennutzung Landesentwicklungsplan",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/374/api"
+ },
+ {
+  "id": "375",
+  "url": "https://geoportal.saarland.de/spatial-objects/375/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Nalbach",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/375/api"
+ },
+ {
+  "id": "376",
+  "url": "https://geoportal.saarland.de/spatial-objects/376/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Überherrn",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/376/api"
+ },
+ {
+  "id": "377",
+  "url": "https://geoportal.saarland.de/spatial-objects/377/",
+  "name": "INSPIRE-WFS SL Boden Standortkarte Wald",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/377/api"
+ },
+ {
+  "id": "378",
+  "url": "https://geoportal.saarland.de/spatial-objects/378/",
+  "name": "INSPIRE-WFS SL Boden Erosionsgefährdung landwirtschaftlicher Flächen",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/378/api"
+ },
+ {
+  "id": "379",
+  "url": "https://geoportal.saarland.de/spatial-objects/379/",
+  "name": "INSPIRE-WFS SL Energiequellen Biogas- und Windkraftanlagen",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/379/api"
+ },
+ {
+  "id": "380",
+  "url": "https://geoportal.saarland.de/spatial-objects/380/",
+  "name": "INSPIRE-WFS SL Bodennutzung LAPRO 2009",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/380/api"
+ },
+ {
+  "id": "381",
+  "url": "https://geoportal.saarland.de/spatial-objects/381/",
+  "name": "INSPIRE-WFS SL Lebensräume und Biotope",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/381/api"
+ },
+ {
+  "id": "382",
+  "url": "https://geoportal.saarland.de/spatial-objects/382/",
+  "name": "INSPIRE-WFS SL Boden Übersichtkarte",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/382/api"
+ },
+ {
+  "id": "383",
+  "url": "https://geoportal.saarland.de/spatial-objects/383/",
+  "name": "INSPIRE-WFS SL Bodenbedeckung Invekos - Landschaftselemente",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/383/api"
+ },
+ {
+  "id": "384",
+  "url": "https://geoportal.saarland.de/spatial-objects/384/",
+  "name": "INSPIRE-WFS SL Bodenbedeckung Invekos - LPIS Referenzschläge",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/384/api"
+ },
+ {
+  "id": "385",
+  "url": "https://geoportal.saarland.de/spatial-objects/385/",
+  "name": "INSPIRE-WFS SL Existierende Bodennutzung Invekos - Antragsschläge",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/385/api"
+ },
+ {
+  "id": "386",
+  "url": "https://geoportal.saarland.de/spatial-objects/386/",
+  "name": "INSPIRE-WFS SL Boden ALKIS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/386/api"
+ },
+ {
+  "id": "387",
+  "url": "https://geoportal.saarland.de/spatial-objects/387/",
+  "name": "INSPIRE-WFS SL Versorgungswirtschaft und staatliche Dienste - Umweltmanagementeinrichtung",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/387/api"
+ },
+ {
+  "id": "388",
+  "url": "https://geoportal.saarland.de/spatial-objects/388/",
+  "name": "INSPIRE-WFS SL Versorgungswirtschaft und staatliche Dienste - Staatliche Verwaltungs- Und Sozialdienste",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/388/api"
+ },
+ {
+  "id": "389",
+  "url": "https://geoportal.saarland.de/spatial-objects/389/",
+  "name": "SL-Netz: WFS ATKIS-BASIS-DLM",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/389/api"
+ },
+ {
+  "id": "390",
+  "url": "https://geoportal.saarland.de/spatial-objects/390/",
+  "name": "Wasser_WFS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/390/api"
+ },
+ {
+  "id": "391",
+  "url": "https://geoportal.saarland.de/spatial-objects/391/",
+  "name": "Abfallbeseitigung WFS 2.0",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/391/api"
+ },
+ {
+  "id": "392",
+  "url": "https://geoportal.saarland.de/spatial-objects/392/",
+  "name": "INSPIRE-WFS SL Landwirtschaftliche Anlagen und Aquakulturanlagen",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/392/api"
+ },
+ {
+  "id": "394",
+  "url": "https://geoportal.saarland.de/spatial-objects/394/",
+  "name": "INSPIRE-WFS SL Gebäude - 3D LoD2",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/394/api"
+ }
 ]

@@ -12,11 +12,11 @@ jobs:
         with:
           go-version: "1.18.3"
       - uses: actions/checkout@v3
-      - run: go run . -path=../geoportal_he_go.json -geoportalURL=https://www.geoportal.hessen.de --save=true
+      - run: go run . -path=../geoportal_he.json -geoportalURL=https://www.geoportal.hessen.de --save=true
         working-directory: api-finder
-      - run: go run . -path=../geoportal_sl_go.json -geoportalURL=https://geoportal.saarland.de --save=true
+      - run: go run . -path=../geoportal_sl.json -geoportalURL=https://geoportal.saarland.de --save=true
         working-directory: api-finder
-      - run: go run . -path=../geoportal_rlp_go.json -geoportalURL=https://www.geoportal.rlp.de --save=true
+      - run: go run . -path=../geoportal_rlp.json -geoportalURL=https://www.geoportal.rlp.de --save=true
         working-directory: api-finder
 
       - name: Create Pull Request if needed
