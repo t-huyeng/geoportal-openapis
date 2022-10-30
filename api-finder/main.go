@@ -123,7 +123,12 @@ func extractInfos(r *colly.Response, list apiList, save bool) apiList {
 	// call URL and check HEADERS for CORS
 	if strings.Contains((r.Headers.Get("Access-Control-Allow-Origin")), "*") {
 		fmt.Println("- CORS allowed")
-		rawOpenAPI = serverStr + "/api"
+		// check if serverStr is ending with trailing slash
+		if strings.HasSuffix(serverStr, "/") {
+			rawOpenAPI = serverStr + "api"
+		} else {
+			rawOpenAPI = serverStr + "/api"
+		}
 	} else {
 		fmt.Println("- CORS not allowed")
 		folder := "unknown"
@@ -147,6 +152,7 @@ func extractInfos(r *colly.Response, list apiList, save bool) apiList {
 			}
 		}
 	}
+	fmt.Println("Raw OpenAPI:", rawOpenAPI)
 	// save the data as object to the api_list
 	api := api{ID: id, URL: serverStr, Name: nameStr, RawOpenAPI: rawOpenAPI}
 
