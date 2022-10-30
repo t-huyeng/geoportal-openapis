@@ -40,22 +40,16 @@ def call_api_all(folder, mappingfile):
                 print(title)
                 # check if api is already in mapping
                 if (next((item for item in mapping if item["id"] == i), None)) is None:
+                    # check if CORS is enabled for this api
+                    url = main_url + str(i)
+                    rawOpenAPI = url + "/api"
                     entry = {
                         "name": repoData["info"]["title"],
-                        "url": main_url + str(i),
-                        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/geoportal-openapis/main/"
-                        + folder
-                        + "/"
-                        + str(i)
-                        + ".json",
+                        "url": url,
+                        "rawOpenAPI": rawOpenAPI,
                         "id": i,
                     }
                     mapping.append(entry)
-                if exists(folder + "/" + str(i) + ".json"):
-                    print("OpenAPI exists already.")
-                else:
-                    with open(folder + "/" + str(i) + ".json", "w") as myfile:
-                        myfile.write(text)
             else:
                 print(i, "not found")
             time.sleep(0.1)
@@ -69,12 +63,12 @@ def call_api_all(folder, mappingfile):
 
 if __name__ == "__main__":
     main_url = "https://www.geoportal.rlp.de/spatial-objects/"
-    call_api_all("geoportal-rlp", "geoportal_rlp.json")
+    call_api_all("geoportal-rlp", "geoportal_rlp_all.json")
 
     main_url = "https://www.geoportal.hessen.de/spatial-objects/"
-    call_api_all("geoportal-he", "geoportal_he.json")
+    call_api_all("geoportal-he", "geoportal_he_all.json")
 
     main_url = "https://www.geoportal.saarland.de/spatial-objects/"
-    call_api_all("geoportal-sl", "geoportal_sl.json")
+    call_api_all("geoportal-sl", "geoportal_sl_all.json")
     print("done")
     sys.exit(0)
