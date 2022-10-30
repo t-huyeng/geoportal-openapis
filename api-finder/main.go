@@ -123,7 +123,7 @@ func extractInfos(r *colly.Response, list apiList, save bool) apiList {
 	// call URL and check HEADERS for CORS
 	if strings.Contains((r.Headers.Get("Access-Control-Allow-Origin")), "*") {
 		fmt.Println("- CORS allowed")
-		rawOpenAPI = serverStr + "api"
+		rawOpenAPI = serverStr + "/api"
 	} else {
 		fmt.Println("- CORS not allowed")
 		folder := "unknown"
