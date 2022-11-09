@@ -6,8 +6,8 @@ This repo contains a Python script and a Go script which check a geoportal for O
 [Link](https://t-huyeng.github.io/geoportal-openapis)
 ## Geoportale von HE & RLP & SL
 
-[Geoportal Hessen](www.geoportal.hessen.de)
-[Geoportal Rheinland Pfalz](www.geoportal.rlp.de)
-[Geoportal Saarland](www.geoportal.rlp.de)
+[Geoportal Hessen](https://www.geoportal.hessen.de)
+[Geoportal Rheinland Pfalz](https://www.geoportal.rlp.de)
+[Geoportal Saarland](https://geoportal.saarland.de)
 
 
