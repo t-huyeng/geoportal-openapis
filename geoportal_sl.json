@@ -664,5 +664,17 @@
   "url": "https://geoportal.saarland.de/spatial-objects/394/",
   "name": "INSPIRE-WFS SL Gebäude - 3D LoD2",
   "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/394/api"
+ },
+ {
+  "id": "395",
+  "url": "https://geoportal.saarland.de/spatial-objects/395/",
+  "name": "INSPIRE-WFS SL Produktions- und Industrieanlagen SEVESO",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/395/api"
+ },
+ {
+  "id": "396",
+  "url": "https://geoportal.saarland.de/spatial-objects/396/",
+  "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Homburg",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/396/api"
  }
 ]
