@@ -1066,5 +1066,17 @@
   "url": "https://www.geoportal.hessen.de/spatial-objects/795",
   "name": "INSPIRE Feuerwehren Hochtaunuskreis",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/795/api"
+ },
+ {
+  "id": "809",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/809",
+  "name": "Kommunale Boden- und Raumplanung Landkreis Limburg-Weilburg",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/809/api"
+ },
+ {
+  "id": "810",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/810",
+  "name": "Rettungswachen Main-Taunus-Kreis",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/810/api"
  }
 ]
