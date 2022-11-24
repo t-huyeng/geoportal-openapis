@@ -888,6 +888,12 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/591/api"
  },
  {
+  "id": "592",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/592",
+  "name": "Hydrogeologische Übersichtskarte HÜK300",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/592/api"
+ },
+ {
   "id": "62",
   "url": "https://www.geoportal.rlp.de/spatial-objects/62",
   "name": "My GeoServer WFS",
