@@ -30,12 +30,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/182/api"
  },
  {
-  "id": "204",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/204",
-  "name": "GeoServer_KomServ4GDI",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/204/api"
- },
- {
   "id": "22",
   "url": "https://www.geoportal.rlp.de/spatial-objects/22",
   "name": "Geoserver GDI-RP",

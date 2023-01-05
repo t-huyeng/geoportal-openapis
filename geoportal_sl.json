@@ -638,7 +638,7 @@
  {
   "id": "389",
   "url": "https://geoportal.saarland.de/spatial-objects/389/",
-  "name": "SL-Netz: WFS ATKIS-BASIS-DLM",
+  "name": "SL-Netz: WFS SL Basis-DLM Shape",
   "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/389/api"
  },
  {
@@ -676,5 +676,11 @@
   "url": "https://geoportal.saarland.de/spatial-objects/396/",
   "name": "INSPIRE-WFS SL Bodennutzung Bebauungspläne Homburg",
   "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/396/api"
+ },
+ {
+  "id": "397",
+  "url": "https://geoportal.saarland.de/spatial-objects/397/",
+  "name": "INSPIRE-WFS SL Umweltüberwachung",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/397/api"
  }
 ]
