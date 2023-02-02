@@ -12,22 +12,10 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/144/api"
  },
  {
-  "id": "154",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/154",
-  "name": "Bodenordnungsverfahren Rheinland-Pfalz",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/154/api"
- },
- {
   "id": "180",
   "url": "https://www.geoportal.rlp.de/spatial-objects/180",
   "name": "WFS Server 1 der GDI-RP",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/180/api"
- },
- {
-  "id": "182",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/182",
-  "name": "Dienstleistungszentren Rheinland-Pfalz",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/182/api"
  },
  {
   "id": "22",
@@ -72,12 +60,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/303/api"
  },
  {
-  "id": "304",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/304",
-  "name": "Bodenordnungsverfahren Rheinland-Pfalz",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/304/api"
- },
- {
   "id": "305",
   "url": "https://www.geoportal.rlp.de/spatial-objects/305",
   "name": "WFS zur Flurstückssuche (tagesaktuell)",
@@ -112,12 +94,6 @@
   "url": "https://www.geoportal.rlp.de/spatial-objects/325",
   "name": "WFS-Dienst Überschwemmungsgebiete",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/325/api"
- },
- {
-  "id": "328",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/328",
-  "name": "Bodenordnungsverfahren Rheinland-Pfalz",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/328/api"
  },
  {
   "id": "329",
@@ -650,7 +626,7 @@
  {
   "id": "536",
   "url": "https://www.geoportal.rlp.de/spatial-objects/536",
-  "name": "KOMON Kompensationsflaechenkataster",
+  "name": "Kompensationsverzeichnis WFS",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/536/api"
  },
  {
@@ -886,6 +862,12 @@
   "url": "https://www.geoportal.rlp.de/spatial-objects/592",
   "name": "Hydrogeologische Übersichtskarte HÜK300",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/592/api"
+ },
+ {
+  "id": "594",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/594",
+  "name": "Flurbereinigungsverfahren Rheinland-Pfalz",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/594/api"
  },
  {
   "id": "62",
