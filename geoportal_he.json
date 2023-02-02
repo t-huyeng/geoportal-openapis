@@ -468,12 +468,6 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/672/api"
  },
  {
-  "id": "673",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/673",
-  "name": "WFS HE Koordinate HK Flst Lage",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/673/api"
- },
- {
   "id": "677",
   "url": "https://www.geoportal.hessen.de/spatial-objects/677",
   "name": "Neubaumonitor_Anzahl der fertiggestellten Wohngebaeude nach Gemeinden 2020",
@@ -514,36 +508,6 @@
   "url": "https://www.geoportal.hessen.de/spatial-objects/686",
   "name": "Neubaumonitor_Fertiggestellte Wohnflaeche je Tsd EinwohnerIn nach Gemeinden in m2 2020",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/686/api"
- },
- {
-  "id": "691",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/691",
-  "name": "WFS HE ALKIS Vereinfacht",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/691/api"
- },
- {
-  "id": "694",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/694",
-  "name": "WFS HE Basis-DLM AAA-Modell-basiert",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/694/api"
- },
- {
-  "id": "695",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/695",
-  "name": "WFS HE Basis-DLM NAS-konform",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/695/api"
- },
- {
-  "id": "696",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/696",
-  "name": "WFS HE ALKIS AAA-Model-basiert",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/696/api"
- },
- {
-  "id": "698",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/698",
-  "name": "WFS HE ALKIS NAS-konform",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/698/api"
  },
  {
   "id": "700",
@@ -694,18 +658,6 @@
   "url": "https://www.geoportal.hessen.de/spatial-objects/730",
   "name": "Fachgutachten Landschaft (Schätze der Region)",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/730/api"
- },
- {
-  "id": "731",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/731",
-  "name": "WFS HE BORIS 2022",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/731/api"
- },
- {
-  "id": "732",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/732",
-  "name": "WFS HE BORIS 2020",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/732/api"
  },
  {
   "id": "733",
