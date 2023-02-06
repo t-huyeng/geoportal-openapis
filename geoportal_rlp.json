@@ -870,6 +870,12 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/594/api"
  },
  {
+  "id": "595",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/595",
+  "name": "WEA-Ausschlusszonen WOM",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/595/api"
+ },
+ {
   "id": "62",
   "url": "https://www.geoportal.rlp.de/spatial-objects/62",
   "name": "My GeoServer WFS",
