@@ -270,12 +270,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/391/api"
  },
  {
-  "id": "393",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/393",
-  "name": "BAYSIS Verkehrsmengen WFS",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/393/api"
- },
- {
   "id": "395",
   "url": "https://www.geoportal.rlp.de/spatial-objects/395",
   "name": "WFS Server für die Bereitstellung der Offenlagen von Bauleitplänen",
