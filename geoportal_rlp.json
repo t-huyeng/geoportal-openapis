@@ -708,12 +708,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/560/api"
  },
  {
-  "id": "561",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/561",
-  "name": "Bauleitplanung Gemeinde Angelburg",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/561/api"
- },
- {
   "id": "562",
   "url": "https://www.geoportal.rlp.de/spatial-objects/562",
   "name": "COVID-19 Krisenmanagement MSAGD",
