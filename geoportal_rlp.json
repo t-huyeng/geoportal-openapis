@@ -864,6 +864,12 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/595/api"
  },
  {
+  "id": "597",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/597",
+  "name": "Baustellen (WFS)",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/597/api"
+ },
+ {
   "id": "62",
   "url": "https://www.geoportal.rlp.de/spatial-objects/62",
   "name": "My GeoServer WFS",
