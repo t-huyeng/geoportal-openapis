@@ -336,198 +336,6 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/646/api"
  },
  {
-  "id": "649",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/649",
-  "name": "Neubaumonitor_Anzahl der fertiggestellten Wohngebaeude nach Gemeinden 2018",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/649/api"
- },
- {
-  "id": "650",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/650",
-  "name": "Neubaumonitor_Anzahl der fertiggestellten Wohngebaeude nach Gemeinden 2019",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/650/api"
- },
- {
-  "id": "651",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/651",
-  "name": "Neubaumonitor_Fertiggestellte Wohngebäude je Tsd Einwohner_innen nach Gemeinden 2018",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/651/api"
- },
- {
-  "id": "652",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/652",
-  "name": "Neubaumonitor_Fertiggestellte Wohngebäude je Tsd Einwohner_innen nach Gemeinden 2019",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/652/api"
- },
- {
-  "id": "653",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/653",
-  "name": "Neubaumonitor_Fertiggestellte Wohngebaeude nach Kreisen 2018",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/653/api"
- },
- {
-  "id": "654",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/654",
-  "name": "Neubaumonitor_Fertiggestellte Wohngebaeude nach Kreisen 2019",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/654/api"
- },
- {
-  "id": "655",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/655",
-  "name": "Neubaumonitor_Fertiggestellte Wohnungen nach Gemeinden 2018",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/655/api"
- },
- {
-  "id": "656",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/656",
-  "name": "Neubaumonitor_Fertiggestellte Wohnungen nach Gemeinden 2019",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/656/api"
- },
- {
-  "id": "657",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/657",
-  "name": "Neubaumonitor_Fertiggestellte Wohnungen je Tsd EinwohnerInnen nach Gemeinden 2018",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/657/api"
- },
- {
-  "id": "658",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/658",
-  "name": "Neubaumonitor_Fertiggestellte Wohnungen je Tsd EinwohnerInnen nach Gemeinden 2019",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/658/api"
- },
- {
-  "id": "659",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/659",
-  "name": "Neubaumonitor_Fertiggestellte Wohnflaeche nach Gemeinden in m2 2018",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/659/api"
- },
- {
-  "id": "660",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/660",
-  "name": "Neubaumonitor_Fertiggestellte Wohnflaeche nach Gemeinden in m2 2019",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/660/api"
- },
- {
-  "id": "661",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/661",
-  "name": "Neubaumonitor_Fertiggestellte Wohnflaeche je EinwohnerIn nach Gemeinden in m2 2018",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/661/api"
- },
- {
-  "id": "664",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/664",
-  "name": "Neubaumonitor_Fertiggestellte Wohnflaeche je EinwohnerIn nach Gemeinden in m2 2019",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/664/api"
- },
- {
-  "id": "665",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/665",
-  "name": "Neubaumonitor_Fertiggestellte Wohnflaeche nach Kreisen in Tsd m2 2018",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/665/api"
- },
- {
-  "id": "666",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/666",
-  "name": "Neubaumonitor_Fertiggestellte Wohnflaeche nach Kreisen in Tsd m2 2019",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/666/api"
- },
- {
-  "id": "667",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/667",
-  "name": "Neubaumonitor_Kaufwert fuer baureifes Land in Eur je m2 nach Kreisen 2018",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/667/api"
- },
- {
-  "id": "668",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/668",
-  "name": "Neubaumonitor_Kaufwert fuer Bauland in Eur je m2 nach Kreisen 2019",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/668/api"
- },
- {
-  "id": "669",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/669",
-  "name": "Neubaumonitor_Haustyp der fertiggestellten Wohngebaeude nach Gemeinden 2018",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/669/api"
- },
- {
-  "id": "670",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/670",
-  "name": "Neubaumonitor_Haustyp der fertiggestellten Wohngebaeude nach Gemeinden 2019",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/670/api"
- },
- {
-  "id": "671",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/671",
-  "name": "Neubaumonitor_Vorherrschende primaere Energiequelle 2018",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/671/api"
- },
- {
-  "id": "672",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/672",
-  "name": "Neubaumonitor_Vorherrschende primaere Energiequelle 2019",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/672/api"
- },
- {
-  "id": "677",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/677",
-  "name": "Neubaumonitor_Anzahl der fertiggestellten Wohngebaeude nach Gemeinden 2020",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/677/api"
- },
- {
-  "id": "678",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/678",
-  "name": "Neubaumonitor_Fertiggestellte Wohngebäude je Tsd Einwohner_innen nach Gemeinden 2020",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/678/api"
- },
- {
-  "id": "679",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/679",
-  "name": "Neubaumonitor_Fertiggestellte Wohngebaeude nach Kreisen 2020",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/679/api"
- },
- {
-  "id": "680",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/680",
-  "name": "Neubaumonitor_Fertiggestellte Wohnungen nach Gemeinden 2020",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/680/api"
- },
- {
-  "id": "684",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/684",
-  "name": "Neubaumonitor_Fertiggestellte Wohnungen je Tsd EinwohnerInnen nach Gemeinden 2020",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/684/api"
- },
- {
-  "id": "685",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/685",
-  "name": "Neubaumonitor_Fertiggestellte Wohnflaeche nach Gemeinden in m2 2020",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/685/api"
- },
- {
-  "id": "686",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/686",
-  "name": "Neubaumonitor_Fertiggestellte Wohnflaeche je Tsd EinwohnerIn nach Gemeinden in m2 2020",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/686/api"
- },
- {
-  "id": "700",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/700",
-  "name": "Neubaumonitor_Fertiggestellte Wohnflaeche nach Kreisen in Tsd m2 2020",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/700/api"
- },
- {
-  "id": "701",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/701",
-  "name": "Neubaumonitor_Haustyp der fertiggestellten Wohngebaeude nach Gemeinden 2020",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/701/api"
- },
- {
-  "id": "702",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/702",
-  "name": "Neubaumonitor_Vorherrschende primaere Energiequelle 2020",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/702/api"
- },
- {
   "id": "706",
   "url": "https://www.geoportal.hessen.de/spatial-objects/706",
   "name": "INSPIRE-WFS HE Adressen Hauskoordinaten",
@@ -1030,5 +838,17 @@
   "url": "https://www.geoportal.hessen.de/spatial-objects/810",
   "name": "Rettungswachen Main-Taunus-Kreis",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/810/api"
+ },
+ {
+  "id": "821",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/821",
+  "name": "Feuerwehren Kreis Groß-Gerau",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/821/api"
+ },
+ {
+  "id": "826",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/826",
+  "name": "Kommunale Boden- und Raumplanung Wetteraukreis",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/826/api"
  }
 ]

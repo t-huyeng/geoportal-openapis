@@ -682,5 +682,11 @@
   "url": "https://geoportal.saarland.de/spatial-objects/397",
   "name": "INSPIRE-WFS SL Umweltüberwachung",
   "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/397/api"
+ },
+ {
+  "id": "398",
+  "url": "https://geoportal.saarland.de/spatial-objects/398",
+  "name": "Lärmkartierung_WFS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/398/api"
  }
 ]
