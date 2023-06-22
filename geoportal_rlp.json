@@ -870,6 +870,18 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/597/api"
  },
  {
+  "id": "598",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/598",
+  "name": "Untitled",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/598/api"
+ },
+ {
+  "id": "600",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/600",
+  "name": "Stadtkataster Trier - WFS",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/600/api"
+ },
+ {
   "id": "62",
   "url": "https://www.geoportal.rlp.de/spatial-objects/62",
   "name": "My GeoServer WFS",
