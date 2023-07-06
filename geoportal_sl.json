@@ -682,5 +682,11 @@
   "url": "https://geoportal.saarland.de/spatial-objects/398",
   "name": "Laerm2022_WFS",
   "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/398/api"
+ },
+ {
+  "id": "399",
+  "url": "https://geoportal.saarland.de/spatial-objects/399",
+  "name": "INSPIRE-WFS SL Bewirtschaftungsgebiete/Schutzgebiete/geregelte Gebiete und Berichterstattungseinheiten",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/399/api"
  }
 ]
