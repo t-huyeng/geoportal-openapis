@@ -882,6 +882,18 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/600/api"
  },
  {
+  "id": "601",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/601",
+  "name": "GeoServer_KomServ4GDI",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/601/api"
+ },
+ {
+  "id": "602",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/602",
+  "name": "GeoServer_KomServ4GDI",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/602/api"
+ },
+ {
   "id": "62",
   "url": "https://www.geoportal.rlp.de/spatial-objects/62",
   "name": "My GeoServer WFS",
