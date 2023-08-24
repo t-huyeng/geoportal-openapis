@@ -282,36 +282,6 @@
   "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/326/api"
  },
  {
-  "id": "327",
-  "url": "https://geoportal.saarland.de/spatial-objects/327",
-  "name": "INSPIRE-WFS SL Geografische Bezeichnungen ATKIS DLM50",
-  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/327/api"
- },
- {
-  "id": "328",
-  "url": "https://geoportal.saarland.de/spatial-objects/328",
-  "name": "INSPIRE-WFS SL Verwaltungseinheiten ATKIS DLM50",
-  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/328/api"
- },
- {
-  "id": "329",
-  "url": "https://geoportal.saarland.de/spatial-objects/329",
-  "name": "INSPIRE-WFS SL Hydro - Netzwerk ATKIS DLM50",
-  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/329/api"
- },
- {
-  "id": "330",
-  "url": "https://geoportal.saarland.de/spatial-objects/330",
-  "name": "INSPIRE-WFS SL Hydro - Physische Gewaesser ATKIS DLM50",
-  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/330/api"
- },
- {
-  "id": "331",
-  "url": "https://geoportal.saarland.de/spatial-objects/331",
-  "name": "INSPIRE-WFS SL Verkehrsnetze ATKIS DLM50",
-  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/331/api"
- },
- {
   "id": "332",
   "url": "https://geoportal.saarland.de/spatial-objects/332",
   "name": "ALKIS_BS",

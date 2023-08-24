@@ -516,6 +516,12 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/740/api"
  },
  {
+  "id": "741",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/741",
+  "name": "Kommunale Boden- und Raumplanung Kreis Groß-Gerau",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/741/api"
+ },
+ {
   "id": "742",
   "url": "https://www.geoportal.hessen.de/spatial-objects/742",
   "name": "INSPIRE Kommunale Boden- und Raumplanung Kreis Groß-Gerau",
@@ -850,5 +856,29 @@
   "url": "https://www.geoportal.hessen.de/spatial-objects/826",
   "name": "Kommunale Boden- und Raumplanung Wetteraukreis",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/826/api"
+ },
+ {
+  "id": "827",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/827",
+  "name": " Kommunale Boden- und Raumplanung Kreis Groß-Gerau im XPlanGML",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/827/api"
+ },
+ {
+  "id": "831",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/831",
+  "name": "INSPIRE-WFS HE Gebäude - 3D LoD2",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/831/api"
+ },
+ {
+  "id": "832",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/832",
+  "name": "Kindertageseinrichtungen Kreis Groß-Gerau",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/832/api"
+ },
+ {
+  "id": "833",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/833",
+  "name": "INSPIRE Kindertageseinrichtungen Kreis Groß-Gerau",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/833/api"
  }
 ]
