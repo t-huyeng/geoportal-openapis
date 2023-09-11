@@ -880,5 +880,17 @@
   "url": "https://www.geoportal.hessen.de/spatial-objects/833",
   "name": "INSPIRE Kindertageseinrichtungen Kreis Groß-Gerau",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/833/api"
+ },
+ {
+  "id": "834",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/834",
+  "name": "INSPIRE Kommunale Boden- und Raumplanung Wetteraukreis",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/834/api"
+ },
+ {
+  "id": "835",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/835",
+  "name": "Änderungen des Regionalen Flächennutzungsplans FrankfurtRheinMain",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/835/api"
  }
 ]
