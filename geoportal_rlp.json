@@ -66,12 +66,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/305/api"
  },
  {
-  "id": "307",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/307",
-  "name": "Überschwemmungsgebiete",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/307/api"
- },
- {
   "id": "314",
   "url": "https://www.geoportal.rlp.de/spatial-objects/314",
   "name": "Verwaltungsgrenzen Rheinland-Pfalz",
@@ -262,12 +256,6 @@
   "url": "https://www.geoportal.rlp.de/spatial-objects/39",
   "name": "My GeoServer WFS",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/39/api"
- },
- {
-  "id": "391",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/391",
-  "name": "WFS-Dienst Hochwassermanagement",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/391/api"
  },
  {
   "id": "395",
