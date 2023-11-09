@@ -62,25 +62,25 @@
  {
   "id": "600",
   "url": "https://www.geoportal.hessen.de/spatial-objects/600",
-  "name": "Landesentwicklungsplan Download Service",
+  "name": "INSPIRE-WFS Landesentwicklungsplan Hessen",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/600/api"
  },
  {
   "id": "601",
   "url": "https://www.geoportal.hessen.de/spatial-objects/601",
-  "name": "Regionalplan Nordhessen Download Service",
+  "name": "INSPIRE-WFS Regionalplan Nordhessen",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/601/api"
  },
  {
   "id": "602",
   "url": "https://www.geoportal.hessen.de/spatial-objects/602",
-  "name": "Regionalplan Mittelhessen Download Service",
+  "name": "INSPIRE-WFS Regionalplan Mittelhessen",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/602/api"
  },
  {
   "id": "603",
   "url": "https://www.geoportal.hessen.de/spatial-objects/603",
-  "name": "Regionalplan Südhessen Download Service",
+  "name": "INSPIRE-WFS Regionalplan Südhessen",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/603/api"
  },
  {
@@ -780,12 +780,6 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/786/api"
  },
  {
-  "id": "787",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/787",
-  "name": "Kommunale Boden- und Raumplanung Stadt Maintal",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/787/api"
- },
- {
   "id": "788",
   "url": "https://www.geoportal.hessen.de/spatial-objects/788",
   "name": "INSPIRE Kommunale Boden- und Raumplanung Stadt Maintal",
@@ -864,6 +858,12 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/827/api"
  },
  {
+  "id": "828",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/828",
+  "name": " Kommunale Boden- und Raumplanung Hochtaunuskreis im XPlanGML",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/828/api"
+ },
+ {
   "id": "831",
   "url": "https://www.geoportal.hessen.de/spatial-objects/831",
   "name": "INSPIRE-WFS HE Gebäude - 3D LoD2",
@@ -892,5 +892,35 @@
   "url": "https://www.geoportal.hessen.de/spatial-objects/835",
   "name": "Änderungen des Regionalen Flächennutzungsplans FrankfurtRheinMain",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/835/api"
+ },
+ {
+  "id": "836",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/836",
+  "name": "INSPIRE Feuerwehren Kreis Groß-Gerau",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/836/api"
+ },
+ {
+  "id": "838",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/838",
+  "name": "INSPIRE Kindertageseinrichtungen Gemeinde Münster",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/838/api"
+ },
+ {
+  "id": "839",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/839",
+  "name": "INSPIRE Kommunale Boden- und Raumplanung Landkreis Limburg-Weilburg",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/839/api"
+ },
+ {
+  "id": "842",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/842",
+  "name": "INSPIRE  Regionaler Flächennutzungsplan 2011 Regionalverband FrankfurtRheinMain - Genehmigung 27.06.2011",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/842/api"
+ },
+ {
+  "id": "843",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/843",
+  "name": "INSPIRE  Regionaler Flächennutzungsplan 2011 Regionalverband FrankfurtRheinMain - Planstand 31.12.2022",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/843/api"
  }
 ]
