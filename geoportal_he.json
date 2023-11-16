@@ -732,12 +732,6 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/778/api"
  },
  {
-  "id": "779",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/779",
-  "name": "Schulen Odenwaldkreis",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/779/api"
- },
- {
   "id": "780",
   "url": "https://www.geoportal.hessen.de/spatial-objects/780",
   "name": "INSPIRE Schulen Odenwaldkreis",
@@ -922,5 +916,17 @@
   "url": "https://www.geoportal.hessen.de/spatial-objects/843",
   "name": "INSPIRE  Regionaler Flächennutzungsplan 2011 Regionalverband FrankfurtRheinMain - Planstand 31.12.2022",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/843/api"
+ },
+ {
+  "id": "847",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/847",
+  "name": "Kommunale Boden- und Raumplanung Stadt Maintal",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/847/api"
+ },
+ {
+  "id": "849",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/849",
+  "name": "INSPIRE Rettungswachen Main-Taunus-Kreis",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/849/api"
  }
 ]
