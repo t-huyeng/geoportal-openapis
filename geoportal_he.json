@@ -894,6 +894,12 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/836/api"
  },
  {
+  "id": "837",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/837",
+  "name": "ÖbVI Hessen WFS",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/837/api"
+ },
+ {
   "id": "838",
   "url": "https://www.geoportal.hessen.de/spatial-objects/838",
   "name": "INSPIRE Kindertageseinrichtungen Gemeinde Münster",

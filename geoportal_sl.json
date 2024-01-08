@@ -670,5 +670,11 @@
   "url": "https://geoportal.saarland.de/spatial-objects/403",
   "name": "INSPIRE-WFS SL Mineralische Bodenschätze",
   "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/403/api"
+ },
+ {
+  "id": "404",
+  "url": "https://geoportal.saarland.de/spatial-objects/404",
+  "name": "GLÖZ2 Kulisse",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/404/api"
  }
 ]
