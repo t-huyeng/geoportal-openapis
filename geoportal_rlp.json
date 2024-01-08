@@ -228,12 +228,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/383/api"
  },
  {
-  "id": "384",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/384",
-  "name": "BFD200",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/384/api"
- },
- {
   "id": "385",
   "url": "https://www.geoportal.rlp.de/spatial-objects/385",
   "name": "Erdbeben",
@@ -880,6 +874,12 @@
   "url": "https://www.geoportal.rlp.de/spatial-objects/602",
   "name": "GeoServer_KomServ4GDI",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/602/api"
+ },
+ {
+  "id": "606",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/606",
+  "name": "WFS RP Basis-DLM (Shape)",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/606/api"
  },
  {
   "id": "62",
