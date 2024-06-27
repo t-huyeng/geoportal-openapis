@@ -8,7 +8,7 @@
  {
   "id": "479",
   "url": "https://www.geoportal.hessen.de/spatial-objects/479",
-  "name": "RegFNP Hauptkarte Planstand 31.12.2022 WFS",
+  "name": "RegFNP Hauptkarte Planstand 31.12.2023 WFS",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/479/api"
  },
  {
@@ -894,6 +894,12 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/836/api"
  },
  {
+  "id": "837",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/837",
+  "name": "ÖbVI Hessen WFS",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/837/api"
+ },
+ {
   "id": "838",
   "url": "https://www.geoportal.hessen.de/spatial-objects/838",
   "name": "INSPIRE Kindertageseinrichtungen Gemeinde Münster",
@@ -928,5 +934,11 @@
   "url": "https://www.geoportal.hessen.de/spatial-objects/849",
   "name": "INSPIRE Rettungswachen Main-Taunus-Kreis",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/849/api"
+ },
+ {
+  "id": "850",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/850",
+  "name": "Urkataster-Plus - Meta-Informationen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/850/api"
  }
 ]
