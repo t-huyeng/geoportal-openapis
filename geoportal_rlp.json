@@ -210,48 +210,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/379/api"
  },
  {
-  "id": "381",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/381",
-  "name": "HÜK200",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/381/api"
- },
- {
-  "id": "382",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/382",
-  "name": "Berechtsamskarte",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/382/api"
- },
- {
-  "id": "383",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/383",
-  "name": "BFD50/200",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/383/api"
- },
- {
-  "id": "384",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/384",
-  "name": "BFD200",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/384/api"
- },
- {
-  "id": "385",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/385",
-  "name": "Erdbeben",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/385/api"
- },
- {
-  "id": "386",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/386",
-  "name": "Geologische Übersichtskarte 1:300.000",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/386/api"
- },
- {
-  "id": "388",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/388",
-  "name": "Hangstabilität",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/388/api"
- },
- {
   "id": "39",
   "url": "https://www.geoportal.rlp.de/spatial-objects/39",
   "name": "My GeoServer WFS",
@@ -666,12 +624,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/550/api"
  },
  {
-  "id": "555",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/555",
-  "name": "Landesforsten Rheinland-Pfalz WFS",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/555/api"
- },
- {
   "id": "557",
   "url": "https://www.geoportal.rlp.de/spatial-objects/557",
   "name": "Metadaten Bebauungspläne RP",
@@ -780,12 +732,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/579/api"
  },
  {
-  "id": "581",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/581",
-  "name": "BFD50",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/581/api"
- },
- {
   "id": "584",
   "url": "https://www.geoportal.rlp.de/spatial-objects/584",
   "name": "INSPIRE RP Flurstücke/Grundstücke (Katasterparzellen) ALKIS (Downloaddienst)",
@@ -794,7 +740,7 @@
  {
   "id": "585",
   "url": "https://www.geoportal.rlp.de/spatial-objects/585",
-  "name": "UNESCO Welterbe Geopark Vulkaneifel",
+  "name": "UNESCO Global Geopark Vulkaneifel",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/585/api"
  },
  {
@@ -834,12 +780,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/591/api"
  },
  {
-  "id": "592",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/592",
-  "name": "Hydrogeologische Übersichtskarte HÜK300",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/592/api"
- },
- {
   "id": "594",
   "url": "https://www.geoportal.rlp.de/spatial-objects/594",
   "name": "Flurbereinigungsverfahren Rheinland-Pfalz",
@@ -856,12 +796,6 @@
   "url": "https://www.geoportal.rlp.de/spatial-objects/597",
   "name": "Baustellen (WFS)",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/597/api"
- },
- {
-  "id": "598",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/598",
-  "name": "Untitled",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/598/api"
  },
  {
   "id": "600",
@@ -882,10 +816,124 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/602/api"
  },
  {
+  "id": "606",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/606",
+  "name": "WFS RP Basis-DLM (Shape)",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/606/api"
+ },
+ {
+  "id": "608",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/608",
+  "name": "BFD50",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/608/api"
+ },
+ {
+  "id": "609",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/609",
+  "name": "Berechtsamskarte",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/609/api"
+ },
+ {
+  "id": "610",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/610",
+  "name": "BFD50/200",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/610/api"
+ },
+ {
+  "id": "611",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/611",
+  "name": "BFD5W",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/611/api"
+ },
+ {
+  "id": "612",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/612",
+  "name": "Erdbeben",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/612/api"
+ },
+ {
+  "id": "613",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/613",
+  "name": "Geologische Übersichtskarte 1:300.000",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/613/api"
+ },
+ {
+  "id": "614",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/614",
+  "name": "Potenzielle Eignung von Böden für Erdwärmekollektoren",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/614/api"
+ },
+ {
+  "id": "615",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/615",
+  "name": "Wärmeleitfähigkeit",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/615/api"
+ },
+ {
+  "id": "616",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/616",
+  "name": "Grundwasseroberfläche",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/616/api"
+ },
+ {
+  "id": "617",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/617",
+  "name": "GwBeschaffenheit",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/617/api"
+ },
+ {
+  "id": "618",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/618",
+  "name": "Hydrogeologische Profilschnitte",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/618/api"
+ },
+ {
   "id": "62",
   "url": "https://www.geoportal.rlp.de/spatial-objects/62",
   "name": "My GeoServer WFS",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/62/api"
+ },
+ {
+  "id": "620",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/620",
+  "name": "Hydrogeologische Übersichtskarte HÜK300",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/620/api"
+ },
+ {
+  "id": "621",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/621",
+  "name": "HÜK200",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/621/api"
+ },
+ {
+  "id": "622",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/622",
+  "name": "Rohstoffgeologie",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/622/api"
+ },
+ {
+  "id": "623",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/623",
+  "name": "Geologiedatengesetz",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/623/api"
+ },
+ {
+  "id": "624",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/624",
+  "name": "BFD5L",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/624/api"
+ },
+ {
+  "id": "626",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/626",
+  "name": "WFS Bodenrichtwertzonensuche 2024",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/626/api"
+ },
+ {
+  "id": "628",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/628",
+  "name": "test",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/628/api"
  },
  {
   "id": "65",
