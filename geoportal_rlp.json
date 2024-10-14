@@ -96,12 +96,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/329/api"
  },
  {
-  "id": "330",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/330",
-  "name": "test1",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/330/api"
- },
- {
   "id": "332",
   "url": "https://www.geoportal.rlp.de/spatial-objects/332",
   "name": "Stadt Koblenz: Digitale Kartierung der Denkmalliste",
@@ -306,18 +300,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/471/api"
  },
  {
-  "id": "472",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/472",
-  "name": "Abfallentsorgung Trier",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/472/api"
- },
- {
-  "id": "473",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/473",
-  "name": "Sicherheit Trier",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/473/api"
- },
- {
   "id": "474",
   "url": "https://www.geoportal.rlp.de/spatial-objects/474",
   "name": "Gesundheitseinrichtungen Trier",
@@ -372,22 +354,10 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/482/api"
  },
  {
-  "id": "483",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/483",
-  "name": "Wochenmärkte Trier",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/483/api"
- },
- {
   "id": "486",
   "url": "https://www.geoportal.rlp.de/spatial-objects/486",
   "name": "UNESCO-Welterbestätten Trier",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/486/api"
- },
- {
-  "id": "487",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/487",
-  "name": "Tourismus in Trier",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/487/api"
  },
  {
   "id": "488",
@@ -408,22 +378,10 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/49/api"
  },
  {
-  "id": "490",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/490",
-  "name": "Sport in Trier",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/490/api"
- },
- {
   "id": "491",
   "url": "https://www.geoportal.rlp.de/spatial-objects/491",
   "name": "Ehem. französische Militärstandorte Trier",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/491/api"
- },
- {
-  "id": "492",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/492",
-  "name": "Freizeit, Kultur und Tourismus in Trier",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/492/api"
  },
  {
   "id": "493",
@@ -472,12 +430,6 @@
   "url": "https://www.geoportal.rlp.de/spatial-objects/500",
   "name": "Entwicklungsgebiete Trier",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/500/api"
- },
- {
-  "id": "501",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/501",
-  "name": "Stadtbildpflege Trier",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/501/api"
  },
  {
   "id": "503",
@@ -530,7 +482,7 @@
  {
   "id": "517",
   "url": "https://www.geoportal.rlp.de/spatial-objects/517",
-  "name": "Service-Standorte Trier",
+  "name": "Gesundheitseinrichtungen Trier",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/517/api"
  },
  {
@@ -936,10 +888,130 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/628/api"
  },
  {
+  "id": "630",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/630",
+  "name": "Ordnungsrecht Trier",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/630/api"
+ },
+ {
+  "id": "631",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/631",
+  "name": "Abfallentsorgung Trier",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/631/api"
+ },
+ {
+  "id": "632",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/632",
+  "name": "Sicherheit Trier",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/632/api"
+ },
+ {
+  "id": "633",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/633",
+  "name": "Service-Standorte Trier",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/633/api"
+ },
+ {
+  "id": "634",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/634",
+  "name": "Wochenmärkte Trier",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/634/api"
+ },
+ {
+  "id": "635",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/635",
+  "name": "Tourismus in Trier",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/635/api"
+ },
+ {
+  "id": "636",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/636",
+  "name": "Sport in Trier",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/636/api"
+ },
+ {
+  "id": "638",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/638",
+  "name": "Kühle Orte in Trier",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/638/api"
+ },
+ {
+  "id": "639",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/639",
+  "name": "Straßennamen und ihre Bedeutung Trier",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/639/api"
+ },
+ {
+  "id": "641",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/641",
+  "name": "Stadtbildpflege Trier",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/641/api"
+ },
+ {
+  "id": "642",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/642",
+  "name": "Erhaltungs- und Gestaltungssatzung Trier",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/642/api"
+ },
+ {
+  "id": "644",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/644",
+  "name": "Denkmäler und Archäologie Trier",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/644/api"
+ },
+ {
+  "id": "645",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/645",
+  "name": "Lärmkartierung Straßen Trier",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/645/api"
+ },
+ {
+  "id": "646",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/646",
+  "name": "Leichte Wege Trier (barrierefrei)",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/646/api"
+ },
+ {
+  "id": "647",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/647",
+  "name": "Trier für alle - Barrierefreiheit in der Stadt Trier",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/647/api"
+ },
+ {
+  "id": "648",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/648",
+  "name": "Wärmeplanung (Bestandsanalyse) Trier",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/648/api"
+ },
+ {
+  "id": "649",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/649",
+  "name": "WFS HE Koordinate HK Flst Lage",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/649/api"
+ },
+ {
   "id": "65",
   "url": "https://www.geoportal.rlp.de/spatial-objects/65",
   "name": "My GeoServer WFS",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/65/api"
+ },
+ {
+  "id": "650",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/650",
+  "name": "WFS-Dienst Überschwemmungsgebiete",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/650/api"
+ },
+ {
+  "id": "651",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/651",
+  "name": "Westwall Objekte WFS und WMS",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/651/api"
+ },
+ {
+  "id": "652",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/652",
+  "name": "RIS WFS",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/652/api"
  },
  {
   "id": "67",

@@ -670,5 +670,17 @@
   "url": "https://geoportal.saarland.de/spatial-objects/413",
   "name": "INSPIRE-WFS SL Verkehrsnetze ATKIS Basis-DLM",
   "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/413/api"
+ },
+ {
+  "id": "414",
+  "url": "https://geoportal.saarland.de/spatial-objects/414",
+  "name": "WFS SL ALKIS Vereinfacht",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/414/api"
+ },
+ {
+  "id": "415",
+  "url": "https://geoportal.saarland.de/spatial-objects/415",
+  "name": "Windpotenziale",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/415/api"
  }
 ]
