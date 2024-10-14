@@ -940,5 +940,29 @@
   "url": "https://www.geoportal.hessen.de/spatial-objects/850",
   "name": "Urkataster-Plus - Meta-Informationen",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/850/api"
+ },
+ {
+  "id": "864",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/864",
+  "name": "WFS HE BORIS 2024",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/864/api"
+ },
+ {
+  "id": "872",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/872",
+  "name": "Jagdbezirke, Kreis Groß-Gerau",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/872/api"
+ },
+ {
+  "id": "873",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/873",
+  "name": "Jagdbezirke Odenwaldkreis (V0.3)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/873/api"
+ },
+ {
+  "id": "874",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/874",
+  "name": "Jagdbezirke",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/874/api"
  }
 ]
