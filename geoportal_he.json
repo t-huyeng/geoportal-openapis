@@ -1,5 +1,17 @@
 [
  {
+  "id": "342",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/342",
+  "name": "LfDH WFS Dienste",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/342/api"
+ },
+ {
+  "id": "421",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/421",
+  "name": "Bebauungspläne Schwalmtal",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/421/api"
+ },
+ {
   "id": "478",
   "url": "https://www.geoportal.hessen.de/spatial-objects/478",
   "name": "TPEE, nichtamtliche Lesefassung, Stand: 28.02.2022",
@@ -964,5 +976,11 @@
   "url": "https://www.geoportal.hessen.de/spatial-objects/874",
   "name": "Jagdbezirke",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/874/api"
+ },
+ {
+  "id": "885",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/885",
+  "name": "Verwaltungsgrenzen Hessen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/885/api"
  }
 ]
