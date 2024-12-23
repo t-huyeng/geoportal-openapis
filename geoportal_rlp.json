@@ -998,7 +998,7 @@
  {
   "id": "650",
   "url": "https://www.geoportal.rlp.de/spatial-objects/650",
-  "name": "WFS-Dienst Überschwemmungsgebiete",
+  "name": "WFS-Dienst Gesetzlich festgesetzte Überschwemmungsgebiete und Risikogebiete außerhalb von Überschwemmungsgebieten",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/650/api"
  },
  {
@@ -1008,10 +1008,46 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/651/api"
  },
  {
-  "id": "652",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/652",
-  "name": "RIS WFS",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/652/api"
+  "id": "653",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/653",
+  "name": "RIS WFS SGD Süd",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/653/api"
+ },
+ {
+  "id": "655",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/655",
+  "name": "WFS-Dienst Wasser- und Heilquellenschutzgebiete",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/655/api"
+ },
+ {
+  "id": "656",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/656",
+  "name": "WFS-Dienst Gewässernetz",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/656/api"
+ },
+ {
+  "id": "657",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/657",
+  "name": "Biotope",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/657/api"
+ },
+ {
+  "id": "658",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/658",
+  "name": "Schutzgebiete",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/658/api"
+ },
+ {
+  "id": "659",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/659",
+  "name": "Artenverbreitung in Rheinland-Pfalz",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/659/api"
+ },
+ {
+  "id": "664",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/664",
+  "name": "Bevölkerungsstand 2023",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/664/api"
  },
  {
   "id": "67",
