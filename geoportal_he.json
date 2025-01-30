@@ -978,6 +978,12 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/874/api"
  },
  {
+  "id": "878",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/878",
+  "name": "WFS der Adressen Frankfurt am Main",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/878/api"
+ },
+ {
   "id": "885",
   "url": "https://www.geoportal.hessen.de/spatial-objects/885",
   "name": "Verwaltungsgrenzen Hessen",

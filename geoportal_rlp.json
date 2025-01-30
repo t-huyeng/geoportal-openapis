@@ -450,12 +450,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/505/api"
  },
  {
-  "id": "508",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/508",
-  "name": "WFS Schnittstelle der Grabungsschutzgebiete für ALKIS",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/508/api"
- },
- {
   "id": "511",
   "url": "https://www.geoportal.rlp.de/spatial-objects/511",
   "name": "Verwaltungsgrenzen Rheinland-Pfalz",
