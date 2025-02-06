@@ -1044,6 +1044,12 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/664/api"
  },
  {
+  "id": "665",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/665",
+  "name": "Denkmalliste der Landesdenkmalpflege, GDKE RLP",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/665/api"
+ },
+ {
   "id": "67",
   "url": "https://www.geoportal.rlp.de/spatial-objects/67",
   "name": "My GeoServer WFS",
