@@ -12,12 +12,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/144/api"
  },
  {
-  "id": "180",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/180",
-  "name": "WFS Server 1 der GDI-RP",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/180/api"
- },
- {
   "id": "22",
   "url": "https://www.geoportal.rlp.de/spatial-objects/22",
   "name": "Geoserver GDI-RP",
@@ -88,12 +82,6 @@
   "url": "https://www.geoportal.rlp.de/spatial-objects/325",
   "name": "WFS-Dienst Überschwemmungsgebiete",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/325/api"
- },
- {
-  "id": "329",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/329",
-  "name": "Web Feature Service Landwirtschaftskammer Rheinland-Pfalz",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/329/api"
  },
  {
   "id": "332",
@@ -220,18 +208,6 @@
   "url": "https://www.geoportal.rlp.de/spatial-objects/399",
   "name": "Westwall_GDKE_UD",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/399/api"
- },
- {
-  "id": "407",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/407",
-  "name": "Soziale Einrichtungen MFFJIV",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/407/api"
- },
- {
-  "id": "408",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/408",
-  "name": "Soziale Einrichtungen MSAGD",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/408/api"
  },
  {
   "id": "44",
@@ -506,7 +482,7 @@
  {
   "id": "535",
   "url": "https://www.geoportal.rlp.de/spatial-objects/535",
-  "name": "WMS Lanis GDI-DE",
+  "name": "WFS Lanis GDI-DE",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/535/api"
  },
  {
@@ -876,12 +852,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/626/api"
  },
  {
-  "id": "628",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/628",
-  "name": "test",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/628/api"
- },
- {
   "id": "630",
   "url": "https://www.geoportal.rlp.de/spatial-objects/630",
   "name": "Ordnungsrecht Trier",
@@ -920,7 +890,7 @@
  {
   "id": "636",
   "url": "https://www.geoportal.rlp.de/spatial-objects/636",
-  "name": "Sport in Trier",
+  "name": "Freizeit in Trier",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/636/api"
  },
  {
@@ -970,12 +940,6 @@
   "url": "https://www.geoportal.rlp.de/spatial-objects/647",
   "name": "Trier für alle - Barrierefreiheit in der Stadt Trier",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/647/api"
- },
- {
-  "id": "648",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/648",
-  "name": "Wärmeplanung (Bestandsanalyse) Trier",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/648/api"
  },
  {
   "id": "649",
@@ -1044,10 +1008,52 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/664/api"
  },
  {
+  "id": "665",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/665",
+  "name": "Denkmalliste der Landesdenkmalpflege, GDKE RLP",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/665/api"
+ },
+ {
+  "id": "669",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/669",
+  "name": "WFS RP ALKIS-Punkte",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/669/api"
+ },
+ {
   "id": "67",
   "url": "https://www.geoportal.rlp.de/spatial-objects/67",
   "name": "My GeoServer WFS",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/67/api"
+ },
+ {
+  "id": "670",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/670",
+  "name": "WFS HE Koordinate HK Flst Lage",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/670/api"
+ },
+ {
+  "id": "675",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/675",
+  "name": "WFS RP ALKIS oeffentliche Liegenschaften Rheinland-Pfalz",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/675/api"
+ },
+ {
+  "id": "676",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/676",
+  "name": "WFS Forstamtsgrenzen Landesforsten RLP",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/676/api"
+ },
+ {
+  "id": "677",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/677",
+  "name": "Gefahrenhinweiskarte des linksrheinischen Mainzer Beckens – Rutschungen –",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/677/api"
+ },
+ {
+  "id": "678",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/678",
+  "name": "Altbergbau Ampelkarte",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/678/api"
  },
  {
   "id": "68",

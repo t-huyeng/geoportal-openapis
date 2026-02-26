@@ -1,11 +1,5 @@
 [
  {
-  "id": "185",
-  "url": "https://geoportal.saarland.de/spatial-objects/185",
-  "name": "DGM",
-  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/185/api"
- },
- {
   "id": "215",
   "url": "https://geoportal.saarland.de/spatial-objects/215",
   "name": "Schutzgebiete_INS",
@@ -700,5 +694,35 @@
   "url": "https://geoportal.saarland.de/spatial-objects/418",
   "name": "Landwirtschaft",
   "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/418/api"
+ },
+ {
+  "id": "419",
+  "url": "https://geoportal.saarland.de/spatial-objects/419",
+  "name": "WFS SL Verwaltungsgrenzen Saarland",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/419/api"
+ },
+ {
+  "id": "420",
+  "url": "https://geoportal.saarland.de/spatial-objects/420",
+  "name": "Duengeverordnung",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/420/api"
+ },
+ {
+  "id": "422",
+  "url": "https://geoportal.saarland.de/spatial-objects/422",
+  "name": "INSPIRE-WFS SL Bodenbedeckung ALKIS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/422/api"
+ },
+ {
+  "id": "423",
+  "url": "https://geoportal.saarland.de/spatial-objects/423",
+  "name": "WEA_sensible_Vogelarten_WFS",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/423/api"
+ },
+ {
+  "id": "424",
+  "url": "https://geoportal.saarland.de/spatial-objects/424",
+  "name": "PV_Freiflaechenkataster_Schmelz",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/424/api"
  }
 ]

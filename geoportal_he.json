@@ -1,15 +1,159 @@
 [
  {
+  "id": "262",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/262",
+  "name": "Gewässernetz Hessen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/262/api"
+ },
+ {
+  "id": "264",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/264",
+  "name": "Gebiete naturbedingter Risiken Hessen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/264/api"
+ },
+ {
+  "id": "265",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/265",
+  "name": "Produktions- und Industrieanlagen Hessen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/265/api"
+ },
+ {
+  "id": "267",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/267",
+  "name": "Lebensräume und Biotope in Hessen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/267/api"
+ },
+ {
+  "id": "268",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/268",
+  "name": "Geologie Hessen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/268/api"
+ },
+ {
+  "id": "269",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/269",
+  "name": "Umweltüberwachung Hessen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/269/api"
+ },
+ {
+  "id": "272",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/272",
+  "name": "Bewirtschaftungsgebiete Hessen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/272/api"
+ },
+ {
   "id": "342",
   "url": "https://www.geoportal.hessen.de/spatial-objects/342",
-  "name": "LfDH WFS Dienste",
+  "name": "WFS Denkmalschutz Hessen (INSPIRE)",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/342/api"
+ },
+ {
+  "id": "373",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/373",
+  "name": "Boden Hessen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/373/api"
+ },
+ {
+  "id": "408",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/408",
+  "name": "Bebauungspläne Stadt Alsfeld",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/408/api"
+ },
+ {
+  "id": "409",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/409",
+  "name": "Bebauungspläne Gemeinde Antrifttal",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/409/api"
+ },
+ {
+  "id": "410",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/410",
+  "name": "Bebauungspläne Gemeinde Feldatal",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/410/api"
+ },
+ {
+  "id": "411",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/411",
+  "name": "Bebauungspläne Freiensteinau",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/411/api"
+ },
+ {
+  "id": "412",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/412",
+  "name": "Bebauungspläne Stadt Grebenau",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/412/api"
+ },
+ {
+  "id": "413",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/413",
+  "name": "Bebauungspläne Gemeinde Grebenhain",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/413/api"
+ },
+ {
+  "id": "414",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/414",
+  "name": "Bebauungspläne Stadt Herbstein",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/414/api"
+ },
+ {
+  "id": "415",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/415",
+  "name": "Bebauungspläne Stadt Homberg (Ohm)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/415/api"
+ },
+ {
+  "id": "416",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/416",
+  "name": "Bebauungspläne Stadt Kirtorf",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/416/api"
+ },
+ {
+  "id": "417",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/417",
+  "name": "Bebauungspläne Gemeinde Lautertal",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/417/api"
+ },
+ {
+  "id": "418",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/418",
+  "name": "Bebauungspläne der Gemeinde Mücke",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/418/api"
+ },
+ {
+  "id": "419",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/419",
+  "name": "Bebauungspläne der Stadt Romrod",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/419/api"
+ },
+ {
+  "id": "420",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/420",
+  "name": "Bebauungspläne Stadt Schlitz",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/420/api"
  },
  {
   "id": "421",
   "url": "https://www.geoportal.hessen.de/spatial-objects/421",
   "name": "Bebauungspläne Schwalmtal",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/421/api"
+ },
+ {
+  "id": "422",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/422",
+  "name": "Bebauungspläne Stadt Ulrichstein",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/422/api"
+ },
+ {
+  "id": "423",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/423",
+  "name": "Bebauungspläne Gemeinde Wartenberg",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/423/api"
+ },
+ {
+  "id": "467",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/467",
+  "name": "Bebauungspläne Gemünden (Felda)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/467/api"
  },
  {
   "id": "478",
@@ -20,14 +164,38 @@
  {
   "id": "479",
   "url": "https://www.geoportal.hessen.de/spatial-objects/479",
-  "name": "RegFNP Hauptkarte Planstand 31.12.2023 WFS",
+  "name": "Regionaler Flächennutzungsplan Planstand als WFS",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/479/api"
  },
  {
-  "id": "502",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/502",
-  "name": "Flächennutzungspläne Stadt Lauterbach",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/502/api"
+  "id": "486",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/486",
+  "name": "Flächennutzungspläne Gemeinde Feldatal",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/486/api"
+ },
+ {
+  "id": "487",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/487",
+  "name": "Flächennutzungspläne Gemeinde Antrifttal",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/487/api"
+ },
+ {
+  "id": "494",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/494",
+  "name": "Flächennutzungspläne Stadt Kirtorf",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/494/api"
+ },
+ {
+  "id": "499",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/499",
+  "name": "Flächennutzungspläne Gemeinde Schwalmtal",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/499/api"
+ },
+ {
+  "id": "500",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/500",
+  "name": "Flächennutzungspläne Stadt Ulrichstein",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/500/api"
  },
  {
   "id": "505",
@@ -354,12 +522,6 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/706/api"
  },
  {
-  "id": "707",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/707",
-  "name": "INSPIRE-WFS HE Boden ALKIS",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/707/api"
- },
- {
   "id": "708",
   "url": "https://www.geoportal.hessen.de/spatial-objects/708",
   "name": "INSPIRE-WFS HE Bodenbedeckungsvektor ALKIS",
@@ -384,12 +546,6 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/711/api"
  },
  {
-  "id": "712",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/712",
-  "name": "INSPIRE-WFS HE Gebäude - 2D ATKIS Basis-DLM",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/712/api"
- },
- {
   "id": "714",
   "url": "https://www.geoportal.hessen.de/spatial-objects/714",
   "name": "INSPIRE-WFS HE Geografische Bezeichnungen ALKIS",
@@ -402,28 +558,10 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/715/api"
  },
  {
-  "id": "716",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/716",
-  "name": "INSPIRE-WFS HE Geografische Bezeichnungen ATKIS DLM50",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/716/api"
- },
- {
   "id": "717",
   "url": "https://www.geoportal.hessen.de/spatial-objects/717",
   "name": "INSPIRE-WFS HE Hydro – Netzwerk ATKIS Basis-DLM",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/717/api"
- },
- {
-  "id": "718",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/718",
-  "name": "INSPIRE-WFS HE Hydro – Netzwerk ATKIS DLM50",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/718/api"
- },
- {
-  "id": "719",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/719",
-  "name": "INSPIRE-WFS HE Hydro – Physische Gewässer ALKIS",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/719/api"
  },
  {
   "id": "720",
@@ -432,46 +570,16 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/720/api"
  },
  {
-  "id": "721",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/721",
-  "name": "INSPIRE-WFS HE Hydro – Physische Gewässer ATKIS DLM50",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/721/api"
- },
- {
-  "id": "722",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/722",
-  "name": "INSPIRE-WFS HE Verkehrsnetze ALKIS",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/722/api"
- },
- {
   "id": "723",
   "url": "https://www.geoportal.hessen.de/spatial-objects/723",
   "name": "INSPIRE-WFS HE Verkehrsnetze ATKIS Basis-DLM",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/723/api"
  },
  {
-  "id": "724",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/724",
-  "name": "INSPIRE-WFS HE Verkehrsnetze ATKIS DLM50",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/724/api"
- },
- {
-  "id": "726",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/726",
-  "name": "INSPIRE-WFS HE Verwaltungseinheiten ALKIS",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/726/api"
- },
- {
   "id": "727",
   "url": "https://www.geoportal.hessen.de/spatial-objects/727",
   "name": "INSPIRE-WFS HE Verwaltungseinheiten ATKIS Basis-DLM",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/727/api"
- },
- {
-  "id": "728",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/728",
-  "name": "INSPIRE-WFS HE Verwaltungseinheiten ATKIS DLM50",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/728/api"
  },
  {
   "id": "730",
@@ -966,15 +1074,9 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/872/api"
  },
  {
-  "id": "873",
-  "url": "https://www.geoportal.hessen.de/spatial-objects/873",
-  "name": "Jagdbezirke Odenwaldkreis (V0.3)",
-  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/873/api"
- },
- {
   "id": "874",
   "url": "https://www.geoportal.hessen.de/spatial-objects/874",
-  "name": "Jagdbezirke",
+  "name": "Jagdbezirke Wetteraukreis",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/874/api"
  },
  {
@@ -988,5 +1090,185 @@
   "url": "https://www.geoportal.hessen.de/spatial-objects/885",
   "name": "Verwaltungsgrenzen Hessen",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/885/api"
+ },
+ {
+  "id": "886",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/886",
+  "name": "Invekos Geodaten",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/886/api"
+ },
+ {
+  "id": "887",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/887",
+  "name": "Schuleinzugsgebiete Vogelsbergkreis",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/887/api"
+ },
+ {
+  "id": "888",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/888",
+  "name": "Schulen im Vogelsbergkreis",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/888/api"
+ },
+ {
+  "id": "890",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/890",
+  "name": " Kommunale Boden- und Raumplanung Odenwaldkreis im XPlanGML",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/890/api"
+ },
+ {
+  "id": "893",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/893",
+  "name": "Jagdbezirke Odenwaldkreis (V1.0)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/893/api"
+ },
+ {
+  "id": "900",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/900",
+  "name": "Bebauungspläne der Stadt Schotten",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/900/api"
+ },
+ {
+  "id": "903",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/903",
+  "name": "INSPIRE Kommunale Boden- und Raumplanung Stadt Rüsselsheim am Main",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/903/api"
+ },
+ {
+  "id": "905",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/905",
+  "name": "Radverkehrsanlagen GDI-Südhessen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/905/api"
+ },
+ {
+  "id": "906",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/906",
+  "name": " Kommunale Boden- und Raumplanung Stadt Rüsselsheim am Main im XPlanGML",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/906/api"
+ },
+ {
+  "id": "907",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/907",
+  "name": "INSPIRE  Radverkehrsanlagen GDI-Südhessen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/907/api"
+ },
+ {
+  "id": "908",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/908",
+  "name": "Schulen Main-Taunus-Kreis",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/908/api"
+ },
+ {
+  "id": "909",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/909",
+  "name": "INSPIRE Schulen Main-Taunus-Kreis",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/909/api"
+ },
+ {
+  "id": "910",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/910",
+  "name": "Taunusstein, Rothehustert / Im Dornbusch, 1. Änderung (XPlanung)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/910/api"
+ },
+ {
+  "id": "912",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/912",
+  "name": "INSPIRE Taunusstein, Rothehustert / Im Dornbusch, 1. Änderung (XPlanung)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/912/api"
+ },
+ {
+  "id": "913",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/913",
+  "name": "WFS Grenzen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/913/api"
+ },
+ {
+  "id": "914",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/914",
+  "name": "WFS Topografie",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/914/api"
+ },
+ {
+  "id": "915",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/915",
+  "name": "WFS Universelle Hot- und Coldspots",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/915/api"
+ },
+ {
+  "id": "916",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/916",
+  "name": "WFS Räumliche Handlungsschwerpunkte (mit Indizfunktion)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/916/api"
+ },
+ {
+  "id": "917",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/917",
+  "name": "WFS Vereinfachte lokale Klimazonen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/917/api"
+ },
+ {
+  "id": "918",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/918",
+  "name": "WFS Einwohner (Zensus 2022)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/918/api"
+ },
+ {
+  "id": "919",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/919",
+  "name": "WFS Stadtstrukturtypen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/919/api"
+ },
+ {
+  "id": "920",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/920",
+  "name": "WFS Segmentierung",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/920/api"
+ },
+ {
+  "id": "921",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/921",
+  "name": "WFS Vulnerable Nutzungen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/921/api"
+ },
+ {
+  "id": "922",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/922",
+  "name": "WFS Ausgleichsräume der LWKA",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/922/api"
+ },
+ {
+  "id": "923",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/923",
+  "name": "WFS Blau-Grüne Indikatoren",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/923/api"
+ },
+ {
+  "id": "924",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/924",
+  "name": "WFS FF-PV-Potenzialflächenanalyse (Ergebnis)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/924/api"
+ },
+ {
+  "id": "925",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/925",
+  "name": "WFS Privilegierte und förderfähige Kulissen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/925/api"
+ },
+ {
+  "id": "929",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/929",
+  "name": "Schulen Odenwaldkreis",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/929/api"
+ },
+ {
+  "id": "931",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/931",
+  "name": "INSPIRE Biotop- und Nutzungstypen 2017-2019 Regionalverband FrankfurtRheinMain",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/931/api"
+ },
+ {
+  "id": "932",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/932",
+  "name": "Bebauungspläne Landkreis Fulda WFS",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/932/api"
  }
 ]
