@@ -1004,7 +1004,7 @@
  {
   "id": "835",
   "url": "https://www.geoportal.hessen.de/spatial-objects/835",
-  "name": "Änderungen des Regionalen Flächennutzungsplans FrankfurtRheinMain",
+  "name": "RegFNP2010 Aenderungen",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/835/api"
  },
  {
@@ -1270,5 +1270,161 @@
   "url": "https://www.geoportal.hessen.de/spatial-objects/932",
   "name": "Bebauungspläne Landkreis Fulda WFS",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/932/api"
+ },
+ {
+  "id": "935",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/935",
+  "name": "Rettungswachen Main-Kinzig-Kreis",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/935/api"
+ },
+ {
+  "id": "937",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/937",
+  "name": "INSPIRE Rettungswachen Main-Kinzig-Kreis",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/937/api"
+ },
+ {
+  "id": "940",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/940",
+  "name": "WFS-Dienst Bebauungspläne der Gemeinde Bad Salzschlirf (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/940/api"
+ },
+ {
+  "id": "942",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/942",
+  "name": "WFS-Dienst Flächennutzungsplan der Gemeinde Bad Salzschlirf (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/942/api"
+ },
+ {
+  "id": "944",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/944",
+  "name": "Flächennutzungspläne Landkreis Fulda WFS",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/944/api"
+ },
+ {
+  "id": "948",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/948",
+  "name": "WFS-Dienst Flächennutzungsplan der Gemeinde Dipperz (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/948/api"
+ },
+ {
+  "id": "949",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/949",
+  "name": "WFS-Dienst Bebauungspläne der Gemeinde Dipperz (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/949/api"
+ },
+ {
+  "id": "952",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/952",
+  "name": "WFS-Dienst Bebauungspläne der Gemeinde Ebersburg (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/952/api"
+ },
+ {
+  "id": "953",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/953",
+  "name": "WFS-Dienst Flächennutzungsplan der Gemeinde Ebersburg (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/953/api"
+ },
+ {
+  "id": "955",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/955",
+  "name": "WFS-Dienst Bebauungspläne der Gemeinde Hosenfeld (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/955/api"
+ },
+ {
+  "id": "957",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/957",
+  "name": "WFS-Dienst Flächennutzungsplan der Gemeinde Hosenfeld (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/957/api"
+ },
+ {
+  "id": "959",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/959",
+  "name": "WFS-Dienst Flächennutzungsplan der Marktgemeinde Hilders (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/959/api"
+ },
+ {
+  "id": "962",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/962",
+  "name": "WFS-Dienst Bebauungspläne der Gemeinde Neuhof (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/962/api"
+ },
+ {
+  "id": "964",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/964",
+  "name": "WFS-Dienst Flächennutzungsplan der Gemeinde Neuhof (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/964/api"
+ },
+ {
+  "id": "966",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/966",
+  "name": "WFS-Dienst Flächennutzungsplan der Stadt Gersfeld (Rhön) (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/966/api"
+ },
+ {
+  "id": "968",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/968",
+  "name": "WFS-Dienst Bebauungspläne der Stadt Gersfeld (Rhön) (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/968/api"
+ },
+ {
+  "id": "970",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/970",
+  "name": "WFS-Dienst Bebauungspläne der Gemeinde Nüsttal (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/970/api"
+ },
+ {
+  "id": "972",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/972",
+  "name": "WFS-Dienst Flächennutzungsplan der Gemeinde Nüsttal (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/972/api"
+ },
+ {
+  "id": "974",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/974",
+  "name": "WFS-Dienst Bebauungspläne der Gemeinde Rasdorf (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/974/api"
+ },
+ {
+  "id": "976",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/976",
+  "name": "WFS-Dienst Flächennutzungsplan der Gemeinde Rasdorf (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/976/api"
+ },
+ {
+  "id": "978",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/978",
+  "name": "WFS-Dienst Bebauungspläne der Gemeinde Petersberg (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/978/api"
+ },
+ {
+  "id": "980",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/980",
+  "name": "WFS-Dienst Flächennutzungsplan der Gemeinde Petersberg (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/980/api"
+ },
+ {
+  "id": "986",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/986",
+  "name": "WFS-Dienst Flächennutzungsplan der Stadt Hünfeld (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/986/api"
+ },
+ {
+  "id": "988",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/988",
+  "name": "WFS-Dienst Bebauungspläne der Stadt Hünfeld (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/988/api"
+ },
+ {
+  "id": "994",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/994",
+  "name": "WFS-Dienst Bebauungspläne der Gemeinde Künzell (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/994/api"
+ },
+ {
+  "id": "996",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/996",
+  "name": "WFS-Dienst Flächennutzungsplan der Gemeinde Künzell (INSPIRE)",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/996/api"
  }
 ]
