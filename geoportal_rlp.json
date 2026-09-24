@@ -84,12 +84,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/325/api"
  },
  {
-  "id": "332",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/332",
-  "name": "Stadt Koblenz: Digitale Kartierung der Denkmalliste",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/332/api"
- },
- {
   "id": "333",
   "url": "https://www.geoportal.rlp.de/spatial-objects/333",
   "name": "Test Boundaries",
@@ -540,12 +534,6 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/549/api"
  },
  {
-  "id": "550",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/550",
-  "name": "Rhein-Hunsrück-Kreis: Digitale Kartierung der Denkmalliste",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/550/api"
- },
- {
   "id": "557",
   "url": "https://www.geoportal.rlp.de/spatial-objects/557",
   "name": "Metadaten Bebauungspläne RP",
@@ -568,12 +556,6 @@
   "url": "https://www.geoportal.rlp.de/spatial-objects/560",
   "name": "DWD GeoServer WFS",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/560/api"
- },
- {
-  "id": "562",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/562",
-  "name": "COVID-19 Krisenmanagement MSAGD",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/562/api"
  },
  {
   "id": "563",
@@ -706,12 +688,6 @@
   "url": "https://www.geoportal.rlp.de/spatial-objects/594",
   "name": "Flurbereinigungsverfahren Rheinland-Pfalz",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/594/api"
- },
- {
-  "id": "595",
-  "url": "https://www.geoportal.rlp.de/spatial-objects/595",
-  "name": "WEA-Ausschlusszonen WOM",
-  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/595/api"
  },
  {
   "id": "597",
@@ -1010,7 +986,7 @@
  {
   "id": "665",
   "url": "https://www.geoportal.rlp.de/spatial-objects/665",
-  "name": "Denkmalliste der Landesdenkmalpflege, GDKE RLP",
+  "name": "Denkmalliste RLP, GDKE RLP",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/665/api"
  },
  {
@@ -1056,10 +1032,58 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/678/api"
  },
  {
+  "id": "679",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/679",
+  "name": "WFS Erholungswald Landesforsten RLP",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/679/api"
+ },
+ {
   "id": "68",
   "url": "https://www.geoportal.rlp.de/spatial-objects/68",
   "name": "My GeoServer WFS",
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/68/api"
+ },
+ {
+  "id": "680",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/680",
+  "name": "WFS Trassenschutzwald Landesforsten RLP",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/680/api"
+ },
+ {
+  "id": "681",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/681",
+  "name": "WFS Sichtschutzwald Landesforsten RLP",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/681/api"
+ },
+ {
+  "id": "682",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/682",
+  "name": "WFS Immissionsschutzwald Landesforsten RLP",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/682/api"
+ },
+ {
+  "id": "683",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/683",
+  "name": "WFS Erosionsschutzwald Landesforsten RLP",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/683/api"
+ },
+ {
+  "id": "684",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/684",
+  "name": "WFS Klimaschutzwald Landesforsten RLP",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/684/api"
+ },
+ {
+  "id": "685",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/685",
+  "name": "WFS Laermschutzwald Landesforsten RLP",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/685/api"
+ },
+ {
+  "id": "686",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/686",
+  "name": "WFS Bodenrichtwertzonensuche 2026",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/686/api"
  },
  {
   "id": "74",
