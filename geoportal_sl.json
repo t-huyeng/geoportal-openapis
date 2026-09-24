@@ -600,12 +600,6 @@
   "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/399/api"
  },
  {
-  "id": "402",
-  "url": "https://geoportal.saarland.de/spatial-objects/402",
-  "name": "Premium SL: WFS SL ALKIS Vereinfacht",
-  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/402/api"
- },
- {
   "id": "403",
   "url": "https://geoportal.saarland.de/spatial-objects/403",
   "name": "INSPIRE-WFS SL Mineralische Bodenschätze",
@@ -724,5 +718,17 @@
   "url": "https://geoportal.saarland.de/spatial-objects/424",
   "name": "PV_Freiflaechenkataster_Schmelz",
   "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/424/api"
+ },
+ {
+  "id": "425",
+  "url": "https://geoportal.saarland.de/spatial-objects/425",
+  "name": "Waermeatlas",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/425/api"
+ },
+ {
+  "id": "426",
+  "url": "https://geoportal.saarland.de/spatial-objects/426",
+  "name": "Flurbereinigungsverfahren im Saarland",
+  "rawOpenAPI": "https://geoportal.saarland.de/spatial-objects/426/api"
  }
 ]
