@@ -30,6 +30,12 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/1011/api"
  },
  {
+  "id": "1016",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/1016",
+  "name": "WFS Strassendaten Hessen",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/1016/api"
+ },
+ {
   "id": "262",
   "url": "https://www.geoportal.hessen.de/spatial-objects/262",
   "name": "Gewässernetz Hessen",
@@ -210,10 +216,46 @@
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/487/api"
  },
  {
+  "id": "488",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/488",
+  "name": "Flächennutzungspläne Gemeinde Freiensteinau",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/488/api"
+ },
+ {
+  "id": "489",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/489",
+  "name": "Flächennutzungspläne Gemeinde Gemünden",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/489/api"
+ },
+ {
+  "id": "491",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/491",
+  "name": "Flächennutzungspläne Gemeinde Grebenhain",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/491/api"
+ },
+ {
+  "id": "492",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/492",
+  "name": "Flächennutzungspläne Stadt Grebenau",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/492/api"
+ },
+ {
   "id": "494",
   "url": "https://www.geoportal.hessen.de/spatial-objects/494",
   "name": "Flächennutzungspläne Stadt Kirtorf",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/494/api"
+ },
+ {
+  "id": "496",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/496",
+  "name": "Flächennutzungspläne Gemeinde Lautertal",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/496/api"
+ },
+ {
+  "id": "498",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/498",
+  "name": "Flächennutzungspläne Stadt Schotten",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/498/api"
  },
  {
   "id": "499",
@@ -226,6 +268,18 @@
   "url": "https://www.geoportal.hessen.de/spatial-objects/500",
   "name": "Flächennutzungspläne Stadt Ulrichstein",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/500/api"
+ },
+ {
+  "id": "501",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/501",
+  "name": "Flächennutzungspläne Gemeinde Wartenberg",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/501/api"
+ },
+ {
+  "id": "502",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/502",
+  "name": "Flächennutzungspläne Stadt Lauterbach",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/502/api"
  },
  {
   "id": "505",
@@ -1150,6 +1204,12 @@
   "url": "https://www.geoportal.hessen.de/spatial-objects/893",
   "name": "Jagdbezirke Odenwaldkreis (V1.0)",
   "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/893/api"
+ },
+ {
+  "id": "898",
+  "url": "https://www.geoportal.hessen.de/spatial-objects/898",
+  "name": "Bebauungspläne Stadt Lauterbach",
+  "rawOpenAPI": "https://www.geoportal.hessen.de/spatial-objects/898/api"
  },
  {
   "id": "900",
