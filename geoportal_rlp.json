@@ -1092,6 +1092,12 @@
   "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/693/api"
  },
  {
+  "id": "694",
+  "url": "https://www.geoportal.rlp.de/spatial-objects/694",
+  "name": "WEA-Ausschlusszonen WOM Z 163j LEP IV 4.TF",
+  "rawOpenAPI": "https://www.geoportal.rlp.de/spatial-objects/694/api"
+ },
+ {
   "id": "74",
   "url": "https://www.geoportal.rlp.de/spatial-objects/74",
   "name": "Behoerden Gazetteer",
